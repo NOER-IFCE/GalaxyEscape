@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "botao_de_configuracao",
+    "texture": "790eceb5-fbe7-4110-bb59-e4fe6d663961",
+    "atlas": "",
+    "rect": [
+      15,
+      17,
+      481,
+      481
+    ],
+    "offset": [
+      -0.5,
+      -1.5
+    ],
+    "originalSize": [
+      512,
+      512
+    ]
+  }
+}
