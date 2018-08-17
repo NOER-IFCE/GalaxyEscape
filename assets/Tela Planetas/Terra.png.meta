@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "6135f469-b790-4d4e-8b56-4ce9f9a0025f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Terra": {
+      "ver": "1.0.3",
+      "uuid": "1521b8e6-4cc0-4cc9-a465-007364ada691",
+      "rawTextureUuid": "6135f469-b790-4d4e-8b56-4ce9f9a0025f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 82,
+      "height": 82,
+      "rawWidth": 86,
+      "rawHeight": 86,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

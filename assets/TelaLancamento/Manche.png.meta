@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "48fee697-b050-49a4-ae05-211f945dfae5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Manche": {
+      "ver": "1.0.3",
+      "uuid": "b2722768-5419-427f-8bea-2d4eed44c18f",
+      "rawTextureUuid": "48fee697-b050-49a4-ae05-211f945dfae5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 62,
+      "height": 86,
+      "rawWidth": 62,
+      "rawHeight": 86,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
