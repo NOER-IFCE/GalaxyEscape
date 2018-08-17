@@ -1,0 +1,411 @@
+2018-08-16T15:29:52.755Z - normal: Load ~/.CocosCreator/settings.json
+2018-08-16T15:29:52.759Z - normal: checking language setting...
+2018-08-16T15:29:52.759Z - normal: Language: en
+2018-08-16T15:29:54.366Z - success: protocol editor-framework registered
+2018-08-16T15:29:54.366Z - success: protocol app registered
+2018-08-16T15:29:54.367Z - success: protocol theme registered
+2018-08-16T15:29:54.367Z - success: protocol packages registered
+2018-08-16T15:29:54.367Z - success: protocol unpack registerred
+2018-08-16T15:29:54.367Z - success: protocol disable-commonjs registerred
+2018-08-16T15:29:56.248Z - normal: connected!
+2018-08-16T15:29:56.249Z - normal: Check project C:\Users\thoma\Documents\GalaxyEscape
+2018-08-16T15:29:56.250Z - normal: Initializing project C:\Users\thoma\Documents\GalaxyEscape
+2018-08-16T15:29:56.262Z - normal: Initializing Cocos2d
+2018-08-16T15:29:57.491Z - normal: Initializing Asset Database
+2018-08-16T15:29:57.530Z - success: protocol uuid registerred
+2018-08-16T15:29:57.530Z - success: protocol db registerred
+2018-08-16T15:29:57.531Z - success: protocol thumbnail registerred
+2018-08-16T15:29:57.531Z - normal: Loading editor/builtin packages
+2018-08-16T15:29:57.639Z - success: assets loaded
+2018-08-16T15:29:57.640Z - success: builder loaded
+2018-08-16T15:29:57.642Z - success: cocos-analytics loaded
+2018-08-16T15:29:57.645Z - success: console loaded
+2018-08-16T15:29:57.677Z - success: fb-instant-games loaded
+2018-08-16T15:29:57.680Z - success: hierarchy loaded
+2018-08-16T15:29:57.683Z - success: inspector loaded
+2018-08-16T15:29:57.684Z - success: keystore loaded
+2018-08-16T15:29:57.688Z - success: node-library loaded
+2018-08-16T15:29:57.689Z - success: package-asset loaded
+2018-08-16T15:29:57.690Z - success: preferences loaded
+2018-08-16T15:29:57.692Z - success: project-exporter loaded
+2018-08-16T15:29:57.708Z - success: project-importer loaded
+2018-08-16T15:29:57.709Z - success: project-settings loaded
+2018-08-16T15:29:57.712Z - success: ui-kit loaded
+2018-08-16T15:29:57.714Z - success: scene loaded
+2018-08-16T15:29:57.715Z - success: sprite-editor loaded
+2018-08-16T15:29:57.717Z - success: store loaded
+2018-08-16T15:29:57.721Z - success: timeline loaded
+2018-08-16T15:29:57.721Z - normal: Loading builtin packages
+2018-08-16T15:29:57.730Z - success: asset-db-debugger loaded
+2018-08-16T15:29:57.738Z - success: code-editor loaded
+2018-08-16T15:29:57.741Z - success: color-picker loaded
+2018-08-16T15:29:57.758Z - success: package-manager loaded
+2018-08-16T15:29:57.761Z - success: qqplay-adapter loaded
+2018-08-16T15:29:57.777Z - success: sdkbox loaded
+2018-08-16T15:29:57.787Z - success: tester loaded
+2018-08-16T15:29:57.801Z - success: ui-grid loaded
+2018-08-16T15:29:57.808Z - success: ui-kit-preview-extra loaded
+2018-08-16T15:29:57.818Z - success: ui-kit-preview loaded
+2018-08-16T15:29:57.825Z - success: ui-tree loaded
+2018-08-16T15:29:57.837Z - success: weapp-adapter loaded
+2018-08-16T15:29:58.827Z - normal: Loading packages
+2018-08-16T15:29:58.832Z - normal: Watching packages
+2018-08-16T15:29:59.058Z - normal: Run Application
+2018-08-16T15:29:59.727Z - success: preview server running at http://localhost:7456
+2018-08-16T15:30:04.093Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
+    at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
+    at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
+    at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-08-16T15:30:04.093Z - success: ui-tree unloaded
+2018-08-16T15:30:04.094Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
+    at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
+    at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
+    at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-08-16T15:30:04.095Z - failed: Failed to uncache module main.js: Cannot find it.
+2018-08-16T15:30:04.095Z - success: ui-tree unloaded
+2018-08-16T15:30:04.101Z - failed: Failed to load panel "panel.preview" from "ui-tree", the panelID ui-tree.preview already exists
+2018-08-16T15:30:04.103Z - success: ui-tree loaded
+2018-08-16T15:30:04.103Z - success: ui-tree loaded
+2018-08-16T15:30:47.790Z - info: mount-assets does not exists in library
+2018-08-16T15:36:34.913Z - error: [db-task][sync-changes] Failed to delete asset C:\Users\thoma\Documents\GalaxyEscape\assets\OA Galaxy Escape\1x\Backgroundmdpi.png
+    at u.AssetDB.error (D:\CocosCreator\resources\app.asar\asset-db\lib\utils.js:1:2578)
+    at Tasks.clearImports (D:\CocosCreator\resources\app.asar\asset-db\core\watch.js:1:719)
+    at Object.Tasks.clearImports (D:\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:22739)
+    at n (D:\CocosCreator\resources\app.asar\asset-db\core\watch.js:1:675)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:181:20
+    at iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at Object.async.forEachOfSeries.async.eachOfSeries (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:281:9)
+    at Object.async.forEachSeries.async.eachSeries (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:214:22)
+    at Async.series.t (D:\CocosCreator\resources\app.asar\asset-db\core\watch.js:1:1313)
+2018-08-16T15:36:34.915Z - error: [db-task][sync-changes] Failed to delete asset C:\Users\thoma\Documents\GalaxyEscape\assets\OA Galaxy Escape\1x\botao_de_configuracao.png
+    at u.AssetDB.error (D:\CocosCreator\resources\app.asar\asset-db\lib\utils.js:1:2578)
+    at Tasks.clearImports (D:\CocosCreator\resources\app.asar\asset-db\core\watch.js:1:719)
+    at Object.Tasks.clearImports (D:\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:22739)
+    at n (D:\CocosCreator\resources\app.asar\asset-db\core\watch.js:1:675)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:181:20
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-08-16T15:36:34.916Z - error: [db-task][sync-changes] Failed to delete asset C:\Users\thoma\Documents\GalaxyEscape\assets\OA Galaxy Escape\1x\Créditos.png
+    at u.AssetDB.error (D:\CocosCreator\resources\app.asar\asset-db\lib\utils.js:1:2578)
+    at Tasks.clearImports (D:\CocosCreator\resources\app.asar\asset-db\core\watch.js:1:719)
+    at Object.Tasks.clearImports (D:\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:22739)
+    at n (D:\CocosCreator\resources\app.asar\asset-db\core\watch.js:1:675)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:181:20
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-08-16T15:36:34.916Z - error: [db-task][sync-changes] Failed to delete asset C:\Users\thoma\Documents\GalaxyEscape\assets\OA Galaxy Escape\1x\Iniciar.png
+    at u.AssetDB.error (D:\CocosCreator\resources\app.asar\asset-db\lib\utils.js:1:2578)
+    at Tasks.clearImports (D:\CocosCreator\resources\app.asar\asset-db\core\watch.js:1:719)
+    at Object.Tasks.clearImports (D:\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:22739)
+    at n (D:\CocosCreator\resources\app.asar\asset-db\core\watch.js:1:675)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:181:20
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-08-16T15:36:34.917Z - error: [db-task][sync-changes] Failed to delete asset C:\Users\thoma\Documents\GalaxyEscape\assets\OA Galaxy Escape\1x\Meteoro 1.png
+    at u.AssetDB.error (D:\CocosCreator\resources\app.asar\asset-db\lib\utils.js:1:2578)
+    at Tasks.clearImports (D:\CocosCreator\resources\app.asar\asset-db\core\watch.js:1:719)
+    at Object.Tasks.clearImports (D:\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:22739)
+    at n (D:\CocosCreator\resources\app.asar\asset-db\core\watch.js:1:675)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:181:20
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-08-16T15:36:34.919Z - error: [db-task][sync-changes] Failed to delete asset C:\Users\thoma\Documents\GalaxyEscape\assets\OA Galaxy Escape\1x\Meteoro 2.png
+    at u.AssetDB.error (D:\CocosCreator\resources\app.asar\asset-db\lib\utils.js:1:2578)
+    at Tasks.clearImports (D:\CocosCreator\resources\app.asar\asset-db\core\watch.js:1:719)
+    at Object.Tasks.clearImports (D:\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:22739)
+    at n (D:\CocosCreator\resources\app.asar\asset-db\core\watch.js:1:675)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:181:20
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-08-16T15:36:34.921Z - error: [db-task][sync-changes] Failed to delete asset C:\Users\thoma\Documents\GalaxyEscape\assets\OA Galaxy Escape\1x\Meteoro 3.png
+    at u.AssetDB.error (D:\CocosCreator\resources\app.asar\asset-db\lib\utils.js:1:2578)
+    at Tasks.clearImports (D:\CocosCreator\resources\app.asar\asset-db\core\watch.js:1:719)
+    at Object.Tasks.clearImports (D:\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:22739)
+    at n (D:\CocosCreator\resources\app.asar\asset-db\core\watch.js:1:675)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:181:20
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-08-16T15:36:34.923Z - error: [db-task][sync-changes] Failed to delete asset C:\Users\thoma\Documents\GalaxyEscape\assets\OA Galaxy Escape\1x\Saiba mais.png
+    at u.AssetDB.error (D:\CocosCreator\resources\app.asar\asset-db\lib\utils.js:1:2578)
+    at Tasks.clearImports (D:\CocosCreator\resources\app.asar\asset-db\core\watch.js:1:719)
+    at Object.Tasks.clearImports (D:\CocosCreator\resources\app.asar\asset-db\lib\tasks.js:1:22739)
+    at n (D:\CocosCreator\resources\app.asar\asset-db\core\watch.js:1:675)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:181:20
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-08-16T15:37:09.620Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/Tela Inicio/ezgif-5-61d5300a9f (2).png.meta
+2018-08-16T16:21:52.677Z - error: TypeError: Cannot read property 'target' of null
+    at HTMLElement._applyPopup (D:\CocosCreator\resources\app.asar\editor\builtin\inspector\panel\index.js:1:8545)
+    at asset._selectType._vm._vm.target.__dirty__._selectID.Editor.assetdb.queryInfoByUuid (D:\CocosCreator\resources\app.asar\editor\builtin\inspector\panel\index.js:1:8480)
+    at EventEmitter.ipcRenderer.on.n (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4603)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-08-16T16:30:04.654Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-08-16T16:30:10.081Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-08-16T16:34:13.891Z - error: Failed to apply "Canvas" because the prefab asset is missing, please save the prefab to a new asset by dragging and drop the node from Node Tree into Assets.
+    at Object.applyPrefab (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:5787)
+    at HTMLElement.apply-prefab (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene-operation.js:1:2864)
+    at Object.Panel._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:2283)
+    at EventEmitter.ipcRenderer.on.o (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4070)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-08-16T16:34:44.491Z - error: Failed to apply "Canvas" because the prefab asset is missing, please save the prefab to a new asset by dragging and drop the node from Node Tree into Assets.
+    at Object.applyPrefab (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\index.js:1:5787)
+    at HTMLElement.apply-prefab (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene-operation.js:1:2864)
+    at Object.Panel._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:2283)
+    at EventEmitter.ipcRenderer.on.o (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4070)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-08-16T16:35:51.271Z - warn: The Prefab used by node "Canvas" is missing. Detailed information:
+Node path: "Canvas"
+Missing uuid: "1e49b9a4-4063-4d33-aff1-7a8b7d05c3cc"
+
+2018-08-16T16:36:08.623Z - warn: The Asset used by node "Canvas" in scene "CenaPrincipal.fire" is missing. Detailed information:
+Node path: "Canvas"
+Asset url: "db://assets/Scenes/CenaPrincipal.fire"
+Missing uuid: "1e49b9a4-4063-4d33-aff1-7a8b7d05c3cc"
+
+2018-08-16T16:36:08.634Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-08-16T16:36:11.389Z - warn: The Asset used by node "Canvas" in scene "CenaPrincipal.fire" is missing. Detailed information:
+Node path: "Canvas"
+Asset url: "db://assets/Scenes/CenaPrincipal.fire"
+Missing uuid: "1e49b9a4-4063-4d33-aff1-7a8b7d05c3cc"
+
+2018-08-16T16:36:11.393Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-08-16T16:36:24.056Z - warn: The Asset used by node "Canvas" in scene "CenaPrincipal.fire" is missing. Detailed information:
+Node path: "Canvas"
+Asset url: "db://assets/Scenes/CenaPrincipal.fire"
+Missing uuid: "1e49b9a4-4063-4d33-aff1-7a8b7d05c3cc"
+
+2018-08-16T16:36:24.059Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-08-16T16:36:43.207Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-08-16T17:11:41.151Z - success: ui-kit unloaded
+2018-08-16T17:11:41.157Z - success: ui-kit loaded
+2018-08-16T17:12:28.250Z - error: Failed to remove menu in path: Developer/AssetDB Debugger (could not be found)
+    at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
+    at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
+    at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-08-16T17:12:28.250Z - success: asset-db-debugger unloaded
+2018-08-16T17:12:28.251Z - error: Failed to remove menu in path: Developer/AssetDB Debugger (could not be found)
+    at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
+    at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
+    at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-08-16T17:12:28.251Z - failed: Failed to uncache module main.js: Cannot find it.
+2018-08-16T17:12:28.251Z - success: asset-db-debugger unloaded
+2018-08-16T17:12:28.252Z - success: code-editor unloaded
+2018-08-16T17:12:28.252Z - failed: Failed to uncache module main.js: Cannot find it.
+2018-08-16T17:12:28.252Z - success: code-editor unloaded
+2018-08-16T17:12:28.252Z - success: color-picker unloaded
+2018-08-16T17:12:28.253Z - success: qqplay-adapter unloaded
+2018-08-16T17:12:28.256Z - success: sdkbox unloaded
+2018-08-16T17:12:28.256Z - error: Failed to remove menu in path: Extension/SDKBox/Launch (could not be found)
+    at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
+    at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
+    at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-08-16T17:12:28.256Z - failed: Failed to uncache module main.js: Cannot find it.
+2018-08-16T17:12:28.256Z - success: sdkbox unloaded
+2018-08-16T17:12:28.258Z - error: Failed to remove menu in path: Developer/UI Preview/ui-grid (could not be found)
+    at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
+    at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
+    at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-08-16T17:12:28.259Z - error: Failed to remove menu in path: Developer/UI Preview/ui-grid-webview (could not be found)
+    at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
+    at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
+    at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-08-16T17:12:28.259Z - success: ui-grid unloaded
+2018-08-16T17:12:28.260Z - error: Failed to remove menu in path: Developer/UI Preview/ui-grid (could not be found)
+    at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
+    at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
+    at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-08-16T17:12:28.261Z - error: Failed to remove menu in path: Developer/UI Preview/ui-grid-webview (could not be found)
+    at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
+    at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
+    at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-08-16T17:12:28.261Z - failed: Failed to uncache module main.js: Cannot find it.
+2018-08-16T17:12:28.261Z - success: ui-grid unloaded
+2018-08-16T17:12:28.264Z - success: ui-kit-preview-extra unloaded
+2018-08-16T17:12:28.265Z - error: Failed to remove menu in path: Developer/UI-Kit Preview Extra (could not be found)
+    at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
+    at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
+    at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-08-16T17:12:28.265Z - failed: Failed to uncache module main.js: Cannot find it.
+2018-08-16T17:12:28.265Z - success: ui-kit-preview-extra unloaded
+2018-08-16T17:12:28.268Z - success: ui-kit-preview unloaded
+2018-08-16T17:12:28.269Z - error: Failed to remove menu in path: Developer/UI-Kit Preview (could not be found)
+    at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
+    at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
+    at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-08-16T17:12:28.269Z - failed: Failed to uncache module main.js: Cannot find it.
+2018-08-16T17:12:28.269Z - success: ui-kit-preview unloaded
+2018-08-16T17:12:28.270Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
+    at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
+    at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
+    at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-08-16T17:12:28.270Z - success: ui-tree unloaded
+2018-08-16T17:12:28.271Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
+    at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
+    at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
+    at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-08-16T17:12:28.271Z - failed: Failed to uncache module main.js: Cannot find it.
+2018-08-16T17:12:28.271Z - success: ui-tree unloaded
+2018-08-16T17:12:28.272Z - success: weapp-adapter unloaded
+2018-08-16T17:12:28.277Z - failed: Failed to load panel "panel" from "asset-db-debugger", the panelID asset-db-debugger already exists
+2018-08-16T17:12:28.278Z - failed: Failed to load panel "panel" from "code-editor", the panelID code-editor already exists
+2018-08-16T17:12:28.283Z - error: Failed to add menu to Extension/SDKBox,
+          a menu item Extension/SDKBox/Launch you tried to add already exists
+    at Menu.add (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:1122)
+    at Object.MainMenu.add (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4273)
+    at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:2770)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-08-16T17:12:28.291Z - failed: Failed to load panel "panel.preview" from "ui-grid", the panelID ui-grid.preview already exists
+2018-08-16T17:12:28.291Z - failed: Failed to load panel "panel.preview-webview" from "ui-grid", the panelID ui-grid.preview-webview already exists
+2018-08-16T17:12:28.295Z - error: Failed to add menu to Developer,
+          a menu item Developer/UI-Kit Preview Extra you tried to add already exists
+    at Menu.add (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:1122)
+    at Object.MainMenu.add (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4273)
+    at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:2770)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-08-16T17:12:28.295Z - failed: Failed to load panel "panel" from "ui-kit-preview-extra", the panelID ui-kit-preview-extra already exists
+2018-08-16T17:12:28.299Z - error: Failed to add menu to Developer,
+          a menu item Developer/UI-Kit Preview you tried to add already exists
+    at Menu.add (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:1122)
+    at Object.MainMenu.add (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4273)
+    at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:2770)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-08-16T17:12:28.299Z - failed: Failed to load panel "panel" from "ui-kit-preview", the panelID ui-kit-preview already exists
+2018-08-16T17:12:28.303Z - failed: Failed to load panel "panel.preview" from "ui-tree", the panelID ui-tree.preview already exists
+2018-08-16T17:12:28.305Z - success: asset-db-debugger loaded
+2018-08-16T17:12:28.305Z - success: asset-db-debugger loaded
+2018-08-16T17:12:28.306Z - success: code-editor loaded
+2018-08-16T17:12:28.306Z - success: code-editor loaded
+2018-08-16T17:12:28.306Z - success: color-picker loaded
+2018-08-16T17:12:28.306Z - success: qqplay-adapter loaded
+2018-08-16T17:12:28.306Z - success: sdkbox loaded
+2018-08-16T17:12:28.306Z - success: sdkbox loaded
+2018-08-16T17:12:28.306Z - success: ui-grid loaded
+2018-08-16T17:12:28.306Z - success: ui-grid loaded
+2018-08-16T17:12:28.306Z - success: ui-kit-preview-extra loaded
+2018-08-16T17:12:28.307Z - success: ui-kit-preview-extra loaded
+2018-08-16T17:12:28.307Z - success: ui-kit-preview loaded
+2018-08-16T17:12:28.307Z - success: ui-kit-preview loaded
+2018-08-16T17:12:28.307Z - success: ui-tree loaded
+2018-08-16T17:12:28.307Z - success: ui-tree loaded
+2018-08-16T17:12:28.307Z - success: weapp-adapter loaded
+2018-08-16T17:12:33.391Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
+    at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
+    at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
+    at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-08-16T17:12:33.391Z - success: ui-tree unloaded
+2018-08-16T17:12:33.393Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
+    at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
+    at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
+    at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-08-16T17:12:33.393Z - failed: Failed to uncache module main.js: Cannot find it.
+2018-08-16T17:12:33.394Z - success: ui-tree unloaded
+2018-08-16T17:12:33.401Z - failed: Failed to load panel "panel.preview" from "ui-tree", the panelID ui-tree.preview already exists
+2018-08-16T17:12:33.404Z - success: ui-tree loaded
+2018-08-16T17:12:33.404Z - success: ui-tree loaded
+2018-08-16T17:17:28.829Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-08-16T17:18:02.699Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-08-16T18:23:58.342Z - info: shutdown preview server
