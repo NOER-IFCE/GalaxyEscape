@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Sol_Tela_dos_Planetas",
+    "texture": "57fb12d7-8625-4c6b-b09c-a950547d7ca9",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      638,
+      637
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      638,
+      637
+    ]
+  }
+}

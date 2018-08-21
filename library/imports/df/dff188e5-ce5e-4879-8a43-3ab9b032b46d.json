@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Venus_btn",
+    "texture": "9013ad02-c07d-4db1-82c5-31e395e1bd55",
+    "atlas": "",
+    "rect": [
+      0,
+      4,
+      135,
+      102
+    ],
+    "offset": [
+      -10,
+      -2
+    ],
+    "originalSize": [
+      155,
+      106
+    ]
+  }
+}

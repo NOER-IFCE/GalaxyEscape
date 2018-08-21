@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "barra",
+    "texture": "fe107842-bf74-4a99-a9e3-16d8843cffd0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      8,
+      313
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      8,
+      313
+    ]
+  }
+}
