@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ezgif-5-61d5300a9f",
+    "texture": "64edf585-9ad2-441a-8d28-267e672d9656",
+    "atlas": "",
+    "rect": [
+      15,
+      15,
+      656,
+      72
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      686,
+      102
+    ]
+  }
+}

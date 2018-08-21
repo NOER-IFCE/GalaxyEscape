@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "e04a9b4c-7526-49d8-a5e5-e789f018ee93",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Marte": {
+      "ver": "1.0.3",
+      "uuid": "6cdc0635-7633-404d-afe5-cde64af3fd5c",
+      "rawTextureUuid": "e04a9b4c-7526-49d8-a5e5-e789f018ee93",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 27,
+      "height": 27,
+      "rawWidth": 27,
+      "rawHeight": 27,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

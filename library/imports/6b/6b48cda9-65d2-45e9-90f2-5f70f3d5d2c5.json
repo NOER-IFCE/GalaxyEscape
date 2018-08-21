@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "meteoro_3",
+    "texture": "b2827b66-86a7-44c4-b0be-2dc153e97bef",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      114,
+      97
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      114,
+      97
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Mercurio",
+    "texture": "928d6d56-4c61-45de-a913-39d0c5ee5309",
+    "atlas": "",
+    "rect": [
+      23,
+      18,
+      54,
+      54
+    ],
+    "offset": [
+      2,
+      2.5
+    ],
+    "originalSize": [
+      96,
+      95
+    ]
+  }
+}

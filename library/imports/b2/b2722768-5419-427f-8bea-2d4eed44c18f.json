@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Manche",
+    "texture": "48fee697-b050-49a4-ae05-211f945dfae5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      62,
+      86
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      62,
+      86
+    ]
+  }
+}

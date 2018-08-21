@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "8a6a7b1c-3181-495b-bb45-783392420a05",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Foguete5": {
+      "ver": "1.0.3",
+      "uuid": "0772298b-8a65-489f-9d32-793effa6518d",
+      "rawTextureUuid": "8a6a7b1c-3181-495b-bb45-783392420a05",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 158,
+      "height": 100,
+      "rawWidth": 159,
+      "rawHeight": 100,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
