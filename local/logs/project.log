@@ -1,158 +1,53 @@
-2018-08-20T18:32:35.365Z - normal: Load ~/.CocosCreator/settings.json
-2018-08-20T18:32:35.369Z - normal: checking language setting...
-2018-08-20T18:32:35.369Z - normal: Language: en
-2018-08-20T18:32:36.822Z - success: protocol editor-framework registered
-2018-08-20T18:32:36.822Z - success: protocol app registered
-2018-08-20T18:32:36.822Z - success: protocol theme registered
-2018-08-20T18:32:36.822Z - success: protocol packages registered
-2018-08-20T18:32:36.822Z - success: protocol unpack registerred
-2018-08-20T18:32:36.822Z - success: protocol disable-commonjs registerred
-2018-08-20T18:32:38.010Z - normal: connected!
-2018-08-20T18:32:38.011Z - normal: Check project C:\Users\thoma\Documents\GalaxyEscape
-2018-08-20T18:32:38.013Z - normal: Initializing project C:\Users\thoma\Documents\GalaxyEscape
-2018-08-20T18:32:38.187Z - normal: Initializing Cocos2d
-2018-08-20T18:32:39.586Z - normal: Initializing Asset Database
-2018-08-20T18:32:39.653Z - success: protocol uuid registerred
-2018-08-20T18:32:39.654Z - success: protocol db registerred
-2018-08-20T18:32:39.654Z - success: protocol thumbnail registerred
-2018-08-20T18:32:39.654Z - normal: Loading editor/builtin packages
-2018-08-20T18:32:39.830Z - success: assets loaded
-2018-08-20T18:32:39.833Z - success: builder loaded
-2018-08-20T18:32:39.835Z - success: cocos-analytics loaded
-2018-08-20T18:32:39.839Z - success: console loaded
-2018-08-20T18:32:39.871Z - success: fb-instant-games loaded
-2018-08-20T18:32:39.876Z - success: hierarchy loaded
-2018-08-20T18:32:39.880Z - success: inspector loaded
-2018-08-20T18:32:39.882Z - success: keystore loaded
-2018-08-20T18:32:39.890Z - success: node-library loaded
-2018-08-20T18:32:39.891Z - success: package-asset loaded
-2018-08-20T18:32:39.893Z - success: preferences loaded
-2018-08-20T18:32:39.894Z - success: project-exporter loaded
-2018-08-20T18:32:39.913Z - success: project-importer loaded
-2018-08-20T18:32:39.915Z - success: project-settings loaded
-2018-08-20T18:32:39.917Z - success: ui-kit loaded
-2018-08-20T18:32:39.919Z - success: scene loaded
-2018-08-20T18:32:39.921Z - success: sprite-editor loaded
-2018-08-20T18:32:39.923Z - success: store loaded
-2018-08-20T18:32:39.928Z - success: timeline loaded
-2018-08-20T18:32:39.928Z - normal: Loading builtin packages
-2018-08-20T18:32:40.009Z - success: asset-db-debugger loaded
-2018-08-20T18:32:40.047Z - success: code-editor loaded
-2018-08-20T18:32:40.051Z - success: color-picker loaded
-2018-08-20T18:32:40.059Z - success: package-manager loaded
-2018-08-20T18:32:40.063Z - success: qqplay-adapter loaded
-2018-08-20T18:32:40.083Z - success: sdkbox loaded
-2018-08-20T18:32:40.097Z - success: tester loaded
-2018-08-20T18:32:40.109Z - success: ui-grid loaded
-2018-08-20T18:32:40.119Z - success: ui-kit-preview-extra loaded
-2018-08-20T18:32:40.137Z - success: ui-kit-preview loaded
-2018-08-20T18:32:40.145Z - success: ui-tree loaded
-2018-08-20T18:32:40.149Z - success: weapp-adapter loaded
-2018-08-20T18:32:41.630Z - normal: Loading packages
-2018-08-20T18:32:41.635Z - normal: Watching packages
-2018-08-20T18:32:41.985Z - normal: Run Application
-2018-08-20T18:32:44.239Z - success: preview server running at http://localhost:7456
-2018-08-20T18:32:49.243Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
-    at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
-    at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
-    at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
-    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
-    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
-    at runCallback (timers.js:672:20)
-    at tryOnImmediate (timers.js:645:5)
-    at processImmediate [as _immediateCallback] (timers.js:617:5)
-2018-08-20T18:32:49.244Z - success: ui-tree unloaded
-2018-08-20T18:32:49.245Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
-    at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
-    at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
-    at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
-    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
-    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
-    at runCallback (timers.js:672:20)
-    at tryOnImmediate (timers.js:645:5)
-    at processImmediate [as _immediateCallback] (timers.js:617:5)
-2018-08-20T18:32:49.245Z - failed: Failed to uncache module main.js: Cannot find it.
-2018-08-20T18:32:49.245Z - success: ui-tree unloaded
-2018-08-20T18:32:49.250Z - failed: Failed to load panel "panel.preview" from "ui-tree", the panelID ui-tree.preview already exists
-2018-08-20T18:32:49.252Z - success: ui-tree loaded
-2018-08-20T18:32:49.252Z - success: ui-tree loaded
-2018-08-20T18:39:10.521Z - normal: Start building with options : {
-  "actualPlatform": "Web Desktop",
-  "apiLevel": "",
-  "appABIs": [],
-  "appKey": "",
-  "appSecret": "",
-  "buildPath": "C:\\Users\\thoma\\Documents\\GalaxyEscape\\build",
-  "debug": false,
-  "dest": "C:\\Users\\thoma\\Documents\\GalaxyEscape\\build\\web-desktop",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeAnySDK": false,
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "jailbreakPlatform": false,
-  "md5Cache": false,
-  "mergeStartScene": false,
-  "oauthLoginServer": "",
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.GalaxyEscape",
-  "platform": "web-desktop",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "privateKey": "",
-  "qqplay": {
-    "REMOTE_SERVER_ROOT": "",
-    "orientation": "portrait"
-  },
-  "renderMode": "0",
-  "scenes": [
-    "6ba1630d-239f-4d4c-a012-e9df9752f155",
-    "71f1197b-5028-4a26-9c2c-e452c1960071",
-    "b043ec12-236b-4b87-a03c-666a614f025f",
-    "2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2"
-  ],
-  "sourceMaps": false,
-  "startScene": "6ba1630d-239f-4d4c-a012-e9df9752f155",
-  "template": "link",
-  "title": "GalaxyEscape",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "wechatgame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "wx6ac3f5090a6b99c5",
-    "isSubdomain": false,
-    "orientation": "portrait",
-    "subContext": ""
-  },
-  "xxteaKey": "c646f55f-e91e-47",
-  "zipCompressJs": true,
-  "project": "C:\\Users\\thoma\\Documents\\GalaxyEscape",
-  "projectName": "GalaxyEscape",
-  "debugBuildWorker": false
-}
-2018-08-20T18:39:10.524Z - normal: Building C:\Users\thoma\Documents\GalaxyEscape
-2018-08-20T18:39:10.525Z - normal: Destination C:\Users\thoma\Documents\GalaxyEscape\build\web-desktop
-2018-08-20T18:39:11.015Z - normal: Delete C:\Users\thoma\Documents\GalaxyEscape\build\web-desktop\**\*
-2018-08-20T18:39:46.319Z - normal: Start building assets
-2018-08-20T18:39:46.320Z - normal: Start spawn build-worker
-2018-08-20T18:39:47.084Z - normal: Finish spawn build-worker
-2018-08-20T18:39:47.085Z - normal: Start init build-worker
-2018-08-20T18:39:49.134Z - normal: Finish init build-worker
-2018-08-20T18:39:49.134Z - normal: Start build-assets in worker
-2018-08-20T18:39:49.558Z - normal: Finish build-assets in worker
-2018-08-20T18:39:49.563Z - normal: Finish building assets
-2018-08-20T18:39:49.577Z - normal: Start building plugin scripts
-2018-08-20T18:39:49.613Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
-2018-08-20T18:39:49.647Z - normal: Generating html from D:\CocosCreator\resources\static\build-templates\web-desktop\template\index.html
-2018-08-20T18:39:49.662Z - normal: Built to "C:\Users\thoma\Documents\GalaxyEscape\build\web-desktop" successfully
+2018-08-25T13:13:07.452Z - normal: Load ~/.CocosCreator/settings.json
+2018-08-25T13:13:07.456Z - normal: checking language setting...
+2018-08-25T13:13:07.456Z - normal: Language: en
+2018-08-25T13:13:08.894Z - success: protocol editor-framework registered
+2018-08-25T13:13:08.894Z - success: protocol app registered
+2018-08-25T13:13:08.894Z - success: protocol theme registered
+2018-08-25T13:13:08.894Z - success: protocol profile registered
+2018-08-25T13:13:08.894Z - success: protocol packages registered
+2018-08-25T13:13:08.894Z - success: protocol unpack registerred
+2018-08-25T13:13:08.895Z - success: protocol disable-commonjs registerred
+2018-08-25T13:13:11.891Z - normal: failed to connect login server due to request timeout
+2018-08-25T13:13:11.893Z - normal: Check project C:\Users\GAMIFICAR\Downloads\GalaxyEscape-master\GalaxyEscape-master
+2018-08-25T13:13:11.897Z - normal: Initializing Cocos2d
+2018-08-25T13:13:12.118Z - normal: Initializing Asset Database
+2018-08-25T13:13:12.150Z - success: protocol uuid registerred
+2018-08-25T13:13:12.151Z - success: protocol db registerred
+2018-08-25T13:13:12.151Z - success: protocol thumbnail registerred
+2018-08-25T13:13:12.151Z - normal: Loading editor/builtin packages
+2018-08-25T13:13:12.174Z - success: anysdk loaded
+2018-08-25T13:13:12.306Z - success: assets loaded
+2018-08-25T13:13:12.308Z - success: builder loaded
+2018-08-25T13:13:12.311Z - success: hierarchy loaded
+2018-08-25T13:13:12.314Z - success: inspector loaded
+2018-08-25T13:13:12.315Z - success: keystore loaded
+2018-08-25T13:13:12.317Z - success: node-library loaded
+2018-08-25T13:13:12.319Z - success: package-asset loaded
+2018-08-25T13:13:12.321Z - success: preferences loaded
+2018-08-25T13:13:12.334Z - success: project-importer loaded
+2018-08-25T13:13:12.336Z - success: project-settings loaded
+2018-08-25T13:13:12.338Z - success: ui-kit loaded
+2018-08-25T13:13:12.340Z - success: ui-grid loaded
+2018-08-25T13:13:12.343Z - success: scene loaded
+2018-08-25T13:13:12.344Z - success: sprite-editor loaded
+2018-08-25T13:13:12.347Z - success: store loaded
+2018-08-25T13:13:12.351Z - success: timeline loaded
+2018-08-25T13:13:12.351Z - normal: Loading builtin packages
+2018-08-25T13:13:12.353Z - success: asset-db-debugger loaded
+2018-08-25T13:13:12.354Z - success: code-editor loaded
+2018-08-25T13:13:12.355Z - success: color-picker loaded
+2018-08-25T13:13:12.358Z - success: console loaded
+2018-08-25T13:13:12.359Z - success: package-manager loaded
+2018-08-25T13:13:12.371Z - success: sdkbox loaded
+2018-08-25T13:13:12.373Z - success: tester loaded
+2018-08-25T13:13:12.375Z - success: ui-kit-preview-extra loaded
+2018-08-25T13:13:12.377Z - success: ui-kit-preview loaded
+2018-08-25T13:13:12.379Z - success: ui-tree loaded
+2018-08-25T13:13:13.318Z - normal: Initializing project C:\Users\GAMIFICAR\Downloads\GalaxyEscape-master\GalaxyEscape-master
+2018-08-25T13:13:13.327Z - normal: Loading packages
+2018-08-25T13:13:13.339Z - normal: Watching packages
+2018-08-25T13:13:13.353Z - normal: Run Application
+2018-08-25T13:13:13.869Z - success: preview server running at http://localhost:7456
+2018-08-25T13:13:17.662Z - normal: 1.5.1
+2018-08-25T13:13:30.089Z - info: shutdown preview server
