@@ -30,7 +30,7 @@
     "relativePath": "Scenes\\CenaPrincipal.fire"
   },
   "485d1944-295c-4875-964c-740abcd26190": {
-    "asset": 1535318248885,
+    "asset": 1535390992543,
     "meta": 1535318248862,
     "relativePath": "Tela Inicio"
   },
@@ -70,8 +70,8 @@
     "relativePath": "Tela Inicio\\Saiba mais.png"
   },
   "71f1197b-5028-4a26-9c2c-e452c1960071": {
-    "asset": 1535318248850,
-    "meta": 1535318375473,
+    "asset": 1535403792003,
+    "meta": 1535403792026,
     "relativePath": "Scenes\\LancamentoTerra.fire"
   },
   "8a477ba8-6946-4b55-9cdc-b5a7e4350fb3": {
@@ -290,7 +290,7 @@
     "relativePath": "Scripts\\btn_play.js"
   },
   "26f7c029-240c-4a2f-b25c-6e430c796dd2": {
-    "asset": 1535318248907,
+    "asset": 1535390300388,
     "meta": 1535318248886,
     "relativePath": "Tela Planetas"
   },
@@ -325,7 +325,7 @@
     "relativePath": "Tela Planetas\\Sol_Tela_dos_Planetas.png"
   },
   "53345558-144a-46b7-9cb1-6bca6a1048c1": {
-    "asset": 1535318248920,
+    "asset": 1535392657194,
     "meta": 1535318248912,
     "relativePath": "TelaLancamento"
   },
@@ -733,5 +733,45 @@
     "asset": 1535390300381,
     "meta": 1535390300438,
     "relativePath": "Tela Planetas\\Terra Selecionado.png"
+  },
+  "14461699-9a8e-4fdf-9ee0-eef7bfca0f71": {
+    "asset": 1535392647206,
+    "meta": 1535392647268,
+    "relativePath": "TelaLancamento\\Painel.png"
+  },
+  "266a3790-4702-47ff-9dd1-11a66b5b1700": {
+    "asset": 1535392657193,
+    "meta": 1535392657251,
+    "relativePath": "TelaLancamento\\teladelancamento2.png"
+  },
+  "723d1e5d-32f3-4557-9dbd-196287779ea5": {
+    "asset": 1535399397163,
+    "meta": 1535399397184,
+    "relativePath": "TelaLancamento\\addhover.png"
+  },
+  "42240e1c-9618-464d-8d05-6d4cbc88e4db": {
+    "asset": 1535399406279,
+    "meta": 1535399406299,
+    "relativePath": "TelaLancamento\\removehover.png"
+  },
+  "993fc55b-1999-4a70-bf07-fba680232685": {
+    "asset": 1535399593631,
+    "meta": 1535399593653,
+    "relativePath": "TelaLancamento\\Asset 7.png"
+  },
+  "7431f4d7-84b8-4021-af02-0ca995587f9f": {
+    "asset": 1535399660181,
+    "meta": 1535399660219,
+    "relativePath": "TelaLancamento\\remove.png"
+  },
+  "ae6c1eb0-240e-40d7-aaa5-6e8fdc6597ff": {
+    "asset": 1535401438701,
+    "meta": 1535401438732,
+    "relativePath": "TelaLancamento\\Bar.png"
+  },
+  "d75f5b4e-d943-4340-98aa-f10336f67166": {
+    "asset": 1535403070286,
+    "meta": 1535403070306,
+    "relativePath": "Font\\ka1.ttf"
   }
 }

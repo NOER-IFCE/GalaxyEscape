@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "teladelancamento2",
+    "texture": "266a3790-4702-47ff-9dd1-11a66b5b1700",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1294,
+      1143
+    ],
+    "offset": [
+      0,
+      3
+    ],
+    "originalSize": [
+      1294,
+      1149
+    ]
+  }
+}

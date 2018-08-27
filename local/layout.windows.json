@@ -45,23 +45,23 @@
                     "children": [
                       "scene"
                     ],
-                    "height": 526,
+                    "height": 659,
                     "type": "panel",
-                    "width": 723
+                    "width": 877
                   },
                   {
                     "active": 0,
                     "children": [
                       "node-library"
                     ],
-                    "height": 526,
+                    "height": 659,
                     "type": "panel",
-                    "width": 317
+                    "width": 385
                   }
                 ],
-                "height": 526,
+                "height": 659,
                 "type": "dock-h",
-                "width": 1043
+                "width": 1265
               },
               {
                 "active": 1,
@@ -69,14 +69,14 @@
                   "console",
                   "timeline"
                 ],
-                "height": 399,
+                "height": 266,
                 "type": "panel",
-                "width": 1043
+                "width": 1265
               }
             ],
             "height": 928,
             "type": "dock-v",
-            "width": 1043
+            "width": 1265
           },
           {
             "active": 0,
@@ -85,7 +85,7 @@
             ],
             "height": 928,
             "type": "panel",
-            "width": 526
+            "width": 304
           }
         ],
         "type": "dock-h"
@@ -98,6 +98,30 @@
         "inspector",
         "assets",
         "scene"
+      ]
+    },
+    "window-1535400150527": {
+      "main": false,
+      "url": "unpack://static/window.html",
+      "windowType": "dockable",
+      "x": 702,
+      "y": 240,
+      "width": 516,
+      "height": 539,
+      "layout": {
+        "type": "dock-v",
+        "children": [
+          {
+            "type": "panel",
+            "active": 0,
+            "children": [
+              "sprite-editor"
+            ]
+          }
+        ]
+      },
+      "panels": [
+        "sprite-editor"
       ]
     }
   },
