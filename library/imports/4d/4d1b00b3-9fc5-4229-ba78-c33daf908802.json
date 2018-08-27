@@ -1,22 +1,22 @@
 {
   "__type__": "cc.SpriteFrame",
   "content": {
-    "name": "Glossy08",
-    "texture": "246b3b06-5aa5-429b-a3b8-03cc812dcf31",
+    "name": "Terra Selecionado",
+    "texture": "5c92f7eb-7fb2-4ca6-92f8-7acc24c27281",
     "atlas": "",
     "rect": [
-      0,
-      0,
-      600,
-      160
+      3,
+      3,
+      124,
+      124
     ],
     "offset": [
       0,
       0
     ],
     "originalSize": [
-      600,
-      160
+      130,
+      130
     ]
   }
 }

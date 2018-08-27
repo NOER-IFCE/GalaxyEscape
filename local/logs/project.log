@@ -1,53 +1,80 @@
-2018-08-25T13:13:07.452Z - normal: Load ~/.CocosCreator/settings.json
-2018-08-25T13:13:07.456Z - normal: checking language setting...
-2018-08-25T13:13:07.456Z - normal: Language: en
-2018-08-25T13:13:08.894Z - success: protocol editor-framework registered
-2018-08-25T13:13:08.894Z - success: protocol app registered
-2018-08-25T13:13:08.894Z - success: protocol theme registered
-2018-08-25T13:13:08.894Z - success: protocol profile registered
-2018-08-25T13:13:08.894Z - success: protocol packages registered
-2018-08-25T13:13:08.894Z - success: protocol unpack registerred
-2018-08-25T13:13:08.895Z - success: protocol disable-commonjs registerred
-2018-08-25T13:13:11.891Z - normal: failed to connect login server due to request timeout
-2018-08-25T13:13:11.893Z - normal: Check project C:\Users\GAMIFICAR\Downloads\GalaxyEscape-master\GalaxyEscape-master
-2018-08-25T13:13:11.897Z - normal: Initializing Cocos2d
-2018-08-25T13:13:12.118Z - normal: Initializing Asset Database
-2018-08-25T13:13:12.150Z - success: protocol uuid registerred
-2018-08-25T13:13:12.151Z - success: protocol db registerred
-2018-08-25T13:13:12.151Z - success: protocol thumbnail registerred
-2018-08-25T13:13:12.151Z - normal: Loading editor/builtin packages
-2018-08-25T13:13:12.174Z - success: anysdk loaded
-2018-08-25T13:13:12.306Z - success: assets loaded
-2018-08-25T13:13:12.308Z - success: builder loaded
-2018-08-25T13:13:12.311Z - success: hierarchy loaded
-2018-08-25T13:13:12.314Z - success: inspector loaded
-2018-08-25T13:13:12.315Z - success: keystore loaded
-2018-08-25T13:13:12.317Z - success: node-library loaded
-2018-08-25T13:13:12.319Z - success: package-asset loaded
-2018-08-25T13:13:12.321Z - success: preferences loaded
-2018-08-25T13:13:12.334Z - success: project-importer loaded
-2018-08-25T13:13:12.336Z - success: project-settings loaded
-2018-08-25T13:13:12.338Z - success: ui-kit loaded
-2018-08-25T13:13:12.340Z - success: ui-grid loaded
-2018-08-25T13:13:12.343Z - success: scene loaded
-2018-08-25T13:13:12.344Z - success: sprite-editor loaded
-2018-08-25T13:13:12.347Z - success: store loaded
-2018-08-25T13:13:12.351Z - success: timeline loaded
-2018-08-25T13:13:12.351Z - normal: Loading builtin packages
-2018-08-25T13:13:12.353Z - success: asset-db-debugger loaded
-2018-08-25T13:13:12.354Z - success: code-editor loaded
-2018-08-25T13:13:12.355Z - success: color-picker loaded
-2018-08-25T13:13:12.358Z - success: console loaded
-2018-08-25T13:13:12.359Z - success: package-manager loaded
-2018-08-25T13:13:12.371Z - success: sdkbox loaded
-2018-08-25T13:13:12.373Z - success: tester loaded
-2018-08-25T13:13:12.375Z - success: ui-kit-preview-extra loaded
-2018-08-25T13:13:12.377Z - success: ui-kit-preview loaded
-2018-08-25T13:13:12.379Z - success: ui-tree loaded
-2018-08-25T13:13:13.318Z - normal: Initializing project C:\Users\GAMIFICAR\Downloads\GalaxyEscape-master\GalaxyEscape-master
-2018-08-25T13:13:13.327Z - normal: Loading packages
-2018-08-25T13:13:13.339Z - normal: Watching packages
-2018-08-25T13:13:13.353Z - normal: Run Application
-2018-08-25T13:13:13.869Z - success: preview server running at http://localhost:7456
-2018-08-25T13:13:17.662Z - normal: 1.5.1
-2018-08-25T13:13:30.089Z - info: shutdown preview server
+2018-08-27T15:35:58.358Z - normal: Load ~/.CocosCreator/settings.json
+2018-08-27T15:35:58.362Z - normal: checking language setting...
+2018-08-27T15:35:58.362Z - normal: Language: en
+2018-08-27T15:36:00.391Z - success: protocol editor-framework registered
+2018-08-27T15:36:00.391Z - success: protocol app registered
+2018-08-27T15:36:00.391Z - success: protocol theme registered
+2018-08-27T15:36:00.391Z - success: protocol packages registered
+2018-08-27T15:36:00.391Z - success: protocol unpack registerred
+2018-08-27T15:36:00.391Z - success: protocol disable-commonjs registerred
+2018-08-27T15:36:02.165Z - normal: connected!
+2018-08-27T15:36:02.166Z - normal: Check project C:\Users\thoma\Documents\GitHub\GalaxyEscape
+2018-08-27T15:36:02.167Z - normal: Initializing project C:\Users\thoma\Documents\GitHub\GalaxyEscape
+2018-08-27T15:36:02.172Z - normal: Initializing Cocos2d
+2018-08-27T15:36:03.444Z - normal: Initializing Asset Database
+2018-08-27T15:36:03.518Z - success: protocol uuid registerred
+2018-08-27T15:36:03.518Z - success: protocol db registerred
+2018-08-27T15:36:03.518Z - success: protocol thumbnail registerred
+2018-08-27T15:36:03.519Z - normal: Loading editor/builtin packages
+2018-08-27T15:36:03.783Z - success: assets loaded
+2018-08-27T15:36:03.786Z - success: builder loaded
+2018-08-27T15:36:03.788Z - success: cocos-analytics loaded
+2018-08-27T15:36:03.799Z - success: console loaded
+2018-08-27T15:36:03.847Z - success: fb-instant-games loaded
+2018-08-27T15:36:03.857Z - success: hierarchy loaded
+2018-08-27T15:36:03.862Z - success: inspector loaded
+2018-08-27T15:36:03.866Z - success: keystore loaded
+2018-08-27T15:36:03.870Z - success: node-library loaded
+2018-08-27T15:36:03.872Z - success: package-asset loaded
+2018-08-27T15:36:03.873Z - success: preferences loaded
+2018-08-27T15:36:03.874Z - success: project-exporter loaded
+2018-08-27T15:36:03.892Z - success: project-importer loaded
+2018-08-27T15:36:03.898Z - success: project-settings loaded
+2018-08-27T15:36:03.902Z - success: ui-kit loaded
+2018-08-27T15:36:03.905Z - success: scene loaded
+2018-08-27T15:36:03.906Z - success: sprite-editor loaded
+2018-08-27T15:36:03.909Z - success: store loaded
+2018-08-27T15:36:03.917Z - success: timeline loaded
+2018-08-27T15:36:03.918Z - normal: Loading builtin packages
+2018-08-27T15:36:03.968Z - success: asset-db-debugger loaded
+2018-08-27T15:36:03.996Z - success: code-editor loaded
+2018-08-27T15:36:03.999Z - success: color-picker loaded
+2018-08-27T15:36:04.010Z - success: package-manager loaded
+2018-08-27T15:36:04.011Z - success: qqplay-adapter loaded
+2018-08-27T15:36:04.052Z - success: sdkbox loaded
+2018-08-27T15:36:04.064Z - success: tester loaded
+2018-08-27T15:36:04.071Z - success: ui-grid loaded
+2018-08-27T15:36:04.087Z - success: ui-kit-preview-extra loaded
+2018-08-27T15:36:04.103Z - success: ui-kit-preview loaded
+2018-08-27T15:36:04.111Z - success: ui-tree loaded
+2018-08-27T15:36:04.116Z - success: weapp-adapter loaded
+2018-08-27T15:36:05.462Z - normal: Loading packages
+2018-08-27T15:36:05.467Z - normal: Watching packages
+2018-08-27T15:36:05.754Z - normal: Run Application
+2018-08-27T15:36:07.905Z - success: preview server running at http://localhost:7456
+2018-08-27T15:36:12.666Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
+    at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
+    at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
+    at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-08-27T15:36:12.667Z - success: ui-tree unloaded
+2018-08-27T15:36:12.667Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
+    at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
+    at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
+    at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-08-27T15:36:12.668Z - failed: Failed to uncache module main.js: Cannot find it.
+2018-08-27T15:36:12.668Z - success: ui-tree unloaded
+2018-08-27T15:36:12.673Z - failed: Failed to load panel "panel.preview" from "ui-tree", the panelID ui-tree.preview already exists
+2018-08-27T15:36:12.675Z - success: ui-tree loaded
+2018-08-27T15:36:12.675Z - success: ui-tree loaded
+2018-08-27T17:19:10.008Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-08-27T17:19:10.009Z - normal: ScaleX != ScaleY. Don't know which one to return

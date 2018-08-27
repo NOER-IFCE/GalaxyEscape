@@ -11,17 +11,16 @@ cc.Class({
         text: {
             default: '',
             multiline: true
-        }
-        // foo: {
-        //    default: null,
-        //    url: cc.Texture2D,  // optional, default is typeof default
-        //    serializable: true, // optional, default is true
-        //    visible: true,      // optional, default is true
-        //    displayName: 'Foo', // optional
-        //    readonly: false,    // optional, default is false
-        // },
-        // ...
-    },
+            // foo: {
+            //    default: null,
+            //    url: cc.Texture2D,  // optional, default is typeof default
+            //    serializable: true, // optional, default is true
+            //    visible: true,      // optional, default is true
+            //    displayName: 'Foo', // optional
+            //    readonly: false,    // optional, default is false
+            // },
+            // ...
+        } },
 
     // use this for initialization
     onLoad: function onLoad() {
@@ -30,6 +29,10 @@ cc.Class({
         });
     }
 
+    // called every frame
+    // update: function (dt) {
+
+    // },
 });
 
 cc._RF.pop();
