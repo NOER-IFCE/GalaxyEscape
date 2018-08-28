@@ -1,58 +1,58 @@
-2018-08-27T19:48:01.969Z - normal: Load ~/.CocosCreator/settings.json
-2018-08-27T19:48:01.974Z - normal: checking language setting...
-2018-08-27T19:48:01.974Z - normal: Language: en
-2018-08-27T19:48:03.363Z - success: protocol editor-framework registered
-2018-08-27T19:48:03.363Z - success: protocol app registered
-2018-08-27T19:48:03.363Z - success: protocol theme registered
-2018-08-27T19:48:03.363Z - success: protocol packages registered
-2018-08-27T19:48:03.363Z - success: protocol unpack registerred
-2018-08-27T19:48:03.363Z - success: protocol disable-commonjs registerred
-2018-08-27T19:48:05.026Z - normal: connected!
-2018-08-27T19:48:05.028Z - normal: Check project C:\Users\thoma\Documents\GitHub\GalaxyEscape
-2018-08-27T19:48:05.029Z - normal: Initializing project C:\Users\thoma\Documents\GitHub\GalaxyEscape
-2018-08-27T19:48:05.035Z - normal: Initializing Cocos2d
-2018-08-27T19:48:06.283Z - normal: Initializing Asset Database
-2018-08-27T19:48:06.314Z - success: protocol uuid registerred
-2018-08-27T19:48:06.314Z - success: protocol db registerred
-2018-08-27T19:48:06.314Z - success: protocol thumbnail registerred
-2018-08-27T19:48:06.314Z - normal: Loading editor/builtin packages
-2018-08-27T19:48:06.425Z - success: assets loaded
-2018-08-27T19:48:06.427Z - success: builder loaded
-2018-08-27T19:48:06.430Z - success: cocos-analytics loaded
-2018-08-27T19:48:06.433Z - success: console loaded
-2018-08-27T19:48:06.466Z - success: fb-instant-games loaded
-2018-08-27T19:48:06.470Z - success: hierarchy loaded
-2018-08-27T19:48:06.473Z - success: inspector loaded
-2018-08-27T19:48:06.473Z - success: keystore loaded
-2018-08-27T19:48:06.477Z - success: node-library loaded
-2018-08-27T19:48:06.478Z - success: package-asset loaded
-2018-08-27T19:48:06.480Z - success: preferences loaded
-2018-08-27T19:48:06.481Z - success: project-exporter loaded
-2018-08-27T19:48:06.498Z - success: project-importer loaded
-2018-08-27T19:48:06.500Z - success: project-settings loaded
-2018-08-27T19:48:06.502Z - success: ui-kit loaded
-2018-08-27T19:48:06.504Z - success: scene loaded
-2018-08-27T19:48:06.505Z - success: sprite-editor loaded
-2018-08-27T19:48:06.507Z - success: store loaded
-2018-08-27T19:48:06.511Z - success: timeline loaded
-2018-08-27T19:48:06.511Z - normal: Loading builtin packages
-2018-08-27T19:48:06.521Z - success: asset-db-debugger loaded
-2018-08-27T19:48:06.530Z - success: code-editor loaded
-2018-08-27T19:48:06.535Z - success: color-picker loaded
-2018-08-27T19:48:06.549Z - success: package-manager loaded
-2018-08-27T19:48:06.552Z - success: qqplay-adapter loaded
-2018-08-27T19:48:06.565Z - success: sdkbox loaded
-2018-08-27T19:48:06.576Z - success: tester loaded
-2018-08-27T19:48:06.585Z - success: ui-grid loaded
-2018-08-27T19:48:06.600Z - success: ui-kit-preview-extra loaded
-2018-08-27T19:48:06.617Z - success: ui-kit-preview loaded
-2018-08-27T19:48:06.627Z - success: ui-tree loaded
-2018-08-27T19:48:06.632Z - success: weapp-adapter loaded
-2018-08-27T19:48:07.633Z - normal: Loading packages
-2018-08-27T19:48:07.638Z - normal: Watching packages
-2018-08-27T19:48:07.934Z - normal: Run Application
-2018-08-27T19:48:09.360Z - success: preview server running at http://localhost:7456
-2018-08-27T19:48:13.783Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
+2018-08-28T15:00:38.472Z - normal: Load ~/.CocosCreator/settings.json
+2018-08-28T15:00:38.476Z - normal: checking language setting...
+2018-08-28T15:00:38.476Z - normal: Language: en
+2018-08-28T15:00:39.936Z - success: protocol editor-framework registered
+2018-08-28T15:00:39.936Z - success: protocol app registered
+2018-08-28T15:00:39.936Z - success: protocol theme registered
+2018-08-28T15:00:39.936Z - success: protocol packages registered
+2018-08-28T15:00:39.937Z - success: protocol unpack registerred
+2018-08-28T15:00:39.937Z - success: protocol disable-commonjs registerred
+2018-08-28T15:00:41.325Z - normal: connected!
+2018-08-28T15:00:41.326Z - normal: Check project C:\Users\thoma\Documents\GitHub\GalaxyEscape
+2018-08-28T15:00:41.327Z - normal: Initializing project C:\Users\thoma\Documents\GitHub\GalaxyEscape
+2018-08-28T15:00:41.336Z - normal: Initializing Cocos2d
+2018-08-28T15:00:42.379Z - normal: Initializing Asset Database
+2018-08-28T15:00:42.409Z - success: protocol uuid registerred
+2018-08-28T15:00:42.409Z - success: protocol db registerred
+2018-08-28T15:00:42.409Z - success: protocol thumbnail registerred
+2018-08-28T15:00:42.409Z - normal: Loading editor/builtin packages
+2018-08-28T15:00:42.514Z - success: assets loaded
+2018-08-28T15:00:42.515Z - success: builder loaded
+2018-08-28T15:00:42.517Z - success: cocos-analytics loaded
+2018-08-28T15:00:42.520Z - success: console loaded
+2018-08-28T15:00:42.551Z - success: fb-instant-games loaded
+2018-08-28T15:00:42.554Z - success: hierarchy loaded
+2018-08-28T15:00:42.557Z - success: inspector loaded
+2018-08-28T15:00:42.558Z - success: keystore loaded
+2018-08-28T15:00:42.561Z - success: node-library loaded
+2018-08-28T15:00:42.562Z - success: package-asset loaded
+2018-08-28T15:00:42.563Z - success: preferences loaded
+2018-08-28T15:00:42.565Z - success: project-exporter loaded
+2018-08-28T15:00:42.580Z - success: project-importer loaded
+2018-08-28T15:00:42.582Z - success: project-settings loaded
+2018-08-28T15:00:42.583Z - success: ui-kit loaded
+2018-08-28T15:00:42.586Z - success: scene loaded
+2018-08-28T15:00:42.586Z - success: sprite-editor loaded
+2018-08-28T15:00:42.588Z - success: store loaded
+2018-08-28T15:00:42.591Z - success: timeline loaded
+2018-08-28T15:00:42.592Z - normal: Loading builtin packages
+2018-08-28T15:00:42.600Z - success: asset-db-debugger loaded
+2018-08-28T15:00:42.608Z - success: code-editor loaded
+2018-08-28T15:00:42.611Z - success: color-picker loaded
+2018-08-28T15:00:42.619Z - success: package-manager loaded
+2018-08-28T15:00:42.623Z - success: qqplay-adapter loaded
+2018-08-28T15:00:42.638Z - success: sdkbox loaded
+2018-08-28T15:00:42.648Z - success: tester loaded
+2018-08-28T15:00:42.656Z - success: ui-grid loaded
+2018-08-28T15:00:42.661Z - success: ui-kit-preview-extra loaded
+2018-08-28T15:00:42.673Z - success: ui-kit-preview loaded
+2018-08-28T15:00:42.681Z - success: ui-tree loaded
+2018-08-28T15:00:42.684Z - success: weapp-adapter loaded
+2018-08-28T15:00:43.579Z - normal: Loading packages
+2018-08-28T15:00:43.584Z - normal: Watching packages
+2018-08-28T15:00:43.818Z - normal: Run Application
+2018-08-28T15:00:45.012Z - success: preview server running at http://localhost:7456
+2018-08-28T15:00:49.633Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
     at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
     at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
     at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
@@ -61,8 +61,8 @@
     at runCallback (timers.js:672:20)
     at tryOnImmediate (timers.js:645:5)
     at processImmediate [as _immediateCallback] (timers.js:617:5)
-2018-08-27T19:48:13.784Z - success: ui-tree unloaded
-2018-08-27T19:48:13.785Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
+2018-08-28T15:00:49.634Z - success: ui-tree unloaded
+2018-08-28T15:00:49.634Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
     at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
     at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
     at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
@@ -71,123 +71,22 @@
     at runCallback (timers.js:672:20)
     at tryOnImmediate (timers.js:645:5)
     at processImmediate [as _immediateCallback] (timers.js:617:5)
-2018-08-27T19:48:13.785Z - failed: Failed to uncache module main.js: Cannot find it.
-2018-08-27T19:48:13.785Z - success: ui-tree unloaded
-2018-08-27T19:48:13.792Z - failed: Failed to load panel "panel.preview" from "ui-tree", the panelID ui-tree.preview already exists
-2018-08-27T19:48:13.793Z - success: ui-tree loaded
-2018-08-27T19:48:13.793Z - success: ui-tree loaded
-2018-08-27T19:51:13.812Z - error: NetworkError: A network error occurred.
-    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\uuid-loader.js:152:28
-    at LoadingItems.onComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:301:9)
-    at LoadingItems.proto.allComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\loading-items.js:528:14)
-    at LoadingItems.proto.itemComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\loading-items.js:716:14)
-    at Function.LoadingItems.itemComplete (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\loading-items.js:379:15)
-    at CCLoader.proto.flowOut (D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\pipeline.js:319:18)
-    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\pipeline.js:55:26
-    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\downloader.js:328:25
-    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\downloader.js:187:13
-2018-08-27T19:51:13.868Z - failed: Failed to drop asset df43a796-5187-4077-84b5-76042f5fb737, message: Error: [AssetLibrary] loading JSON or dependencies failed: undefined
-    at CCLoader.<anonymous> (D:\CocosCreator\resources\engine\cocos2d\core\platform\CCAssetLibrary.js:93:25)
-    at D:\CocosCreator\resources\engine\cocos2d\core\load-pipeline\CCLoader.js:258:38
-    at D:\CocosCreator\resources\engine\cocos2d\core\platform\utils.js:68:21
-    at _combinedTickCallback (internal/process/next_tick.js:73:7)
-    at process._tickCallback (internal/process/next_tick.js:104:9)
-2018-08-27T19:51:13.868Z - error: TypeError: Cannot read property 'setPosition' of undefined
-    at o.forEach.e (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils\scene.js:1:3688)
-    at Array.forEach (native)
-    at createNodes (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils\scene.js:1:3675)
-    at Promise.all.then.e (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils\scene.js:1:3497)
-    at <anonymous>
-    at process._tickCallback (internal/process/next_tick.js:109:7)
-2018-08-27T21:04:40.044Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2018-08-27T21:04:40.045Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
-2018-08-27T21:04:40.045Z - normal: Simulator: FRAME SCALE = 0.75
-2018-08-27T21:04:40.094Z - normal: Simulator: Ready for GLSL
-2018-08-27T21:04:40.094Z - normal: Simulator: Ready for OpenGL 2.0
-2018-08-27T21:04:40.094Z - normal: Simulator: 
-2018-08-27T21:04:40.094Z - normal: Simulator: {
-2018-08-27T21:04:40.094Z - normal: Simulator: 	gl.version: 4.5.0 - Build 24.20.100.6025
-2018-08-27T21:04:40.094Z - normal: Simulator: 	gl.supports_NPOT: true
-2018-08-27T21:04:40.095Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
-2018-08-27T21:04:40.095Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
-2018-08-27T21:04:40.095Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
-2018-08-27T21:04:40.095Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
-2018-08-27T21:04:40.095Z - normal: Simulator: 	gl.max_texture_size: 16384
-2018-08-27T21:04:40.095Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
-2018-08-27T21:04:40.095Z - normal: Simulator: 	gl.vendor: Intel
-2018-08-27T21:04:40.095Z - normal: Simulator: 	gl.renderer: Intel(R) UHD Graphics 630
-2018-08-27T21:04:40.095Z - normal: Simulator: 	gl.max_texture_units: 192
-2018-08-27T21:04:40.095Z - normal: Simulator: 	gl.supports_ETC1: false
-2018-08-27T21:04:40.095Z - normal: Simulator: 	gl.supports_PVRTC: false
-2018-08-27T21:04:40.095Z - normal: Simulator: 	gl.supports_BGRA8888: false
-2018-08-27T21:04:40.095Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
-2018-08-27T21:04:40.095Z - normal: Simulator: 	gl.supports_vertex_array_object: true
-2018-08-27T21:04:40.095Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
-2018-08-27T21:04:40.096Z - normal: Simulator: 	gl.supports_OES_depth24: false
-2018-08-27T21:04:40.096Z - normal: Simulator: }
-2018-08-27T21:04:40.096Z - normal: Simulator: 
-2018-08-27T21:04:40.096Z - normal: Simulator: 
-2018-08-27T21:04:40.096Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
-2018-08-27T21:04:40.096Z - normal: Simulator: Project Config:
-2018-08-27T21:04:40.096Z - normal: Simulator:     project dir: D:\CocosCreator\resources\cocos2d-x\simulator\win32\
-2018-08-27T21:04:40.097Z - normal: Simulator:     writable path: $(PROJDIR)\
-2018-08-27T21:04:40.097Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2018-08-27T21:04:40.097Z - normal: Simulator:     frame size: 720 x 1280
-2018-08-27T21:04:40.097Z - normal: Simulator:     frame scale: 0.75
-2018-08-27T21:04:40.097Z - normal: Simulator:     show console: NO
-2018-08-27T21:04:40.097Z - normal: Simulator:     write debug log: NO ()
-2018-08-27T21:04:40.097Z - normal: Simulator:     listen: 
-2018-08-27T21:04:40.097Z - normal: Simulator:     debugger: none
-2018-08-27T21:04:40.098Z - normal: Simulator:     add searching path:
-2018-08-27T21:04:40.098Z - normal: Simulator: 
-2018-08-27T21:04:40.099Z - normal: Simulator: 
-2018-08-27T21:04:40.099Z - normal: Simulator: 
-2018-08-27T21:04:40.100Z - normal: Simulator: ------------------------------------------------
-2018-08-27T21:04:40.100Z - normal: Simulator: LOAD Js FILE: main.js
-2018-08-27T21:04:40.100Z - normal: Simulator: ------------------------------------------------
-2018-08-27T21:04:40.102Z - normal: Simulator: D/jswrapper (365): Initializing V8, version: 6.0.286.52
-2018-08-27T21:04:40.390Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
-2018-08-27T21:04:40.391Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
-2018-08-27T21:04:40.391Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
-2018-08-27T21:04:40.850Z - normal: Simulator: iShow!
-2018-08-27T21:04:40.971Z - normal: Simulator: D/jswrapper (126): JS: InitScene: 2.245999999999981ms
-2018-08-27T21:04:40.974Z - normal: Simulator: D/jswrapper (126): JS: AutoRelease: 0.17799999999999727ms
-2018-08-27T21:04:40.974Z - normal: Simulator: D/jswrapper (126): JS: Destroy: 0.08899999999994179ms
-2018-08-27T21:04:40.974Z - normal: Simulator: D/jswrapper (126): JS: AttachPersist: 0.005999999999971806ms
-2018-08-27T21:04:41.002Z - normal: Simulator: D/jswrapper (126): JS: Activate: 27.892999999999915ms
-2018-08-27T21:04:42.368Z - normal: Simulator: D/jswrapper (126): JS: LoadScene 2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2: 82.83999999999992ms
-2018-08-27T21:04:42.369Z - normal: Simulator: D/jswrapper (126): JS: InitScene: 1.4050000000002ms
-2018-08-27T21:04:42.369Z - normal: Simulator: D/jswrapper (126): JS: AutoRelease: 0.021999999999934516ms
-2018-08-27T21:04:42.393Z - normal: Simulator: D/jswrapper (126): JS: Destroy: 23.232999999999947ms
-2018-08-27T21:04:42.394Z - normal: Simulator: D/jswrapper (126): JS: AttachPersist: 0.004999999999881766ms
-2018-08-27T21:04:42.395Z - normal: Simulator: D/jswrapper (126): JS: ScaleX != ScaleY. Don't know which one to return
-2018-08-27T21:04:42.399Z - normal: Simulator: D/jswrapper (126): JS: Activate: 5.426999999999907ms
-2018-08-27T21:04:42.402Z - normal: Simulator: cocos2d: QuadCommand: resizing index size from [-1] to [2560]
-2018-08-27T21:04:50.596Z - normal: Simulator: D/jswrapper (126): JS: LoadScene 71f1197b-5028-4a26-9c2c-e452c1960071: 66.76200000000063ms
-2018-08-27T21:04:50.601Z - normal: Simulator: D/jswrapper (126): JS: InitScene: 3.2179999999989377ms
-2018-08-27T21:04:50.602Z - normal: Simulator: D/jswrapper (126): JS: AutoRelease: 0.09999999999854481ms
-2018-08-27T21:04:50.603Z - normal: Simulator: D/jswrapper (126): JS: Destroy: 3.4020000000000437ms
-2018-08-27T21:04:50.604Z - normal: Simulator: D/jswrapper (126): JS: AttachPersist: 0.004999999999199645ms
-2018-08-27T21:04:50.605Z - normal: Simulator: LabelTextFormatter error:can't find letter definition in font file for letter: ?
-2018-08-27T21:04:50.606Z - normal: Simulator: cocos2d: SpriteBatchNode: resizing TextureAtlas capacity from [29] to [40].
-2018-08-27T21:04:50.606Z - normal: Simulator: cocos2d: SpriteBatchNode: resizing TextureAtlas capacity from [40] to [54].
-2018-08-27T21:04:50.606Z - normal: Simulator: cocos2d: SpriteBatchNode: resizing TextureAtlas capacity from [54] to [73].
-2018-08-27T21:04:50.608Z - normal: Simulator: D/jswrapper (126): JS: ScaleX != ScaleY. Don't know which one to return
-2018-08-27T21:04:50.635Z - normal: Simulator: D/jswrapper (126): JS: Activate: 31.09100000000035ms
-2018-08-27T21:04:52.154Z - normal: Simulator: D/jswrapper (448): ScriptEngine::cleanup begin ...
-2018-08-27T21:04:52.154Z - normal: Simulator: D/jswrapper (589): GC begin ..., (js->native map) size: 155, all objects: 438
-2018-08-27T21:04:52.183Z - normal: Simulator: D/jswrapper (597): GC end ..., (js->native map) size: 131, all objects: 414
-2018-08-27T21:04:52.185Z - normal: Simulator: D/jswrapper (589): GC begin ..., (js->native map) size: 131, all objects: 412
-2018-08-27T21:04:52.204Z - normal: Simulator: D/jswrapper (597): GC end ..., (js->native map) size: 131, all objects: 412
-2018-08-27T21:04:52.204Z - normal: Simulator: D/jswrapper (589): GC begin ..., (js->native map) size: 0, all objects: 0
-2018-08-27T21:04:52.223Z - normal: Simulator: D/jswrapper (597): GC end ..., (js->native map) size: 0, all objects: 0
-2018-08-27T21:04:52.228Z - normal: Simulator: D/jswrapper (688): Starting to cleanup dragonbones object, count: 0
-2018-08-27T21:04:52.228Z - normal: Simulator: D/jswrapper (707): After first cleanup, dragonbones object remained count: 0
-2018-08-27T21:04:52.228Z - normal: Simulator: D/jswrapper (723): After second cleanup, dragonbones object remained count: 0
-2018-08-27T21:04:52.228Z - normal: Simulator: D/jswrapper (511): ScriptEngine::cleanup end ...
-2018-08-27T21:04:52.246Z - error: Simulator: libpng warning: Interlace handling should be turned on when using png_read_image
-    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1562)
+2018-08-28T15:00:49.635Z - failed: Failed to uncache module main.js: Cannot find it.
+2018-08-28T15:00:49.635Z - success: ui-tree unloaded
+2018-08-28T15:00:49.641Z - failed: Failed to load panel "panel.preview" from "ui-tree", the panelID ui-tree.preview already exists
+2018-08-28T15:00:49.642Z - success: ui-tree loaded
+2018-08-28T15:00:49.642Z - success: ui-tree loaded
+2018-08-28T15:00:52.016Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-08-28T15:21:18.536Z - error: Node name can not include '/'.
+    at Object.cc.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:351:8)
+    at cc_Node.set (D:\CocosCreator\resources\engine\cocos2d\core\utils\base-node.js:209:24)
+    at setNodePropertyByPath (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:4260)
+    at Object.setPropertyByPath (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:5399)
+    at Object.setProperty (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils\scene.js:1:8120)
+    at HTMLElement.set-property (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene-operation.js:1:841)
     at Object.Panel._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:2283)
     at EventEmitter.ipcRenderer.on.o (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4070)
     at emitMany (events.js:127:13)
     at EventEmitter.emit (events.js:204:7)
+2018-08-28T15:22:19.791Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-08-28T15:22:22.663Z - normal: ScaleX != ScaleY. Don't know which one to return

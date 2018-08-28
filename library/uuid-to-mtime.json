@@ -70,8 +70,8 @@
     "relativePath": "Tela Inicio\\Saiba mais.png"
   },
   "71f1197b-5028-4a26-9c2c-e452c1960071": {
-    "asset": 1535403792003,
-    "meta": 1535403792026,
+    "asset": 1535471782889,
+    "meta": 1535471782923,
     "relativePath": "Scenes\\LancamentoTerra.fire"
   },
   "8a477ba8-6946-4b55-9cdc-b5a7e4350fb3": {
@@ -325,7 +325,7 @@
     "relativePath": "Tela Planetas\\Sol_Tela_dos_Planetas.png"
   },
   "53345558-144a-46b7-9cb1-6bca6a1048c1": {
-    "asset": 1535392657194,
+    "asset": 1535401438706,
     "meta": 1535318248912,
     "relativePath": "TelaLancamento"
   },
@@ -660,7 +660,7 @@
     "relativePath": "OA Galaxy Escape\\1x\\Levelreoundred-min.png"
   },
   "c2a63edd-675c-4168-a51c-646d678ac205": {
-    "asset": 1535318248730,
+    "asset": 1535403070290,
     "meta": 1535318248722,
     "relativePath": "Font"
   },
@@ -773,5 +773,10 @@
     "asset": 1535403070286,
     "meta": 1535403070306,
     "relativePath": "Font\\ka1.ttf"
+  },
+  "2dda31ca-5542-4d6b-962c-34ac8c6411ba": {
+    "asset": 1535469738932,
+    "meta": 1535469742368,
+    "relativePath": "Scripts\\Game.js"
   }
 }

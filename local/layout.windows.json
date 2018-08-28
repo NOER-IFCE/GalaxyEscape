@@ -99,30 +99,6 @@
         "assets",
         "scene"
       ]
-    },
-    "window-1535400150527": {
-      "main": false,
-      "url": "unpack://static/window.html",
-      "windowType": "dockable",
-      "x": 702,
-      "y": 240,
-      "width": 516,
-      "height": 539,
-      "layout": {
-        "type": "dock-v",
-        "children": [
-          {
-            "type": "panel",
-            "active": 0,
-            "children": [
-              "sprite-editor"
-            ]
-          }
-        ]
-      },
-      "panels": [
-        "sprite-editor"
-      ]
     }
   },
   "panels": {
