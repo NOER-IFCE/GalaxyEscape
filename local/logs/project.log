@@ -90,3 +90,221 @@
     at EventEmitter.emit (events.js:204:7)
 2018-08-28T15:22:19.791Z - normal: ScaleX != ScaleY. Don't know which one to return
 2018-08-28T15:22:22.663Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-08-28T16:25:18.420Z - failed: [db-task][sync-changes] Failed to import asset C:\Users\thoma\Documents\GitHub\GalaxyEscape\assets\Scripts\Game.js, message: Compile error: SyntaxError: C:/Users/thoma/Documents/GitHub/GalaxyEscape/assets/Scripts/Game.js: Unexpected token (31:14)
+  29 |             type: cc.Button
+  30 |         },
+> 31 |         massa = 1,
+     |               ^
+  32 |         maxmassa = 20,
+  33 |         speed = 0,
+  34 |         maxspeed = 63,
+    at Parser.pp$5.raise (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseMaybeAssign (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3370:10)
+    at Parser.pp$3.parseExprListItem (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4312:16)
+    at Parser.pp$3.parseCallExpressionArguments (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3573:20)
+    at Parser.pp$3.parseSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3533:31)
+    at Parser.pp$3.parseExprSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
+2018-08-28T16:31:18.263Z - failed: [db-task][sync-changes] Failed to import asset C:\Users\thoma\Documents\GitHub\GalaxyEscape\assets\Scripts\Game.js, message: Compile error: SyntaxError: C:/Users/thoma/Documents/GitHub/GalaxyEscape/assets/Scripts/Game.js: Unexpected token (31:14)
+  29 |             type: cc.Button
+  30 |         },
+> 31 |         massa = 1,
+     |               ^
+  32 |         maxmassa = 20,
+  33 |         speed = 0,
+  34 |         maxspeed = 63,
+    at Parser.pp$5.raise (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseMaybeAssign (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3370:10)
+    at Parser.pp$3.parseExprListItem (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4312:16)
+    at Parser.pp$3.parseCallExpressionArguments (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3573:20)
+    at Parser.pp$3.parseSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3533:31)
+    at Parser.pp$3.parseExprSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
+2018-08-28T16:33:02.890Z - failed: [db-task][sync-changes] Failed to import asset C:\Users\thoma\Documents\GitHub\GalaxyEscape\assets\Scripts\Game.js, message: Compile error: SyntaxError: C:/Users/thoma/Documents/GitHub/GalaxyEscape/assets/Scripts/Game.js: Unexpected token (31:14)
+  29 |             type: cc.Button
+  30 |         },
+> 31 |         massa = 1,
+     |               ^
+  32 |         maxmassa = 20,
+  33 |         speed = 0,
+  34 |         maxspeed = 63,
+    at Parser.pp$5.raise (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseMaybeAssign (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3370:10)
+    at Parser.pp$3.parseExprListItem (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4312:16)
+    at Parser.pp$3.parseCallExpressionArguments (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3573:20)
+    at Parser.pp$3.parseSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3533:31)
+    at Parser.pp$3.parseExprSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
+2018-08-28T16:33:58.984Z - failed: [db-task][sync-changes] Failed to import asset C:\Users\thoma\Documents\GitHub\GalaxyEscape\assets\Scripts\Game.js, message: Compile error: SyntaxError: C:/Users/thoma/Documents/GitHub/GalaxyEscape/assets/Scripts/Game.js: Unexpected token (31:14)
+  29 |             type: cc.Button
+  30 |         },
+> 31 |         massa = 1,
+     |               ^
+  32 |         maxmassa = 20,
+  33 |         speed = 0,
+  34 |         maxspeed = 63,
+    at Parser.pp$5.raise (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseMaybeAssign (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3370:10)
+    at Parser.pp$3.parseExprListItem (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4312:16)
+    at Parser.pp$3.parseCallExpressionArguments (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3573:20)
+    at Parser.pp$3.parseSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3533:31)
+    at Parser.pp$3.parseExprSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
+2018-08-28T16:34:55.265Z - failed: [db-task][sync-changes] Failed to import asset C:\Users\thoma\Documents\GitHub\GalaxyEscape\assets\Scripts\Game.js, message: Compile error: SyntaxError: C:/Users/thoma/Documents/GitHub/GalaxyEscape/assets/Scripts/Game.js: Unexpected token (31:14)
+  29 |             type: cc.Button
+  30 |         },
+> 31 |         massa = 1,
+     |               ^
+  32 |         maxmassa = 20,
+  33 |         speed = 0,
+  34 |         maxspeed = 63,
+    at Parser.pp$5.raise (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseMaybeAssign (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3370:10)
+    at Parser.pp$3.parseExprListItem (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4312:16)
+    at Parser.pp$3.parseCallExpressionArguments (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3573:20)
+    at Parser.pp$3.parseSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3533:31)
+    at Parser.pp$3.parseExprSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
+2018-08-28T16:35:48.655Z - failed: [db-task][sync-changes] Failed to import asset C:\Users\thoma\Documents\GitHub\GalaxyEscape\assets\Scripts\Game.js, message: Compile error: SyntaxError: C:/Users/thoma/Documents/GitHub/GalaxyEscape/assets/Scripts/Game.js: Unexpected token (31:14)
+  29 |             type: cc.Node
+  30 |         },
+> 31 |         massa = 1,
+     |               ^
+  32 |         maxmassa = 20,
+  33 |         speed = 0,
+  34 |         maxspeed = 63,
+    at Parser.pp$5.raise (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseMaybeAssign (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3370:10)
+    at Parser.pp$3.parseExprListItem (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4312:16)
+    at Parser.pp$3.parseCallExpressionArguments (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3573:20)
+    at Parser.pp$3.parseSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3533:31)
+    at Parser.pp$3.parseExprSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
+2018-08-28T16:39:49.773Z - failed: [db-task][sync-changes] Failed to import asset C:\Users\thoma\Documents\GitHub\GalaxyEscape\assets\Scripts\Game.js, message: Compile error: SyntaxError: C:/Users/thoma/Documents/GitHub/GalaxyEscape/assets/Scripts/Game.js: Unexpected token (31:14)
+  29 |             type: cc.Node
+  30 |         },
+> 31 |         massa = 1,
+     |               ^
+  32 |         maxmassa = 20,
+  33 |         speed = 0,
+  34 |         maxspeed = 63,
+    at Parser.pp$5.raise (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseMaybeAssign (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3370:10)
+    at Parser.pp$3.parseExprListItem (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4312:16)
+    at Parser.pp$3.parseCallExpressionArguments (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3573:20)
+    at Parser.pp$3.parseSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3533:31)
+    at Parser.pp$3.parseExprSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
+2018-08-28T16:40:19.243Z - failed: [db-task][sync-changes] Failed to import asset C:\Users\thoma\Documents\GitHub\GalaxyEscape\assets\Scripts\Game.js, message: Compile error: SyntaxError: C:/Users/thoma/Documents/GitHub/GalaxyEscape/assets/Scripts/Game.js: Unexpected token (31:14)
+  29 |             type: cc.Node,
+  30 |         },
+> 31 |         massa = 1,
+     |               ^
+  32 |         maxmassa = 20,
+  33 |         speed = 0,
+  34 |         maxspeed = 63,
+    at Parser.pp$5.raise (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseMaybeAssign (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3370:10)
+    at Parser.pp$3.parseExprListItem (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4312:16)
+    at Parser.pp$3.parseCallExpressionArguments (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3573:20)
+    at Parser.pp$3.parseSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3533:31)
+    at Parser.pp$3.parseExprSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
+2018-08-28T16:43:46.399Z - failed: [db-task][sync-changes] Failed to import asset C:\Users\thoma\Documents\GitHub\GalaxyEscape\assets\Scripts\Game.js, message: Compile error: SyntaxError: C:/Users/thoma/Documents/GitHub/GalaxyEscape/assets/Scripts/Game.js: Unexpected token (31:14)
+  29 |             type: cc.Node
+  30 |         },
+> 31 |         Massa = 1,
+     |               ^
+  32 |         maxmassa = 20,
+  33 |         speed = 0,
+  34 |         maxspeed = 63,
+    at Parser.pp$5.raise (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseMaybeAssign (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3370:10)
+    at Parser.pp$3.parseExprListItem (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4312:16)
+    at Parser.pp$3.parseCallExpressionArguments (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3573:20)
+    at Parser.pp$3.parseSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3533:31)
+    at Parser.pp$3.parseExprSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
+2018-08-28T16:46:59.097Z - failed: [db-task][sync-changes] Failed to import asset C:\Users\thoma\Documents\GitHub\GalaxyEscape\assets\Scripts\Game.js, message: Compile error: SyntaxError: C:/Users/thoma/Documents/GitHub/GalaxyEscape/assets/Scripts/Game.js: Unexpected token (19:14)
+  17 |             type: cc.Label
+  18 |         },
+> 19 |         Massa = 1,
+     |               ^
+  20 |         maxmassa = 20,
+  21 |         isLaunch: false,
+  22 |     },
+    at Parser.pp$5.raise (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseMaybeAssign (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3370:10)
+    at Parser.pp$3.parseExprListItem (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4312:16)
+    at Parser.pp$3.parseCallExpressionArguments (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3573:20)
+    at Parser.pp$3.parseSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3533:31)
+    at Parser.pp$3.parseExprSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
+2018-08-28T16:47:35.304Z - failed: [db-task][sync-changes] Failed to import asset C:\Users\thoma\Documents\GitHub\GalaxyEscape\assets\Scripts\Game.js, message: Compile error: SyntaxError: C:/Users/thoma/Documents/GitHub/GalaxyEscape/assets/Scripts/Game.js: Unexpected token (20:10)
+  18 |         },
+  19 |     },
+> 20 |     Massa = 1,
+     |           ^
+  21 |     maxmassa = 20,
+  22 |     isLaunch: false,
+  23 |     
+    at Parser.pp$5.raise (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseMaybeAssign (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3370:10)
+    at Parser.pp$3.parseExprListItem (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4312:16)
+    at Parser.pp$3.parseCallExpressionArguments (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3573:20)
+    at Parser.pp$3.parseSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3533:31)
+    at Parser.pp$3.parseExprSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
+2018-08-28T16:48:50.575Z - failed: [db-task][sync-changes] Failed to import asset C:\Users\thoma\Documents\GitHub\GalaxyEscape\assets\Scripts\Game.js, message: Compile error: SyntaxError: C:/Users/thoma/Documents/GitHub/GalaxyEscape/assets/Scripts/Game.js: Unexpected token (19:14)
+  17 |             type: cc.Label
+  18 |         },
+> 19 |         massa = 1,
+     |               ^
+  20 |         maxmassa = 20,
+  21 |         isLaunch: false,
+  22 |     },
+    at Parser.pp$5.raise (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
+    at Parser.pp.unexpected (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
+    at Parser.pp$3.parseMaybeAssign (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3370:10)
+    at Parser.pp$3.parseExprListItem (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4312:16)
+    at Parser.pp$3.parseCallExpressionArguments (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3573:20)
+    at Parser.pp$3.parseSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3533:31)
+    at Parser.pp$3.parseExprSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3504:15)
+    at Parser.pp$3.parseMaybeUnary (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
+    at Parser.pp$3.parseExprOps (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
+    at Parser.pp$3.parseMaybeConditional (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
+2018-08-28T17:01:10.638Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-08-28T17:03:58.750Z - normal: ScaleX != ScaleY. Don't know which one to return

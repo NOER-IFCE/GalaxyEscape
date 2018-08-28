@@ -70,8 +70,8 @@
     "relativePath": "Tela Inicio\\Saiba mais.png"
   },
   "71f1197b-5028-4a26-9c2c-e452c1960071": {
-    "asset": 1535471782889,
-    "meta": 1535471782923,
+    "asset": 1535475912265,
+    "meta": 1535475912283,
     "relativePath": "Scenes\\LancamentoTerra.fire"
   },
   "8a477ba8-6946-4b55-9cdc-b5a7e4350fb3": {
@@ -775,8 +775,8 @@
     "relativePath": "Font\\ka1.ttf"
   },
   "2dda31ca-5542-4d6b-962c-34ac8c6411ba": {
-    "asset": 1535469738932,
-    "meta": 1535469742368,
+    "asset": 1535475836476,
+    "meta": 1535475838402,
     "relativePath": "Scripts\\Game.js"
   }
 }
