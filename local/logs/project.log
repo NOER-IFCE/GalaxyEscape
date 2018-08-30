@@ -1,58 +1,58 @@
-2018-08-28T15:00:38.472Z - normal: Load ~/.CocosCreator/settings.json
-2018-08-28T15:00:38.476Z - normal: checking language setting...
-2018-08-28T15:00:38.476Z - normal: Language: en
-2018-08-28T15:00:39.936Z - success: protocol editor-framework registered
-2018-08-28T15:00:39.936Z - success: protocol app registered
-2018-08-28T15:00:39.936Z - success: protocol theme registered
-2018-08-28T15:00:39.936Z - success: protocol packages registered
-2018-08-28T15:00:39.937Z - success: protocol unpack registerred
-2018-08-28T15:00:39.937Z - success: protocol disable-commonjs registerred
-2018-08-28T15:00:41.325Z - normal: connected!
-2018-08-28T15:00:41.326Z - normal: Check project C:\Users\thoma\Documents\GitHub\GalaxyEscape
-2018-08-28T15:00:41.327Z - normal: Initializing project C:\Users\thoma\Documents\GitHub\GalaxyEscape
-2018-08-28T15:00:41.336Z - normal: Initializing Cocos2d
-2018-08-28T15:00:42.379Z - normal: Initializing Asset Database
-2018-08-28T15:00:42.409Z - success: protocol uuid registerred
-2018-08-28T15:00:42.409Z - success: protocol db registerred
-2018-08-28T15:00:42.409Z - success: protocol thumbnail registerred
-2018-08-28T15:00:42.409Z - normal: Loading editor/builtin packages
-2018-08-28T15:00:42.514Z - success: assets loaded
-2018-08-28T15:00:42.515Z - success: builder loaded
-2018-08-28T15:00:42.517Z - success: cocos-analytics loaded
-2018-08-28T15:00:42.520Z - success: console loaded
-2018-08-28T15:00:42.551Z - success: fb-instant-games loaded
-2018-08-28T15:00:42.554Z - success: hierarchy loaded
-2018-08-28T15:00:42.557Z - success: inspector loaded
-2018-08-28T15:00:42.558Z - success: keystore loaded
-2018-08-28T15:00:42.561Z - success: node-library loaded
-2018-08-28T15:00:42.562Z - success: package-asset loaded
-2018-08-28T15:00:42.563Z - success: preferences loaded
-2018-08-28T15:00:42.565Z - success: project-exporter loaded
-2018-08-28T15:00:42.580Z - success: project-importer loaded
-2018-08-28T15:00:42.582Z - success: project-settings loaded
-2018-08-28T15:00:42.583Z - success: ui-kit loaded
-2018-08-28T15:00:42.586Z - success: scene loaded
-2018-08-28T15:00:42.586Z - success: sprite-editor loaded
-2018-08-28T15:00:42.588Z - success: store loaded
-2018-08-28T15:00:42.591Z - success: timeline loaded
-2018-08-28T15:00:42.592Z - normal: Loading builtin packages
-2018-08-28T15:00:42.600Z - success: asset-db-debugger loaded
-2018-08-28T15:00:42.608Z - success: code-editor loaded
-2018-08-28T15:00:42.611Z - success: color-picker loaded
-2018-08-28T15:00:42.619Z - success: package-manager loaded
-2018-08-28T15:00:42.623Z - success: qqplay-adapter loaded
-2018-08-28T15:00:42.638Z - success: sdkbox loaded
-2018-08-28T15:00:42.648Z - success: tester loaded
-2018-08-28T15:00:42.656Z - success: ui-grid loaded
-2018-08-28T15:00:42.661Z - success: ui-kit-preview-extra loaded
-2018-08-28T15:00:42.673Z - success: ui-kit-preview loaded
-2018-08-28T15:00:42.681Z - success: ui-tree loaded
-2018-08-28T15:00:42.684Z - success: weapp-adapter loaded
-2018-08-28T15:00:43.579Z - normal: Loading packages
-2018-08-28T15:00:43.584Z - normal: Watching packages
-2018-08-28T15:00:43.818Z - normal: Run Application
-2018-08-28T15:00:45.012Z - success: preview server running at http://localhost:7456
-2018-08-28T15:00:49.633Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
+2018-08-30T11:27:07.998Z - normal: Load ~/.CocosCreator/settings.json
+2018-08-30T11:27:08.003Z - normal: checking language setting...
+2018-08-30T11:27:08.003Z - normal: Language: en
+2018-08-30T11:27:09.555Z - success: protocol editor-framework registered
+2018-08-30T11:27:09.555Z - success: protocol app registered
+2018-08-30T11:27:09.555Z - success: protocol theme registered
+2018-08-30T11:27:09.555Z - success: protocol packages registered
+2018-08-30T11:27:09.555Z - success: protocol unpack registerred
+2018-08-30T11:27:09.556Z - success: protocol disable-commonjs registerred
+2018-08-30T11:27:10.969Z - normal: connected!
+2018-08-30T11:27:10.970Z - normal: Check project C:\Users\thoma\Documents\GitHub\GalaxyEscape
+2018-08-30T11:27:10.972Z - normal: Initializing project C:\Users\thoma\Documents\GitHub\GalaxyEscape
+2018-08-30T11:27:10.989Z - normal: Initializing Cocos2d
+2018-08-30T11:27:12.124Z - normal: Initializing Asset Database
+2018-08-30T11:27:12.154Z - success: protocol uuid registerred
+2018-08-30T11:27:12.154Z - success: protocol db registerred
+2018-08-30T11:27:12.154Z - success: protocol thumbnail registerred
+2018-08-30T11:27:12.154Z - normal: Loading editor/builtin packages
+2018-08-30T11:27:12.261Z - success: assets loaded
+2018-08-30T11:27:12.263Z - success: builder loaded
+2018-08-30T11:27:12.265Z - success: cocos-analytics loaded
+2018-08-30T11:27:12.267Z - success: console loaded
+2018-08-30T11:27:12.298Z - success: fb-instant-games loaded
+2018-08-30T11:27:12.301Z - success: hierarchy loaded
+2018-08-30T11:27:12.304Z - success: inspector loaded
+2018-08-30T11:27:12.305Z - success: keystore loaded
+2018-08-30T11:27:12.309Z - success: node-library loaded
+2018-08-30T11:27:12.310Z - success: package-asset loaded
+2018-08-30T11:27:12.311Z - success: preferences loaded
+2018-08-30T11:27:12.313Z - success: project-exporter loaded
+2018-08-30T11:27:12.330Z - success: project-importer loaded
+2018-08-30T11:27:12.332Z - success: project-settings loaded
+2018-08-30T11:27:12.334Z - success: ui-kit loaded
+2018-08-30T11:27:12.336Z - success: scene loaded
+2018-08-30T11:27:12.337Z - success: sprite-editor loaded
+2018-08-30T11:27:12.340Z - success: store loaded
+2018-08-30T11:27:12.343Z - success: timeline loaded
+2018-08-30T11:27:12.343Z - normal: Loading builtin packages
+2018-08-30T11:27:12.360Z - success: asset-db-debugger loaded
+2018-08-30T11:27:12.382Z - success: code-editor loaded
+2018-08-30T11:27:12.386Z - success: color-picker loaded
+2018-08-30T11:27:12.395Z - success: package-manager loaded
+2018-08-30T11:27:12.398Z - success: qqplay-adapter loaded
+2018-08-30T11:27:12.410Z - success: sdkbox loaded
+2018-08-30T11:27:12.421Z - success: tester loaded
+2018-08-30T11:27:12.429Z - success: ui-grid loaded
+2018-08-30T11:27:12.437Z - success: ui-kit-preview-extra loaded
+2018-08-30T11:27:12.452Z - success: ui-kit-preview loaded
+2018-08-30T11:27:12.460Z - success: ui-tree loaded
+2018-08-30T11:27:12.463Z - success: weapp-adapter loaded
+2018-08-30T11:27:13.411Z - normal: Loading packages
+2018-08-30T11:27:13.417Z - normal: Watching packages
+2018-08-30T11:27:13.711Z - normal: Run Application
+2018-08-30T11:27:15.088Z - success: preview server running at http://localhost:7456
+2018-08-30T11:27:20.090Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
     at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
     at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
     at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
@@ -61,8 +61,8 @@
     at runCallback (timers.js:672:20)
     at tryOnImmediate (timers.js:645:5)
     at processImmediate [as _immediateCallback] (timers.js:617:5)
-2018-08-28T15:00:49.634Z - success: ui-tree unloaded
-2018-08-28T15:00:49.634Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
+2018-08-30T11:27:20.091Z - success: ui-tree unloaded
+2018-08-30T11:27:20.092Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
     at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
     at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
     at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
@@ -71,240 +71,89 @@
     at runCallback (timers.js:672:20)
     at tryOnImmediate (timers.js:645:5)
     at processImmediate [as _immediateCallback] (timers.js:617:5)
-2018-08-28T15:00:49.635Z - failed: Failed to uncache module main.js: Cannot find it.
-2018-08-28T15:00:49.635Z - success: ui-tree unloaded
-2018-08-28T15:00:49.641Z - failed: Failed to load panel "panel.preview" from "ui-tree", the panelID ui-tree.preview already exists
-2018-08-28T15:00:49.642Z - success: ui-tree loaded
-2018-08-28T15:00:49.642Z - success: ui-tree loaded
-2018-08-28T15:00:52.016Z - normal: ScaleX != ScaleY. Don't know which one to return
-2018-08-28T15:21:18.536Z - error: Node name can not include '/'.
-    at Object.cc.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:351:8)
-    at cc_Node.set (D:\CocosCreator\resources\engine\cocos2d\core\utils\base-node.js:209:24)
-    at setNodePropertyByPath (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:4260)
-    at Object.setPropertyByPath (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\set-property-by-path.js:1:5399)
-    at Object.setProperty (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils\scene.js:1:8120)
-    at HTMLElement.set-property (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene-operation.js:1:841)
-    at Object.Panel._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:2283)
-    at EventEmitter.ipcRenderer.on.o (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4070)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2018-08-28T15:22:19.791Z - normal: ScaleX != ScaleY. Don't know which one to return
-2018-08-28T15:22:22.663Z - normal: ScaleX != ScaleY. Don't know which one to return
-2018-08-28T16:25:18.420Z - failed: [db-task][sync-changes] Failed to import asset C:\Users\thoma\Documents\GitHub\GalaxyEscape\assets\Scripts\Game.js, message: Compile error: SyntaxError: C:/Users/thoma/Documents/GitHub/GalaxyEscape/assets/Scripts/Game.js: Unexpected token (31:14)
-  29 |             type: cc.Button
-  30 |         },
-> 31 |         massa = 1,
-     |               ^
-  32 |         maxmassa = 20,
-  33 |         speed = 0,
-  34 |         maxspeed = 63,
-    at Parser.pp$5.raise (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
-    at Parser.pp.unexpected (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
-    at Parser.pp$3.parseMaybeAssign (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3370:10)
-    at Parser.pp$3.parseExprListItem (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4312:16)
-    at Parser.pp$3.parseCallExpressionArguments (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3573:20)
-    at Parser.pp$3.parseSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3533:31)
-    at Parser.pp$3.parseExprSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3504:15)
-    at Parser.pp$3.parseMaybeUnary (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
-    at Parser.pp$3.parseExprOps (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
-    at Parser.pp$3.parseMaybeConditional (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
-2018-08-28T16:31:18.263Z - failed: [db-task][sync-changes] Failed to import asset C:\Users\thoma\Documents\GitHub\GalaxyEscape\assets\Scripts\Game.js, message: Compile error: SyntaxError: C:/Users/thoma/Documents/GitHub/GalaxyEscape/assets/Scripts/Game.js: Unexpected token (31:14)
-  29 |             type: cc.Button
-  30 |         },
-> 31 |         massa = 1,
-     |               ^
-  32 |         maxmassa = 20,
-  33 |         speed = 0,
-  34 |         maxspeed = 63,
-    at Parser.pp$5.raise (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
-    at Parser.pp.unexpected (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
-    at Parser.pp$3.parseMaybeAssign (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3370:10)
-    at Parser.pp$3.parseExprListItem (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4312:16)
-    at Parser.pp$3.parseCallExpressionArguments (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3573:20)
-    at Parser.pp$3.parseSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3533:31)
-    at Parser.pp$3.parseExprSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3504:15)
-    at Parser.pp$3.parseMaybeUnary (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
-    at Parser.pp$3.parseExprOps (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
-    at Parser.pp$3.parseMaybeConditional (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
-2018-08-28T16:33:02.890Z - failed: [db-task][sync-changes] Failed to import asset C:\Users\thoma\Documents\GitHub\GalaxyEscape\assets\Scripts\Game.js, message: Compile error: SyntaxError: C:/Users/thoma/Documents/GitHub/GalaxyEscape/assets/Scripts/Game.js: Unexpected token (31:14)
-  29 |             type: cc.Button
-  30 |         },
-> 31 |         massa = 1,
-     |               ^
-  32 |         maxmassa = 20,
-  33 |         speed = 0,
-  34 |         maxspeed = 63,
-    at Parser.pp$5.raise (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
-    at Parser.pp.unexpected (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
-    at Parser.pp$3.parseMaybeAssign (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3370:10)
-    at Parser.pp$3.parseExprListItem (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4312:16)
-    at Parser.pp$3.parseCallExpressionArguments (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3573:20)
-    at Parser.pp$3.parseSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3533:31)
-    at Parser.pp$3.parseExprSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3504:15)
-    at Parser.pp$3.parseMaybeUnary (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
-    at Parser.pp$3.parseExprOps (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
-    at Parser.pp$3.parseMaybeConditional (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
-2018-08-28T16:33:58.984Z - failed: [db-task][sync-changes] Failed to import asset C:\Users\thoma\Documents\GitHub\GalaxyEscape\assets\Scripts\Game.js, message: Compile error: SyntaxError: C:/Users/thoma/Documents/GitHub/GalaxyEscape/assets/Scripts/Game.js: Unexpected token (31:14)
-  29 |             type: cc.Button
-  30 |         },
-> 31 |         massa = 1,
-     |               ^
-  32 |         maxmassa = 20,
-  33 |         speed = 0,
-  34 |         maxspeed = 63,
-    at Parser.pp$5.raise (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
-    at Parser.pp.unexpected (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
-    at Parser.pp$3.parseMaybeAssign (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3370:10)
-    at Parser.pp$3.parseExprListItem (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4312:16)
-    at Parser.pp$3.parseCallExpressionArguments (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3573:20)
-    at Parser.pp$3.parseSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3533:31)
-    at Parser.pp$3.parseExprSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3504:15)
-    at Parser.pp$3.parseMaybeUnary (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
-    at Parser.pp$3.parseExprOps (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
-    at Parser.pp$3.parseMaybeConditional (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
-2018-08-28T16:34:55.265Z - failed: [db-task][sync-changes] Failed to import asset C:\Users\thoma\Documents\GitHub\GalaxyEscape\assets\Scripts\Game.js, message: Compile error: SyntaxError: C:/Users/thoma/Documents/GitHub/GalaxyEscape/assets/Scripts/Game.js: Unexpected token (31:14)
-  29 |             type: cc.Button
-  30 |         },
-> 31 |         massa = 1,
-     |               ^
-  32 |         maxmassa = 20,
-  33 |         speed = 0,
-  34 |         maxspeed = 63,
-    at Parser.pp$5.raise (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
-    at Parser.pp.unexpected (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
-    at Parser.pp$3.parseMaybeAssign (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3370:10)
-    at Parser.pp$3.parseExprListItem (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4312:16)
-    at Parser.pp$3.parseCallExpressionArguments (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3573:20)
-    at Parser.pp$3.parseSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3533:31)
-    at Parser.pp$3.parseExprSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3504:15)
-    at Parser.pp$3.parseMaybeUnary (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
-    at Parser.pp$3.parseExprOps (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
-    at Parser.pp$3.parseMaybeConditional (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
-2018-08-28T16:35:48.655Z - failed: [db-task][sync-changes] Failed to import asset C:\Users\thoma\Documents\GitHub\GalaxyEscape\assets\Scripts\Game.js, message: Compile error: SyntaxError: C:/Users/thoma/Documents/GitHub/GalaxyEscape/assets/Scripts/Game.js: Unexpected token (31:14)
-  29 |             type: cc.Node
-  30 |         },
-> 31 |         massa = 1,
-     |               ^
-  32 |         maxmassa = 20,
-  33 |         speed = 0,
-  34 |         maxspeed = 63,
-    at Parser.pp$5.raise (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
-    at Parser.pp.unexpected (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
-    at Parser.pp$3.parseMaybeAssign (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3370:10)
-    at Parser.pp$3.parseExprListItem (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4312:16)
-    at Parser.pp$3.parseCallExpressionArguments (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3573:20)
-    at Parser.pp$3.parseSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3533:31)
-    at Parser.pp$3.parseExprSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3504:15)
-    at Parser.pp$3.parseMaybeUnary (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
-    at Parser.pp$3.parseExprOps (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
-    at Parser.pp$3.parseMaybeConditional (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
-2018-08-28T16:39:49.773Z - failed: [db-task][sync-changes] Failed to import asset C:\Users\thoma\Documents\GitHub\GalaxyEscape\assets\Scripts\Game.js, message: Compile error: SyntaxError: C:/Users/thoma/Documents/GitHub/GalaxyEscape/assets/Scripts/Game.js: Unexpected token (31:14)
-  29 |             type: cc.Node
-  30 |         },
-> 31 |         massa = 1,
-     |               ^
-  32 |         maxmassa = 20,
-  33 |         speed = 0,
-  34 |         maxspeed = 63,
-    at Parser.pp$5.raise (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
-    at Parser.pp.unexpected (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
-    at Parser.pp$3.parseMaybeAssign (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3370:10)
-    at Parser.pp$3.parseExprListItem (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4312:16)
-    at Parser.pp$3.parseCallExpressionArguments (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3573:20)
-    at Parser.pp$3.parseSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3533:31)
-    at Parser.pp$3.parseExprSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3504:15)
-    at Parser.pp$3.parseMaybeUnary (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
-    at Parser.pp$3.parseExprOps (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
-    at Parser.pp$3.parseMaybeConditional (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
-2018-08-28T16:40:19.243Z - failed: [db-task][sync-changes] Failed to import asset C:\Users\thoma\Documents\GitHub\GalaxyEscape\assets\Scripts\Game.js, message: Compile error: SyntaxError: C:/Users/thoma/Documents/GitHub/GalaxyEscape/assets/Scripts/Game.js: Unexpected token (31:14)
-  29 |             type: cc.Node,
-  30 |         },
-> 31 |         massa = 1,
-     |               ^
-  32 |         maxmassa = 20,
-  33 |         speed = 0,
-  34 |         maxspeed = 63,
-    at Parser.pp$5.raise (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
-    at Parser.pp.unexpected (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
-    at Parser.pp$3.parseMaybeAssign (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3370:10)
-    at Parser.pp$3.parseExprListItem (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4312:16)
-    at Parser.pp$3.parseCallExpressionArguments (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3573:20)
-    at Parser.pp$3.parseSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3533:31)
-    at Parser.pp$3.parseExprSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3504:15)
-    at Parser.pp$3.parseMaybeUnary (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
-    at Parser.pp$3.parseExprOps (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
-    at Parser.pp$3.parseMaybeConditional (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
-2018-08-28T16:43:46.399Z - failed: [db-task][sync-changes] Failed to import asset C:\Users\thoma\Documents\GitHub\GalaxyEscape\assets\Scripts\Game.js, message: Compile error: SyntaxError: C:/Users/thoma/Documents/GitHub/GalaxyEscape/assets/Scripts/Game.js: Unexpected token (31:14)
-  29 |             type: cc.Node
-  30 |         },
-> 31 |         Massa = 1,
-     |               ^
-  32 |         maxmassa = 20,
-  33 |         speed = 0,
-  34 |         maxspeed = 63,
-    at Parser.pp$5.raise (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
-    at Parser.pp.unexpected (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
-    at Parser.pp$3.parseMaybeAssign (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3370:10)
-    at Parser.pp$3.parseExprListItem (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4312:16)
-    at Parser.pp$3.parseCallExpressionArguments (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3573:20)
-    at Parser.pp$3.parseSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3533:31)
-    at Parser.pp$3.parseExprSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3504:15)
-    at Parser.pp$3.parseMaybeUnary (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
-    at Parser.pp$3.parseExprOps (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
-    at Parser.pp$3.parseMaybeConditional (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
-2018-08-28T16:46:59.097Z - failed: [db-task][sync-changes] Failed to import asset C:\Users\thoma\Documents\GitHub\GalaxyEscape\assets\Scripts\Game.js, message: Compile error: SyntaxError: C:/Users/thoma/Documents/GitHub/GalaxyEscape/assets/Scripts/Game.js: Unexpected token (19:14)
-  17 |             type: cc.Label
-  18 |         },
-> 19 |         Massa = 1,
-     |               ^
-  20 |         maxmassa = 20,
-  21 |         isLaunch: false,
-  22 |     },
-    at Parser.pp$5.raise (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
-    at Parser.pp.unexpected (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
-    at Parser.pp$3.parseMaybeAssign (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3370:10)
-    at Parser.pp$3.parseExprListItem (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4312:16)
-    at Parser.pp$3.parseCallExpressionArguments (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3573:20)
-    at Parser.pp$3.parseSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3533:31)
-    at Parser.pp$3.parseExprSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3504:15)
-    at Parser.pp$3.parseMaybeUnary (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
-    at Parser.pp$3.parseExprOps (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
-    at Parser.pp$3.parseMaybeConditional (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
-2018-08-28T16:47:35.304Z - failed: [db-task][sync-changes] Failed to import asset C:\Users\thoma\Documents\GitHub\GalaxyEscape\assets\Scripts\Game.js, message: Compile error: SyntaxError: C:/Users/thoma/Documents/GitHub/GalaxyEscape/assets/Scripts/Game.js: Unexpected token (20:10)
-  18 |         },
-  19 |     },
-> 20 |     Massa = 1,
-     |           ^
-  21 |     maxmassa = 20,
-  22 |     isLaunch: false,
-  23 |     
-    at Parser.pp$5.raise (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
-    at Parser.pp.unexpected (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
-    at Parser.pp$3.parseMaybeAssign (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3370:10)
-    at Parser.pp$3.parseExprListItem (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4312:16)
-    at Parser.pp$3.parseCallExpressionArguments (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3573:20)
-    at Parser.pp$3.parseSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3533:31)
-    at Parser.pp$3.parseExprSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3504:15)
-    at Parser.pp$3.parseMaybeUnary (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
-    at Parser.pp$3.parseExprOps (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
-    at Parser.pp$3.parseMaybeConditional (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
-2018-08-28T16:48:50.575Z - failed: [db-task][sync-changes] Failed to import asset C:\Users\thoma\Documents\GitHub\GalaxyEscape\assets\Scripts\Game.js, message: Compile error: SyntaxError: C:/Users/thoma/Documents/GitHub/GalaxyEscape/assets/Scripts/Game.js: Unexpected token (19:14)
-  17 |             type: cc.Label
-  18 |         },
-> 19 |         massa = 1,
-     |               ^
-  20 |         maxmassa = 20,
-  21 |         isLaunch: false,
-  22 |     },
-    at Parser.pp$5.raise (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
-    at Parser.pp.unexpected (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
-    at Parser.pp$3.parseMaybeAssign (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3370:10)
-    at Parser.pp$3.parseExprListItem (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4312:16)
-    at Parser.pp$3.parseCallExpressionArguments (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3573:20)
-    at Parser.pp$3.parseSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3533:31)
-    at Parser.pp$3.parseExprSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3504:15)
-    at Parser.pp$3.parseMaybeUnary (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
-    at Parser.pp$3.parseExprOps (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
-    at Parser.pp$3.parseMaybeConditional (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
-2018-08-28T17:01:10.638Z - normal: ScaleX != ScaleY. Don't know which one to return
-2018-08-28T17:03:58.750Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-08-30T11:27:20.092Z - failed: Failed to uncache module main.js: Cannot find it.
+2018-08-30T11:27:20.092Z - success: ui-tree unloaded
+2018-08-30T11:27:20.098Z - failed: Failed to load panel "panel.preview" from "ui-tree", the panelID ui-tree.preview already exists
+2018-08-30T11:27:20.100Z - success: ui-tree loaded
+2018-08-30T11:27:20.100Z - success: ui-tree loaded
+2018-08-30T11:27:22.208Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-08-30T11:30:23.367Z - normal: Start building with options : {
+  "actualPlatform": "Web Desktop",
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build",
+  "debug": false,
+  "dest": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build\\web-desktop",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.GalaxyEscape",
+  "platform": "web-desktop",
+  "previewHeight": 640,
+  "previewWidth": 960,
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "1",
+  "scenes": [
+    "6ba1630d-239f-4d4c-a012-e9df9752f155",
+    "71f1197b-5028-4a26-9c2c-e452c1960071",
+    "b043ec12-236b-4b87-a03c-666a614f025f",
+    "2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2"
+  ],
+  "sourceMaps": false,
+  "startScene": "6ba1630d-239f-4d4c-a012-e9df9752f155",
+  "template": "link",
+  "title": "GalaxyEscape",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "769a2cbf-b5c9-46",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape",
+  "projectName": "GalaxyEscape",
+  "debugBuildWorker": false
+}
+2018-08-30T11:30:23.370Z - normal: Building C:\Users\thoma\Documents\GitHub\GalaxyEscape
+2018-08-30T11:30:23.370Z - normal: Destination C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\web-desktop
+2018-08-30T11:30:23.811Z - normal: Delete C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\web-desktop\**\*
+2018-08-30T11:30:27.474Z - normal: Start building assets
+2018-08-30T11:30:27.474Z - normal: Start spawn build-worker
+2018-08-30T11:30:28.069Z - normal: Finish spawn build-worker
+2018-08-30T11:30:28.069Z - normal: Start init build-worker
+2018-08-30T11:30:29.828Z - normal: Finish init build-worker
+2018-08-30T11:30:29.828Z - normal: Start build-assets in worker
+2018-08-30T11:30:30.326Z - normal: Finish build-assets in worker
+2018-08-30T11:30:30.332Z - normal: Finish building assets
+2018-08-30T11:30:30.346Z - normal: Start building plugin scripts
+2018-08-30T11:30:30.408Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
+2018-08-30T11:30:30.440Z - normal: Generating html from D:\CocosCreator\resources\static\build-templates\web-desktop\template\index.html
+2018-08-30T11:30:30.456Z - normal: Built to "C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\web-desktop" successfully
