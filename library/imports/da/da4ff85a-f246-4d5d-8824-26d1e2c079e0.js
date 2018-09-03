@@ -2,7 +2,7 @@
 cc._RF.push(module, 'da4ffha8kZNXYgkJtHiwHng', 'SliderCtrl');
 // Scripts/SliderCtrl.js
 
-"use strict";
+'use strict';
 
 // Learn cc.Class:
 //  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/class.html
@@ -48,8 +48,8 @@ cc.Class({
         this._updateVelocidade(this.slider.progress);
     },
     _updateVelocidade: function _updateVelocidade(progress, VelocidadeKms) {
-        this.velocidade = Math.floor(progress * 255);
-        this.VelocidadeKms.string = this.velocidade.toString();
+        this.velocidade = Math.floor(progress * 255 / 4);
+        this.VelocidadeKms.string = this.velocidade.toString() + 'km/s';
     },
     OnSliderEvent: function OnSliderEvent(sender, eventType) {
         this._updateVelocidade(sender.progress);

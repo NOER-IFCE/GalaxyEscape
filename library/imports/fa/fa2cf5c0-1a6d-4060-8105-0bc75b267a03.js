@@ -8,27 +8,42 @@ cc.Class({
     extends: cc.Component,
 
     properties: {
-        buttonAumentar: cc.Button,
-        buttonDiminuir: cc.Button,
-        massaLabel: cc.Label
+        buttonAumentar: {
+            default: null,
+            type: cc.Button
+        },
+        buttonDiminuir: {
+            default: null,
+            type: cc.Button
+        },
+        massaLabel: {
+            default: null,
+            type: cc.Label
+        },
+
+        massa: 1
     },
 
-    onBtnAumentarClicked: function onBtnAumentarClicked() {
-        this.massaLabel.setString(ParseInt(this.massa += 1));
+    onLoad: function onLoad() {
+        this.massa = this.massaLabel.string.toInt();
+        this.onBtnAumentarClicked(this.massa);
+        this.onBtnDiminuirClicked(this.massa);
+    },
+    onBtnAumentarClicked: function onBtnAumentarClicked(massa) {
         if (this.massa > 20) {
-            this.massaLabel.setString(ParseInt(this.massa = 1));
+            this.massa = 1;
+        } else {
+            this.massa += 1;
         }
-        this.massaLabel.toString = this.massa;
-        return;
+        this.massaLabel.string = this.massa.toString();
     },
-
-    onBtnDiminuirClicked: function onBtnDiminuirClicked() {
-        this.massaLabel.setString(ParseInt(this.massa -= 1));
+    onBtnDiminuirClicked: function onBtnDiminuirClicked(massa) {
         if (this.massa < 1) {
-            this.massaLabel.setString(ParseInt(this.massa = 1));
+            this.massa = 1;
+        } else {
+            this.massa -= 1;
         }
-        this.massaLabel.toString = this.massa;
-        return;
+        this.massaLabel.string = this.massa.toString();
     }
 });
 
