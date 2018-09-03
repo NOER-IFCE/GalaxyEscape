@@ -35,17 +35,19 @@ cc.Class({
         //         this._bar = value;
         //     }
         // },
+        velocidade : 0,
     },
     onLoad(){
         this.slider.progress = 0.5;
         this._updateVelocidade(this.slider.progress);
+
     },
 
-    _updateVelocidade(progress, velocidadeKms){
-        this.velocidade = progress * 255;
-        this.VelocidadeKms.string = toString(this.velocidade); 
+    _updateVelocidade(progress, VelocidadeKms){
+        this.velocidade = Math.floor(progress * 255);
+        this.VelocidadeKms.string = this.velocidade.toString();
     },
     OnSliderEvent(sender, eventType){
-        this._updateVelocidade(sender, progress);
+        this._updateVelocidade(sender.progress);
     }
 });

@@ -2036,7 +2036,8 @@
     },
     "VelocidadeKms": {
       "__id__": 53
-    }
+    },
+    "velocidade": 0
   },
   {
     "__type__": "cc.Label",
