@@ -1,151 +1,89 @@
-2018-09-03T19:59:04.989Z - normal: Load ~/.CocosCreator/settings.json
-2018-09-03T19:59:04.993Z - normal: checking language setting...
-2018-09-03T19:59:04.993Z - normal: Language: en
-2018-09-03T19:59:06.465Z - success: protocol editor-framework registered
-2018-09-03T19:59:06.465Z - success: protocol app registered
-2018-09-03T19:59:06.465Z - success: protocol theme registered
-2018-09-03T19:59:06.465Z - success: protocol packages registered
-2018-09-03T19:59:06.465Z - success: protocol unpack registerred
-2018-09-03T19:59:06.465Z - success: protocol disable-commonjs registerred
-2018-09-03T19:59:08.315Z - normal: connected!
-2018-09-03T19:59:08.315Z - normal: Check project C:\Users\thoma\Documents\GitHub\GalaxyEscape
-2018-09-03T19:59:08.315Z - normal: Initializing project C:\Users\thoma\Documents\GitHub\GalaxyEscape
-2018-09-03T19:59:08.325Z - normal: Initializing Cocos2d
-2018-09-03T19:59:08.537Z - normal: Initializing Asset Database
-2018-09-03T19:59:08.566Z - success: protocol uuid registerred
-2018-09-03T19:59:08.566Z - success: protocol db registerred
-2018-09-03T19:59:08.566Z - success: protocol thumbnail registerred
-2018-09-03T19:59:08.566Z - normal: Loading editor/builtin packages
-2018-09-03T19:59:08.685Z - success: assets loaded
-2018-09-03T19:59:08.687Z - success: builder loaded
-2018-09-03T19:59:08.689Z - success: cocos-analytics loaded
-2018-09-03T19:59:08.691Z - success: console loaded
-2018-09-03T19:59:08.723Z - success: fb-instant-games loaded
-2018-09-03T19:59:08.727Z - success: hierarchy loaded
-2018-09-03T19:59:08.729Z - success: inspector loaded
-2018-09-03T19:59:08.731Z - success: keystore loaded
-2018-09-03T19:59:08.734Z - success: node-library loaded
-2018-09-03T19:59:08.735Z - success: package-asset loaded
-2018-09-03T19:59:08.737Z - success: preferences loaded
-2018-09-03T19:59:08.738Z - success: project-exporter loaded
-2018-09-03T19:59:08.755Z - success: project-importer loaded
-2018-09-03T19:59:08.757Z - success: project-settings loaded
-2018-09-03T19:59:08.759Z - success: ui-kit loaded
-2018-09-03T19:59:08.761Z - success: scene loaded
-2018-09-03T19:59:08.763Z - success: sprite-editor loaded
-2018-09-03T19:59:08.765Z - success: store loaded
-2018-09-03T19:59:08.769Z - success: timeline loaded
-2018-09-03T19:59:08.769Z - normal: Loading builtin packages
-2018-09-03T19:59:08.772Z - success: asset-db-debugger loaded
-2018-09-03T19:59:08.773Z - success: code-editor loaded
-2018-09-03T19:59:08.774Z - success: color-picker loaded
-2018-09-03T19:59:08.776Z - success: package-manager loaded
-2018-09-03T19:59:08.777Z - success: qqplay-adapter loaded
-2018-09-03T19:59:08.781Z - success: sdkbox loaded
-2018-09-03T19:59:08.783Z - success: tester loaded
-2018-09-03T19:59:08.785Z - success: ui-grid loaded
-2018-09-03T19:59:08.786Z - success: ui-kit-preview-extra loaded
-2018-09-03T19:59:08.788Z - success: ui-kit-preview loaded
-2018-09-03T19:59:08.789Z - success: ui-tree loaded
-2018-09-03T19:59:08.790Z - success: weapp-adapter loaded
-2018-09-03T19:59:09.697Z - normal: Loading packages
-2018-09-03T19:59:09.702Z - normal: Watching packages
-2018-09-03T19:59:09.906Z - normal: Run Application
-2018-09-03T19:59:12.229Z - success: preview server running at http://localhost:7457
-2018-09-03T21:29:28.112Z - warn: Script attached to "Canvas" is missing or invalid. Detailed information:
-Node path: "Canvas"
-Script UUID: "2dda31ca-5542-4d6b-962c-34ac8c6411ba"
-Class ID: "2dda3HKVUJNa5YsNKyMZBG6"
-
-2018-09-03T21:58:29.163Z - failed: load script [C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\SliderCtrl.js] failed : ReferenceError: Label is not defined
-    at __define (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\SliderCtrl.js:24:19)
-    at C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\SliderCtrl.js:57:13
-    at Object.<anonymous> (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\SliderCtrl.js:64:11)
-    at Object.<anonymous> (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\SliderCtrl.js:67:3)
+2018-09-04T21:28:57.998Z - normal: Load ~/.CocosCreator/settings.json
+2018-09-04T21:28:58.002Z - normal: checking language setting...
+2018-09-04T21:28:58.002Z - normal: Language: en
+2018-09-04T21:28:59.984Z - success: protocol editor-framework registered
+2018-09-04T21:28:59.984Z - success: protocol app registered
+2018-09-04T21:28:59.984Z - success: protocol theme registered
+2018-09-04T21:28:59.984Z - success: protocol packages registered
+2018-09-04T21:28:59.984Z - success: protocol unpack registerred
+2018-09-04T21:28:59.984Z - success: protocol disable-commonjs registerred
+2018-09-04T21:29:02.751Z - normal: connected!
+2018-09-04T21:29:02.751Z - normal: Check project C:\Users\thoma\Documents\GitHub\GalaxyEscape
+2018-09-04T21:29:02.753Z - normal: Initializing project C:\Users\thoma\Documents\GitHub\GalaxyEscape
+2018-09-04T21:29:02.769Z - normal: Initializing Cocos2d
+2018-09-04T21:29:04.241Z - normal: Initializing Asset Database
+2018-09-04T21:29:04.302Z - success: protocol uuid registerred
+2018-09-04T21:29:04.302Z - success: protocol db registerred
+2018-09-04T21:29:04.302Z - success: protocol thumbnail registerred
+2018-09-04T21:29:04.302Z - normal: Loading editor/builtin packages
+2018-09-04T21:29:04.594Z - success: assets loaded
+2018-09-04T21:29:04.597Z - success: builder loaded
+2018-09-04T21:29:04.599Z - success: cocos-analytics loaded
+2018-09-04T21:29:04.603Z - success: console loaded
+2018-09-04T21:29:04.651Z - success: fb-instant-games loaded
+2018-09-04T21:29:04.656Z - success: hierarchy loaded
+2018-09-04T21:29:04.659Z - success: inspector loaded
+2018-09-04T21:29:04.660Z - success: keystore loaded
+2018-09-04T21:29:04.678Z - success: node-library loaded
+2018-09-04T21:29:04.680Z - success: package-asset loaded
+2018-09-04T21:29:04.681Z - success: preferences loaded
+2018-09-04T21:29:04.686Z - success: project-exporter loaded
+2018-09-04T21:29:04.699Z - success: project-importer loaded
+2018-09-04T21:29:04.701Z - success: project-settings loaded
+2018-09-04T21:29:04.703Z - success: ui-kit loaded
+2018-09-04T21:29:04.705Z - success: scene loaded
+2018-09-04T21:29:04.706Z - success: sprite-editor loaded
+2018-09-04T21:29:04.709Z - success: store loaded
+2018-09-04T21:29:04.728Z - success: timeline loaded
+2018-09-04T21:29:04.728Z - normal: Loading builtin packages
+2018-09-04T21:29:04.750Z - success: asset-db-debugger loaded
+2018-09-04T21:29:04.773Z - success: code-editor loaded
+2018-09-04T21:29:04.777Z - success: color-picker loaded
+2018-09-04T21:29:04.787Z - success: package-manager loaded
+2018-09-04T21:29:04.791Z - success: qqplay-adapter loaded
+2018-09-04T21:29:04.818Z - success: sdkbox loaded
+2018-09-04T21:29:04.841Z - success: tester loaded
+2018-09-04T21:29:04.860Z - success: ui-grid loaded
+2018-09-04T21:29:04.869Z - success: ui-kit-preview-extra loaded
+2018-09-04T21:29:04.893Z - success: ui-kit-preview loaded
+2018-09-04T21:29:04.902Z - success: ui-tree loaded
+2018-09-04T21:29:04.906Z - success: weapp-adapter loaded
+2018-09-04T21:29:06.278Z - normal: Loading packages
+2018-09-04T21:29:06.281Z - normal: Watching packages
+2018-09-04T21:29:06.647Z - normal: Run Application
+2018-09-04T21:29:09.288Z - success: preview server running at http://localhost:7456
+2018-09-04T21:29:15.473Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
+    at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
+    at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
+    at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-09-04T21:29:15.474Z - success: ui-tree unloaded
+2018-09-04T21:29:15.475Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
+    at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
+    at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
+    at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-09-04T21:29:15.475Z - failed: Failed to uncache module main.js: Cannot find it.
+2018-09-04T21:29:15.475Z - success: ui-tree unloaded
+2018-09-04T21:29:15.481Z - failed: Failed to load panel "panel.preview" from "ui-tree", the panelID ui-tree.preview already exists
+2018-09-04T21:29:15.482Z - success: ui-tree loaded
+2018-09-04T21:29:15.482Z - success: ui-tree loaded
+2018-09-04T21:43:15.071Z - failed: load script [C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\BotaoEvento.js] failed : ReferenceError: massaLabel is not defined
+    at __define (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\BotaoEvento.js:24:16)
+    at C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\BotaoEvento.js:52:13
+    at Object.<anonymous> (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\BotaoEvento.js:59:11)
+    at Object.<anonymous> (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\BotaoEvento.js:62:3)
     at Module._compile (module.js:571:32)
     at Object.Module._extensions..js (module.js:580:10)
     at Module.load (module.js:488:32)
     at tryModuleLoad (module.js:447:12)
     at Function.Module._load (module.js:439:3)
     at Module.require (module.js:498:17)
-2018-09-03T21:58:39.438Z - warn: Script attached to "SliderCtrl" is missing or invalid. Detailed information:
-Node path: "SliderCtrl"
-Script UUID: "da4ff85a-f246-4d5d-8824-26d1e2c079e0"
-Class ID: "da4ffha8kZNXYgkJtHiwHng"
-
-2018-09-03T21:59:14.645Z - failed: load script [C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\SliderCtrl.js] failed : ReferenceError: Label is not defined
-    at __define (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\SliderCtrl.js:24:19)
-    at C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\SliderCtrl.js:58:13
-    at Object.<anonymous> (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\SliderCtrl.js:65:11)
-    at Object.<anonymous> (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\SliderCtrl.js:68:3)
-    at Module._compile (module.js:571:32)
-    at Object.Module._extensions..js (module.js:580:10)
-    at Module.load (module.js:488:32)
-    at tryModuleLoad (module.js:447:12)
-    at Function.Module._load (module.js:439:3)
-    at Module.require (module.js:498:17)
-2018-09-03T21:59:24.971Z - error: Can not find cc.Component in the script da4ffha8kZNXYgkJtHiwHng.
-    at Object.addComponent (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils\scene.js:1:5672)
-    at HTMLElement.add-component (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene-operation.js:1:1231)
-    at Object.Panel._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:2283)
-    at EventEmitter.ipcRenderer.on.o (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4070)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2018-09-03T21:59:40.623Z - failed: load script [C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\SliderCtrl.js] failed : ReferenceError: Label is not defined
-    at __define (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\SliderCtrl.js:24:19)
-    at C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\SliderCtrl.js:58:13
-    at Object.<anonymous> (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\SliderCtrl.js:65:11)
-    at Object.<anonymous> (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\SliderCtrl.js:68:3)
-    at Module._compile (module.js:571:32)
-    at Object.Module._extensions..js (module.js:580:10)
-    at Module.load (module.js:488:32)
-    at tryModuleLoad (module.js:447:12)
-    at Function.Module._load (module.js:439:3)
-    at Module.require (module.js:498:17)
-2018-09-03T22:00:03.215Z - error: Can not find cc.Component in the script da4ffha8kZNXYgkJtHiwHng.
-    at Object.addComponent (D:\CocosCreator\resources\app.asar\editor\page\scene-utils\utils\scene.js:1:5672)
-    at HTMLElement.add-component (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene-operation.js:1:1231)
-    at Object.Panel._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:2283)
-    at EventEmitter.ipcRenderer.on.o (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4070)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2018-09-03T22:02:52.237Z - failed: load script [C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\SliderCtrl.js] failed : ReferenceError: Label is not defined
-    at __define (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\SliderCtrl.js:27:19)
-    at C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\SliderCtrl.js:61:13
-    at Object.<anonymous> (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\SliderCtrl.js:68:11)
-    at Object.<anonymous> (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\SliderCtrl.js:71:3)
-    at Module._compile (module.js:571:32)
-    at Object.Module._extensions..js (module.js:580:10)
-    at Module.load (module.js:488:32)
-    at tryModuleLoad (module.js:447:12)
-    at Function.Module._load (module.js:439:3)
-    at Module.require (module.js:498:17)
-2018-09-03T22:06:06.914Z - failed: load script [C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\SliderCtrl.js] failed : ReferenceError: Label is not defined
-    at __define (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\SliderCtrl.js:27:19)
-    at C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\SliderCtrl.js:61:13
-    at Object.<anonymous> (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\SliderCtrl.js:68:11)
-    at Object.<anonymous> (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\SliderCtrl.js:71:3)
-    at Module._compile (module.js:571:32)
-    at Object.Module._extensions..js (module.js:580:10)
-    at Module.load (module.js:488:32)
-    at tryModuleLoad (module.js:447:12)
-    at Function.Module._load (module.js:439:3)
-    at Module.require (module.js:498:17)
-2018-09-03T22:18:53.192Z - failed: [db-task][sync-changes] Failed to import asset C:\Users\thoma\Documents\GitHub\GalaxyEscape\assets\Scripts\SliderCtrl.js, message: Compile error: SyntaxError: C:/Users/thoma/Documents/GitHub/GalaxyEscape/assets/Scripts/SliderCtrl.js: Unexpected token (38:19)
-  36 |         //     }
-  37 |         // },
-> 38 |         velocidade = 0,
-     |                    ^
-  39 |     },
-  40 |     onLoad(){
-  41 |         this.slider.progress = 0.5;
-    at Parser.pp$5.raise (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4454:13)
-    at Parser.pp.unexpected (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:1761:8)
-    at Parser.pp$3.parseMaybeAssign (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3370:10)
-    at Parser.pp$3.parseExprListItem (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:4312:16)
-    at Parser.pp$3.parseCallExpressionArguments (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3573:20)
-    at Parser.pp$3.parseSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3533:31)
-    at Parser.pp$3.parseExprSubscripts (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3504:15)
-    at Parser.pp$3.parseMaybeUnary (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3474:19)
-    at Parser.pp$3.parseExprOps (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3404:19)
-    at Parser.pp$3.parseMaybeConditional (D:\CocosCreator\resources\app.asar\node_modules\babylon\lib\index.js:3381:19)
