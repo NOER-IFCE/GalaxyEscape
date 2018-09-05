@@ -1,58 +1,58 @@
-2018-09-04T21:28:57.998Z - normal: Load ~/.CocosCreator/settings.json
-2018-09-04T21:28:58.002Z - normal: checking language setting...
-2018-09-04T21:28:58.002Z - normal: Language: en
-2018-09-04T21:28:59.984Z - success: protocol editor-framework registered
-2018-09-04T21:28:59.984Z - success: protocol app registered
-2018-09-04T21:28:59.984Z - success: protocol theme registered
-2018-09-04T21:28:59.984Z - success: protocol packages registered
-2018-09-04T21:28:59.984Z - success: protocol unpack registerred
-2018-09-04T21:28:59.984Z - success: protocol disable-commonjs registerred
-2018-09-04T21:29:02.751Z - normal: connected!
-2018-09-04T21:29:02.751Z - normal: Check project C:\Users\thoma\Documents\GitHub\GalaxyEscape
-2018-09-04T21:29:02.753Z - normal: Initializing project C:\Users\thoma\Documents\GitHub\GalaxyEscape
-2018-09-04T21:29:02.769Z - normal: Initializing Cocos2d
-2018-09-04T21:29:04.241Z - normal: Initializing Asset Database
-2018-09-04T21:29:04.302Z - success: protocol uuid registerred
-2018-09-04T21:29:04.302Z - success: protocol db registerred
-2018-09-04T21:29:04.302Z - success: protocol thumbnail registerred
-2018-09-04T21:29:04.302Z - normal: Loading editor/builtin packages
-2018-09-04T21:29:04.594Z - success: assets loaded
-2018-09-04T21:29:04.597Z - success: builder loaded
-2018-09-04T21:29:04.599Z - success: cocos-analytics loaded
-2018-09-04T21:29:04.603Z - success: console loaded
-2018-09-04T21:29:04.651Z - success: fb-instant-games loaded
-2018-09-04T21:29:04.656Z - success: hierarchy loaded
-2018-09-04T21:29:04.659Z - success: inspector loaded
-2018-09-04T21:29:04.660Z - success: keystore loaded
-2018-09-04T21:29:04.678Z - success: node-library loaded
-2018-09-04T21:29:04.680Z - success: package-asset loaded
-2018-09-04T21:29:04.681Z - success: preferences loaded
-2018-09-04T21:29:04.686Z - success: project-exporter loaded
-2018-09-04T21:29:04.699Z - success: project-importer loaded
-2018-09-04T21:29:04.701Z - success: project-settings loaded
-2018-09-04T21:29:04.703Z - success: ui-kit loaded
-2018-09-04T21:29:04.705Z - success: scene loaded
-2018-09-04T21:29:04.706Z - success: sprite-editor loaded
-2018-09-04T21:29:04.709Z - success: store loaded
-2018-09-04T21:29:04.728Z - success: timeline loaded
-2018-09-04T21:29:04.728Z - normal: Loading builtin packages
-2018-09-04T21:29:04.750Z - success: asset-db-debugger loaded
-2018-09-04T21:29:04.773Z - success: code-editor loaded
-2018-09-04T21:29:04.777Z - success: color-picker loaded
-2018-09-04T21:29:04.787Z - success: package-manager loaded
-2018-09-04T21:29:04.791Z - success: qqplay-adapter loaded
-2018-09-04T21:29:04.818Z - success: sdkbox loaded
-2018-09-04T21:29:04.841Z - success: tester loaded
-2018-09-04T21:29:04.860Z - success: ui-grid loaded
-2018-09-04T21:29:04.869Z - success: ui-kit-preview-extra loaded
-2018-09-04T21:29:04.893Z - success: ui-kit-preview loaded
-2018-09-04T21:29:04.902Z - success: ui-tree loaded
-2018-09-04T21:29:04.906Z - success: weapp-adapter loaded
-2018-09-04T21:29:06.278Z - normal: Loading packages
-2018-09-04T21:29:06.281Z - normal: Watching packages
-2018-09-04T21:29:06.647Z - normal: Run Application
-2018-09-04T21:29:09.288Z - success: preview server running at http://localhost:7456
-2018-09-04T21:29:15.473Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
+2018-09-05T10:44:54.724Z - normal: Load ~/.CocosCreator/settings.json
+2018-09-05T10:44:54.728Z - normal: checking language setting...
+2018-09-05T10:44:54.728Z - normal: Language: en
+2018-09-05T10:44:56.135Z - success: protocol editor-framework registered
+2018-09-05T10:44:56.135Z - success: protocol app registered
+2018-09-05T10:44:56.135Z - success: protocol theme registered
+2018-09-05T10:44:56.135Z - success: protocol packages registered
+2018-09-05T10:44:56.135Z - success: protocol unpack registerred
+2018-09-05T10:44:56.135Z - success: protocol disable-commonjs registerred
+2018-09-05T10:44:57.504Z - normal: connected!
+2018-09-05T10:44:57.505Z - normal: Check project C:\Users\thoma\Documents\GitHub\GalaxyEscape
+2018-09-05T10:44:57.506Z - normal: Initializing project C:\Users\thoma\Documents\GitHub\GalaxyEscape
+2018-09-05T10:44:57.513Z - normal: Initializing Cocos2d
+2018-09-05T10:44:58.728Z - normal: Initializing Asset Database
+2018-09-05T10:44:58.766Z - success: protocol uuid registerred
+2018-09-05T10:44:58.766Z - success: protocol db registerred
+2018-09-05T10:44:58.766Z - success: protocol thumbnail registerred
+2018-09-05T10:44:58.766Z - normal: Loading editor/builtin packages
+2018-09-05T10:44:58.910Z - success: assets loaded
+2018-09-05T10:44:58.912Z - success: builder loaded
+2018-09-05T10:44:58.913Z - success: cocos-analytics loaded
+2018-09-05T10:44:58.916Z - success: console loaded
+2018-09-05T10:44:58.956Z - success: fb-instant-games loaded
+2018-09-05T10:44:58.960Z - success: hierarchy loaded
+2018-09-05T10:44:58.962Z - success: inspector loaded
+2018-09-05T10:44:58.964Z - success: keystore loaded
+2018-09-05T10:44:58.968Z - success: node-library loaded
+2018-09-05T10:44:58.970Z - success: package-asset loaded
+2018-09-05T10:44:58.973Z - success: preferences loaded
+2018-09-05T10:44:58.974Z - success: project-exporter loaded
+2018-09-05T10:44:58.995Z - success: project-importer loaded
+2018-09-05T10:44:58.996Z - success: project-settings loaded
+2018-09-05T10:44:58.998Z - success: ui-kit loaded
+2018-09-05T10:44:59.001Z - success: scene loaded
+2018-09-05T10:44:59.002Z - success: sprite-editor loaded
+2018-09-05T10:44:59.007Z - success: store loaded
+2018-09-05T10:44:59.010Z - success: timeline loaded
+2018-09-05T10:44:59.010Z - normal: Loading builtin packages
+2018-09-05T10:44:59.023Z - success: asset-db-debugger loaded
+2018-09-05T10:44:59.056Z - success: code-editor loaded
+2018-09-05T10:44:59.060Z - success: color-picker loaded
+2018-09-05T10:44:59.074Z - success: package-manager loaded
+2018-09-05T10:44:59.077Z - success: qqplay-adapter loaded
+2018-09-05T10:44:59.094Z - success: sdkbox loaded
+2018-09-05T10:44:59.109Z - success: tester loaded
+2018-09-05T10:44:59.125Z - success: ui-grid loaded
+2018-09-05T10:44:59.135Z - success: ui-kit-preview-extra loaded
+2018-09-05T10:44:59.156Z - success: ui-kit-preview loaded
+2018-09-05T10:44:59.165Z - success: ui-tree loaded
+2018-09-05T10:44:59.169Z - success: weapp-adapter loaded
+2018-09-05T10:45:00.444Z - normal: Loading packages
+2018-09-05T10:45:00.449Z - normal: Watching packages
+2018-09-05T10:45:00.764Z - normal: Run Application
+2018-09-05T10:45:04.031Z - success: preview server running at http://localhost:7456
+2018-09-05T10:45:09.647Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
     at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
     at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
     at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
@@ -61,8 +61,8 @@
     at runCallback (timers.js:672:20)
     at tryOnImmediate (timers.js:645:5)
     at processImmediate [as _immediateCallback] (timers.js:617:5)
-2018-09-04T21:29:15.474Z - success: ui-tree unloaded
-2018-09-04T21:29:15.475Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
+2018-09-05T10:45:09.648Z - success: ui-tree unloaded
+2018-09-05T10:45:09.648Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
     at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
     at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
     at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
@@ -71,19 +71,1040 @@
     at runCallback (timers.js:672:20)
     at tryOnImmediate (timers.js:645:5)
     at processImmediate [as _immediateCallback] (timers.js:617:5)
-2018-09-04T21:29:15.475Z - failed: Failed to uncache module main.js: Cannot find it.
-2018-09-04T21:29:15.475Z - success: ui-tree unloaded
-2018-09-04T21:29:15.481Z - failed: Failed to load panel "panel.preview" from "ui-tree", the panelID ui-tree.preview already exists
-2018-09-04T21:29:15.482Z - success: ui-tree loaded
-2018-09-04T21:29:15.482Z - success: ui-tree loaded
-2018-09-04T21:43:15.071Z - failed: load script [C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\BotaoEvento.js] failed : ReferenceError: massaLabel is not defined
-    at __define (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\BotaoEvento.js:24:16)
-    at C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\BotaoEvento.js:52:13
-    at Object.<anonymous> (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\BotaoEvento.js:59:11)
-    at Object.<anonymous> (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\BotaoEvento.js:62:3)
+2018-09-05T10:45:09.649Z - failed: Failed to uncache module main.js: Cannot find it.
+2018-09-05T10:45:09.649Z - success: ui-tree unloaded
+2018-09-05T10:45:09.657Z - failed: Failed to load panel "panel.preview" from "ui-tree", the panelID ui-tree.preview already exists
+2018-09-05T10:45:09.659Z - success: ui-tree loaded
+2018-09-05T10:45:09.659Z - success: ui-tree loaded
+2018-09-05T12:33:11.071Z - failed: load script [C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\Aumentar.js] failed : ReferenceError: massaText is not defined
+    at __define (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\Aumentar.js:20:16)
+    at C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\Aumentar.js:37:13
+    at Object.<anonymous> (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\Aumentar.js:44:11)
+    at Object.<anonymous> (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\Aumentar.js:47:3)
     at Module._compile (module.js:571:32)
     at Object.Module._extensions..js (module.js:580:10)
     at Module.load (module.js:488:32)
     at tryModuleLoad (module.js:447:12)
     at Function.Module._load (module.js:439:3)
     at Module.require (module.js:498:17)
+2018-09-05T12:35:55.881Z - error: Property 'Aumentar.aumentar' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:351:8)
+    at Object.exports.preprocessAttrs (D:\CocosCreator\resources\engine\cocos2d\core\platform\preprocess-class.js:318:28)
+    at declareProperties (D:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:808:20)
+    at Object.CCClass [as Class] (D:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:950:9)
+    at __define (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\Aumentar.js:7:4)
+    at C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\Aumentar.js:37:13
+    at Object.<anonymous> (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\Aumentar.js:44:11)
+    at Object.<anonymous> (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\Aumentar.js:47:3)
+    at Module._compile (module.js:571:32)
+2018-09-05T12:36:23.490Z - error: Property 'Aumentar.aumentar' must define at least one of 'default', 'get' or 'set'.
+    at Object.cc.errorID (D:\CocosCreator\resources\engine\CCDebugger.js:351:8)
+    at Object.exports.preprocessAttrs (D:\CocosCreator\resources\engine\cocos2d\core\platform\preprocess-class.js:318:28)
+    at declareProperties (D:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:808:20)
+    at Object.CCClass [as Class] (D:\CocosCreator\resources\engine\cocos2d\core\platform\CCClass.js:950:9)
+    at __define (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\Aumentar.js:7:4)
+    at C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\Aumentar.js:35:13
+    at Object.<anonymous> (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\Aumentar.js:42:11)
+    at Object.<anonymous> (C:\Users\thoma\Documents\GitHub\GalaxyEscape\temp\quick-scripts\assets\Scripts\Aumentar.js:45:3)
+    at Module._compile (module.js:571:32)
+2018-09-05T13:03:29.122Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-09-05T13:03:29.124Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-09-05T13:03:29.125Z - normal: Simulator: FRAME SCALE = 0.75
+2018-09-05T13:03:29.170Z - normal: Simulator: Ready for GLSL
+2018-09-05T13:03:29.170Z - normal: Simulator: Ready for OpenGL 2.0
+2018-09-05T13:03:29.184Z - normal: Simulator: 
+2018-09-05T13:03:29.184Z - normal: Simulator: {
+2018-09-05T13:03:29.184Z - normal: Simulator: 	gl.version: 4.5.0 - Build 24.20.100.6025
+2018-09-05T13:03:29.184Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-09-05T13:03:29.184Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-09-05T13:03:29.184Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-09-05T13:03:29.184Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-09-05T13:03:29.184Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-09-05T13:03:29.185Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-09-05T13:03:29.185Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-09-05T13:03:29.185Z - normal: Simulator: 	gl.vendor: Intel
+2018-09-05T13:03:29.185Z - normal: Simulator: 	gl.renderer: Intel(R) UHD Graphics 630
+2018-09-05T13:03:29.185Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-09-05T13:03:29.185Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-09-05T13:03:29.185Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-09-05T13:03:29.185Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-09-05T13:03:29.186Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-09-05T13:03:29.186Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-09-05T13:03:29.186Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-09-05T13:03:29.186Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-09-05T13:03:29.186Z - normal: Simulator: }
+2018-09-05T13:03:29.186Z - normal: Simulator: 
+2018-09-05T13:03:29.186Z - normal: Simulator: 
+2018-09-05T13:03:29.186Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-09-05T13:03:29.187Z - normal: Simulator: Project Config:
+2018-09-05T13:03:29.187Z - normal: Simulator:     project dir: D:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-09-05T13:03:29.187Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-09-05T13:03:29.187Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-09-05T13:03:29.187Z - normal: Simulator:     frame size: 720 x 1280
+2018-09-05T13:03:29.187Z - normal: Simulator:     frame scale: 0.75
+2018-09-05T13:03:29.187Z - normal: Simulator:     show console: NO
+2018-09-05T13:03:29.187Z - normal: Simulator:     write debug log: NO ()
+2018-09-05T13:03:29.187Z - normal: Simulator:     listen: 
+2018-09-05T13:03:29.187Z - normal: Simulator:     debugger: none
+2018-09-05T13:03:29.187Z - normal: Simulator:     add searching path:
+2018-09-05T13:03:29.188Z - normal: Simulator: 
+2018-09-05T13:03:29.188Z - normal: Simulator: 
+2018-09-05T13:03:29.188Z - normal: Simulator: 
+2018-09-05T13:03:29.188Z - normal: Simulator: ------------------------------------------------
+2018-09-05T13:03:29.188Z - normal: Simulator: LOAD Js FILE: main.js
+2018-09-05T13:03:29.188Z - normal: Simulator: ------------------------------------------------
+2018-09-05T13:03:29.188Z - normal: Simulator: D/jswrapper (365): Initializing V8, version: 6.0.286.52
+2018-09-05T13:03:29.501Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-09-05T13:03:29.501Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-09-05T13:03:29.502Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-09-05T13:03:29.959Z - normal: Simulator: iShow!
+2018-09-05T13:03:30.094Z - normal: Simulator: D/jswrapper (126): JS: InitScene: 1.7369999999999663ms
+2018-09-05T13:03:30.096Z - normal: Simulator: D/jswrapper (126): JS: AutoRelease: 0.1750000000000682ms
+2018-09-05T13:03:30.096Z - normal: Simulator: D/jswrapper (126): JS: Destroy: 0.08199999999999363ms
+2018-09-05T13:03:30.096Z - normal: Simulator: D/jswrapper (126): JS: AttachPersist: 0.005999999999971806ms
+2018-09-05T13:03:30.118Z - normal: Simulator: D/jswrapper (126): JS: Activate: 15.971000000000004ms
+2018-09-05T13:03:31.278Z - normal: Simulator: D/jswrapper (126): JS: LoadScene 2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2: 73.48299999999995ms
+2018-09-05T13:03:31.279Z - normal: Simulator: D/jswrapper (126): JS: InitScene: 1.441000000000031ms
+2018-09-05T13:03:31.279Z - normal: Simulator: D/jswrapper (126): JS: AutoRelease: 0.020999999999958163ms
+2018-09-05T13:03:31.287Z - normal: Simulator: D/jswrapper (126): JS: Destroy: 7.0470000000000255ms
+2018-09-05T13:03:31.287Z - normal: Simulator: D/jswrapper (126): JS: AttachPersist: 0.004999999999881766ms
+2018-09-05T13:03:31.289Z - normal: Simulator: D/jswrapper (126): JS: ScaleX != ScaleY. Don't know which one to return
+2018-09-05T13:03:31.292Z - normal: Simulator: D/jswrapper (126): JS: Activate: 5.509999999999991ms
+2018-09-05T13:03:31.302Z - normal: Simulator: cocos2d: QuadCommand: resizing index size from [-1] to [2560]
+2018-09-05T13:03:39.746Z - normal: Simulator: D/jswrapper (448): ScriptEngine::cleanup begin ...
+2018-09-05T13:03:39.747Z - normal: Simulator: D/jswrapper (589): GC begin ..., (js->native map) size: 147, all objects: 430
+2018-09-05T13:03:39.771Z - normal: Simulator: D/jswrapper (597): GC end ..., (js->native map) size: 96, all objects: 379
+2018-09-05T13:03:39.773Z - normal: Simulator: D/jswrapper (589): GC begin ..., (js->native map) size: 96, all objects: 377
+2018-09-05T13:03:39.799Z - normal: Simulator: D/jswrapper (597): GC end ..., (js->native map) size: 96, all objects: 377
+2018-09-05T13:03:39.800Z - normal: Simulator: D/jswrapper (589): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-09-05T13:03:39.821Z - normal: Simulator: D/jswrapper (597): GC end ..., (js->native map) size: 0, all objects: 0
+2018-09-05T13:03:39.837Z - normal: Simulator: D/jswrapper (688): Starting to cleanup dragonbones object, count: 0
+2018-09-05T13:03:39.837Z - normal: Simulator: D/jswrapper (707): After first cleanup, dragonbones object remained count: 0
+2018-09-05T13:03:39.837Z - normal: Simulator: D/jswrapper (723): After second cleanup, dragonbones object remained count: 0
+2018-09-05T13:03:39.837Z - normal: Simulator: D/jswrapper (511): ScriptEngine::cleanup end ...
+2018-09-05T13:03:46.514Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-09-05T13:04:13.899Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-09-05T13:04:22.172Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-09-05T13:04:28.079Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-09-05T13:04:28.080Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-09-05T13:04:28.080Z - normal: Simulator: FRAME SCALE = 0.75
+2018-09-05T13:04:28.174Z - normal: Simulator: Ready for GLSL
+2018-09-05T13:04:28.174Z - normal: Simulator: Ready for OpenGL 2.0
+2018-09-05T13:04:28.174Z - normal: Simulator: 
+2018-09-05T13:04:28.174Z - normal: Simulator: {
+2018-09-05T13:04:28.174Z - normal: Simulator: 	gl.version: 4.5.0 - Build 24.20.100.6025
+2018-09-05T13:04:28.174Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-09-05T13:04:28.174Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-09-05T13:04:28.174Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-09-05T13:04:28.174Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-09-05T13:04:28.174Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-09-05T13:04:28.175Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-09-05T13:04:28.175Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-09-05T13:04:28.175Z - normal: Simulator: 	gl.vendor: Intel
+2018-09-05T13:04:28.175Z - normal: Simulator: 	gl.renderer: Intel(R) UHD Graphics 630
+2018-09-05T13:04:28.175Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-09-05T13:04:28.175Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-09-05T13:04:28.175Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-09-05T13:04:28.175Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-09-05T13:04:28.175Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-09-05T13:04:28.175Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-09-05T13:04:28.176Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-09-05T13:04:28.176Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-09-05T13:04:28.176Z - normal: Simulator: }
+2018-09-05T13:04:28.176Z - normal: Simulator: 
+2018-09-05T13:04:28.176Z - normal: Simulator: 
+2018-09-05T13:04:28.176Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-09-05T13:04:28.176Z - normal: Simulator: Project Config:
+2018-09-05T13:04:28.176Z - normal: Simulator:     project dir: D:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-09-05T13:04:28.176Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-09-05T13:04:28.176Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-09-05T13:04:28.177Z - normal: Simulator:     frame size: 720 x 1280
+2018-09-05T13:04:28.177Z - normal: Simulator:     frame scale: 0.75
+2018-09-05T13:04:28.177Z - normal: Simulator:     show console: NO
+2018-09-05T13:04:28.177Z - normal: Simulator:     write debug log: NO ()
+2018-09-05T13:04:28.180Z - normal: Simulator:     listen: 
+2018-09-05T13:04:28.182Z - normal: Simulator:     debugger: none
+2018-09-05T13:04:28.182Z - normal: Simulator:     add searching path:
+2018-09-05T13:04:28.183Z - normal: Simulator: 
+2018-09-05T13:04:28.183Z - normal: Simulator: 
+2018-09-05T13:04:28.183Z - normal: Simulator: 
+2018-09-05T13:04:28.183Z - normal: Simulator: ------------------------------------------------
+2018-09-05T13:04:28.184Z - normal: Simulator: LOAD Js FILE: main.js
+2018-09-05T13:04:28.184Z - normal: Simulator: ------------------------------------------------
+2018-09-05T13:04:28.184Z - normal: Simulator: D/jswrapper (365): Initializing V8, version: 6.0.286.52
+2018-09-05T13:04:28.462Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-09-05T13:04:28.463Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-09-05T13:04:28.463Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-09-05T13:04:28.779Z - normal: Simulator: iShow!
+2018-09-05T13:04:28.889Z - normal: Simulator: D/jswrapper (126): JS: InitScene: 1.8350000000000364ms
+2018-09-05T13:04:28.891Z - normal: Simulator: D/jswrapper (126): JS: AutoRelease: 0.21800000000001774ms
+2018-09-05T13:04:28.892Z - normal: Simulator: D/jswrapper (126): JS: Destroy: 0.09699999999997999ms
+2018-09-05T13:04:28.893Z - normal: Simulator: D/jswrapper (126): JS: AttachPersist: 0.006000000000028649ms
+2018-09-05T13:04:28.918Z - normal: Simulator: D/jswrapper (126): JS: Activate: 21.141999999999996ms
+2018-09-05T13:04:31.321Z - normal: Simulator: D/jswrapper (126): JS: LoadScene 2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2: 65.07300000000032ms
+2018-09-05T13:04:31.322Z - normal: Simulator: D/jswrapper (126): JS: InitScene: 1.4510000000000218ms
+2018-09-05T13:04:31.322Z - normal: Simulator: D/jswrapper (126): JS: AutoRelease: 0.021999999999934516ms
+2018-09-05T13:04:31.337Z - normal: Simulator: D/jswrapper (126): JS: Destroy: 9.440000000000055ms
+2018-09-05T13:04:31.337Z - normal: Simulator: D/jswrapper (126): JS: AttachPersist: 0.004999999999654392ms
+2018-09-05T13:04:31.338Z - normal: Simulator: D/jswrapper (126): JS: ScaleX != ScaleY. Don't know which one to return
+2018-09-05T13:04:31.340Z - normal: Simulator: D/jswrapper (126): JS: Activate: 6.927999999999884ms
+2018-09-05T13:04:31.343Z - normal: Simulator: cocos2d: QuadCommand: resizing index size from [-1] to [2560]
+2018-09-05T13:04:34.913Z - normal: Simulator: D/jswrapper (126): JS: LoadScene 71f1197b-5028-4a26-9c2c-e452c1960071: 67.82399999999961ms
+2018-09-05T13:04:34.916Z - normal: Simulator: D/jswrapper (126): JS: InitScene: 3.0909999999994398ms
+2018-09-05T13:04:34.916Z - normal: Simulator: D/jswrapper (126): JS: AutoRelease: 0.02099999999973079ms
+2018-09-05T13:04:34.919Z - normal: Simulator: D/jswrapper (126): JS: Destroy: 2.53899999999976ms
+2018-09-05T13:04:34.919Z - normal: Simulator: D/jswrapper (126): JS: AttachPersist: 0.0029999999997016857ms
+2018-09-05T13:04:34.921Z - normal: Simulator: LabelTextFormatter error:can't find letter definition in font file for letter: ?
+2018-09-05T13:04:34.921Z - normal: Simulator: cocos2d: SpriteBatchNode: resizing TextureAtlas capacity from [29] to [40].
+2018-09-05T13:04:34.921Z - normal: Simulator: cocos2d: SpriteBatchNode: resizing TextureAtlas capacity from [40] to [54].
+2018-09-05T13:04:34.921Z - normal: Simulator: cocos2d: SpriteBatchNode: resizing TextureAtlas capacity from [54] to [73].
+2018-09-05T13:04:34.985Z - normal: Simulator: D/jswrapper (126): JS: Activate: 61.44499999999971ms
+2018-09-05T13:04:50.737Z - normal: Simulator: D/jswrapper (448): ScriptEngine::cleanup begin ...
+2018-09-05T13:04:50.737Z - normal: Simulator: D/jswrapper (589): GC begin ..., (js->native map) size: 164, all objects: 447
+2018-09-05T13:04:50.771Z - normal: Simulator: D/jswrapper (597): GC end ..., (js->native map) size: 138, all objects: 421
+2018-09-05T13:04:50.772Z - normal: Simulator: D/jswrapper (589): GC begin ..., (js->native map) size: 138, all objects: 419
+2018-09-05T13:04:50.795Z - normal: Simulator: D/jswrapper (597): GC end ..., (js->native map) size: 138, all objects: 419
+2018-09-05T13:04:50.801Z - normal: Simulator: D/jswrapper (589): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-09-05T13:04:50.823Z - normal: Simulator: D/jswrapper (597): GC end ..., (js->native map) size: 0, all objects: 0
+2018-09-05T13:04:50.828Z - normal: Simulator: D/jswrapper (688): Starting to cleanup dragonbones object, count: 0
+2018-09-05T13:04:50.829Z - normal: Simulator: D/jswrapper (707): After first cleanup, dragonbones object remained count: 0
+2018-09-05T13:04:50.829Z - normal: Simulator: D/jswrapper (723): After second cleanup, dragonbones object remained count: 0
+2018-09-05T13:04:50.830Z - normal: Simulator: D/jswrapper (511): ScriptEngine::cleanup end ...
+2018-09-05T13:04:50.835Z - error: Simulator: libpng warning: Interlace handling should be turned on when using png_read_image
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1562)
+    at Object.Panel._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:2283)
+    at EventEmitter.ipcRenderer.on.o (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4070)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-09-05T13:04:57.734Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-09-05T14:18:13.161Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-09-05T15:07:05.745Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-09-05T15:07:05.746Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-09-05T15:07:05.746Z - normal: Simulator: FRAME SCALE = 0.75
+2018-09-05T15:07:05.830Z - normal: Simulator: Ready for GLSL
+2018-09-05T15:07:05.830Z - normal: Simulator: Ready for OpenGL 2.0
+2018-09-05T15:07:05.830Z - normal: Simulator: 
+2018-09-05T15:07:05.830Z - normal: Simulator: {
+2018-09-05T15:07:05.831Z - normal: Simulator: 	gl.version: 4.5.0 - Build 24.20.100.6025
+2018-09-05T15:07:05.831Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-09-05T15:07:05.831Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-09-05T15:07:05.831Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-09-05T15:07:05.831Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-09-05T15:07:05.831Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-09-05T15:07:05.831Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-09-05T15:07:05.835Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-09-05T15:07:05.837Z - normal: Simulator: 	gl.vendor: Intel
+2018-09-05T15:07:05.838Z - normal: Simulator: 	gl.renderer: Intel(R) UHD Graphics 630
+2018-09-05T15:07:05.838Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-09-05T15:07:05.838Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-09-05T15:07:05.839Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-09-05T15:07:05.839Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-09-05T15:07:05.839Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-09-05T15:07:05.839Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-09-05T15:07:05.839Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-09-05T15:07:05.839Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-09-05T15:07:05.840Z - normal: Simulator: }
+2018-09-05T15:07:05.840Z - normal: Simulator: 
+2018-09-05T15:07:05.840Z - normal: Simulator: 
+2018-09-05T15:07:05.840Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-09-05T15:07:05.840Z - normal: Simulator: Project Config:
+2018-09-05T15:07:05.841Z - normal: Simulator:     project dir: D:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-09-05T15:07:05.841Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-09-05T15:07:05.841Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-09-05T15:07:05.841Z - normal: Simulator:     frame size: 720 x 1280
+2018-09-05T15:07:05.841Z - normal: Simulator:     frame scale: 0.75
+2018-09-05T15:07:05.841Z - normal: Simulator:     show console: NO
+2018-09-05T15:07:05.841Z - normal: Simulator:     write debug log: NO ()
+2018-09-05T15:07:05.841Z - normal: Simulator:     listen: 
+2018-09-05T15:07:05.842Z - normal: Simulator:     debugger: none
+2018-09-05T15:07:05.842Z - normal: Simulator:     add searching path:
+2018-09-05T15:07:05.842Z - normal: Simulator: 
+2018-09-05T15:07:05.842Z - normal: Simulator: 
+2018-09-05T15:07:05.842Z - normal: Simulator: 
+2018-09-05T15:07:05.842Z - normal: Simulator: ------------------------------------------------
+2018-09-05T15:07:05.842Z - normal: Simulator: LOAD Js FILE: main.js
+2018-09-05T15:07:05.842Z - normal: Simulator: ------------------------------------------------
+2018-09-05T15:07:05.842Z - normal: Simulator: D/jswrapper (365): Initializing V8, version: 6.0.286.52
+2018-09-05T15:07:06.145Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-09-05T15:07:06.146Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-09-05T15:07:06.146Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-09-05T15:07:06.476Z - normal: Simulator: iShow!
+2018-09-05T15:07:06.569Z - normal: Simulator: D/jswrapper (126): JS: InitScene: 1.8450000000000273ms
+2018-09-05T15:07:06.570Z - normal: Simulator: D/jswrapper (126): JS: AutoRelease: 0.2300000000000182ms
+2018-09-05T15:07:06.570Z - normal: Simulator: D/jswrapper (126): JS: Destroy: 0.08199999999999363ms
+2018-09-05T15:07:06.571Z - normal: Simulator: D/jswrapper (126): JS: AttachPersist: 0.006000000000028649ms
+2018-09-05T15:07:06.594Z - normal: Simulator: D/jswrapper (126): JS: Activate: 11.572999999999979ms
+2018-09-05T15:07:07.572Z - normal: Simulator: D/jswrapper (126): JS: LoadScene 2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2: 78.72399999999993ms
+2018-09-05T15:07:07.574Z - normal: Simulator: D/jswrapper (126): JS: InitScene: 1.5799999999999272ms
+2018-09-05T15:07:07.574Z - normal: Simulator: D/jswrapper (126): JS: AutoRelease: 0.02299999999991087ms
+2018-09-05T15:07:07.592Z - normal: Simulator: D/jswrapper (126): JS: Destroy: 7.920000000000073ms
+2018-09-05T15:07:07.592Z - normal: Simulator: D/jswrapper (126): JS: AttachPersist: 0.005000000000109139ms
+2018-09-05T15:07:07.592Z - normal: Simulator: D/jswrapper (126): JS: ScaleX != ScaleY. Don't know which one to return
+2018-09-05T15:07:07.592Z - normal: Simulator: D/jswrapper (126): JS: Activate: 8.077999999999975ms
+2018-09-05T15:07:07.595Z - normal: Simulator: cocos2d: QuadCommand: resizing index size from [-1] to [2560]
+2018-09-05T15:07:08.745Z - normal: Simulator: D/jswrapper (126): JS: LoadScene 71f1197b-5028-4a26-9c2c-e452c1960071: 148.4159999999997ms
+2018-09-05T15:07:08.758Z - normal: Simulator: D/jswrapper (126): JS: InitScene: 4.744000000000142ms
+2018-09-05T15:07:08.759Z - normal: Simulator: D/jswrapper (126): JS: AutoRelease: 0.028999999999996362ms
+2018-09-05T15:07:08.759Z - normal: Simulator: D/jswrapper (126): JS: Destroy: 5.368999999999687ms
+2018-09-05T15:07:08.759Z - normal: Simulator: D/jswrapper (126): JS: AttachPersist: 0.00400000000036016ms
+2018-09-05T15:07:08.759Z - normal: Simulator: LabelTextFormatter error:can't find letter definition in font file for letter: ?
+2018-09-05T15:07:08.759Z - normal: Simulator: cocos2d: SpriteBatchNode: resizing TextureAtlas capacity from [29] to [40].
+2018-09-05T15:07:08.759Z - normal: Simulator: cocos2d: SpriteBatchNode: resizing TextureAtlas capacity from [40] to [54].
+2018-09-05T15:07:08.759Z - normal: Simulator: cocos2d: SpriteBatchNode: resizing TextureAtlas capacity from [54] to [73].
+2018-09-05T15:07:08.812Z - normal: Simulator: D/jswrapper (126): JS: Activate: 44.41300000000001ms
+2018-09-05T15:07:14.891Z - normal: Simulator: D/jswrapper (448): ScriptEngine::cleanup begin ...
+2018-09-05T15:07:14.891Z - normal: Simulator: D/jswrapper (589): GC begin ..., (js->native map) size: 202, all objects: 486
+2018-09-05T15:07:14.925Z - normal: Simulator: D/jswrapper (597): GC end ..., (js->native map) size: 138, all objects: 422
+2018-09-05T15:07:14.925Z - normal: Simulator: D/jswrapper (589): GC begin ..., (js->native map) size: 138, all objects: 419
+2018-09-05T15:07:14.958Z - normal: Simulator: D/jswrapper (597): GC end ..., (js->native map) size: 138, all objects: 419
+2018-09-05T15:07:14.958Z - normal: Simulator: D/jswrapper (589): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-09-05T15:07:14.978Z - normal: Simulator: D/jswrapper (597): GC end ..., (js->native map) size: 0, all objects: 0
+2018-09-05T15:07:14.989Z - normal: Simulator: D/jswrapper (688): Starting to cleanup dragonbones object, count: 0
+2018-09-05T15:07:14.990Z - normal: Simulator: D/jswrapper (707): After first cleanup, dragonbones object remained count: 0
+2018-09-05T15:07:14.990Z - normal: Simulator: D/jswrapper (723): After second cleanup, dragonbones object remained count: 0
+2018-09-05T15:07:14.990Z - normal: Simulator: D/jswrapper (511): ScriptEngine::cleanup end ...
+2018-09-05T15:07:14.991Z - error: Simulator: libpng warning: Interlace handling should be turned on when using png_read_image
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1562)
+    at Object.Panel._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:2283)
+    at EventEmitter.ipcRenderer.on.o (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4070)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-09-05T15:07:50.853Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-09-05T15:07:50.854Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-09-05T15:07:50.854Z - normal: Simulator: FRAME SCALE = 0.75
+2018-09-05T15:07:50.965Z - normal: Simulator: Ready for GLSL
+2018-09-05T15:07:50.965Z - normal: Simulator: Ready for OpenGL 2.0
+2018-09-05T15:07:50.965Z - normal: Simulator: 
+2018-09-05T15:07:50.965Z - normal: Simulator: {
+2018-09-05T15:07:50.965Z - normal: Simulator: 	gl.version: 4.5.0 - Build 24.20.100.6025
+2018-09-05T15:07:50.966Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-09-05T15:07:50.968Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-09-05T15:07:50.969Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-09-05T15:07:50.969Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-09-05T15:07:50.970Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-09-05T15:07:50.970Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-09-05T15:07:50.971Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-09-05T15:07:50.972Z - normal: Simulator: 	gl.vendor: Intel
+2018-09-05T15:07:50.972Z - normal: Simulator: 	gl.renderer: Intel(R) UHD Graphics 630
+2018-09-05T15:07:50.973Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-09-05T15:07:50.974Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-09-05T15:07:50.974Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-09-05T15:07:50.974Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-09-05T15:07:50.974Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-09-05T15:07:50.975Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-09-05T15:07:50.975Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-09-05T15:07:50.975Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-09-05T15:07:50.975Z - normal: Simulator: }
+2018-09-05T15:07:50.975Z - normal: Simulator: 
+2018-09-05T15:07:50.976Z - normal: Simulator: 
+2018-09-05T15:07:50.976Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-09-05T15:07:50.976Z - normal: Simulator: Project Config:
+2018-09-05T15:07:50.976Z - normal: Simulator:     project dir: D:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-09-05T15:07:50.977Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-09-05T15:07:50.977Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-09-05T15:07:50.977Z - normal: Simulator:     frame size: 720 x 1280
+2018-09-05T15:07:50.977Z - normal: Simulator:     frame scale: 0.75
+2018-09-05T15:07:50.978Z - normal: Simulator:     show console: NO
+2018-09-05T15:07:50.978Z - normal: Simulator:     write debug log: NO ()
+2018-09-05T15:07:50.978Z - normal: Simulator:     listen: 
+2018-09-05T15:07:50.978Z - normal: Simulator:     debugger: none
+2018-09-05T15:07:50.979Z - normal: Simulator:     add searching path:
+2018-09-05T15:07:50.979Z - normal: Simulator: 
+2018-09-05T15:07:50.979Z - normal: Simulator: 
+2018-09-05T15:07:50.979Z - normal: Simulator: 
+2018-09-05T15:07:50.979Z - normal: Simulator: ------------------------------------------------
+2018-09-05T15:07:50.980Z - normal: Simulator: LOAD Js FILE: main.js
+2018-09-05T15:07:50.980Z - normal: Simulator: ------------------------------------------------
+2018-09-05T15:07:50.981Z - normal: Simulator: D/jswrapper (365): Initializing V8, version: 6.0.286.52
+2018-09-05T15:07:51.264Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-09-05T15:07:51.264Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-09-05T15:07:51.265Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-09-05T15:07:51.598Z - normal: Simulator: iShow!
+2018-09-05T15:07:51.679Z - normal: Simulator: D/jswrapper (126): JS: InitScene: 1.7969999999999686ms
+2018-09-05T15:07:51.682Z - normal: Simulator: D/jswrapper (126): JS: AutoRelease: 0.18700000000001182ms
+2018-09-05T15:07:51.682Z - normal: Simulator: D/jswrapper (126): JS: Destroy: 0.09899999999998954ms
+2018-09-05T15:07:51.682Z - normal: Simulator: D/jswrapper (126): JS: AttachPersist: 0.0049999999999954525ms
+2018-09-05T15:07:51.701Z - normal: Simulator: D/jswrapper (126): JS: Activate: 16.589ms
+2018-09-05T15:07:52.396Z - normal: Simulator: D/jswrapper (126): JS: LoadScene 2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2: 67.19499999999994ms
+2018-09-05T15:07:52.398Z - normal: Simulator: D/jswrapper (126): JS: InitScene: 1.5880000000001928ms
+2018-09-05T15:07:52.399Z - normal: Simulator: D/jswrapper (126): JS: AutoRelease: 0.023999999999887223ms
+2018-09-05T15:07:52.410Z - normal: Simulator: D/jswrapper (126): JS: Destroy: 10.298000000000002ms
+2018-09-05T15:07:52.410Z - normal: Simulator: D/jswrapper (126): JS: AttachPersist: 0.004999999999881766ms
+2018-09-05T15:07:52.413Z - normal: Simulator: D/jswrapper (126): JS: ScaleX != ScaleY. Don't know which one to return
+2018-09-05T15:07:52.427Z - normal: Simulator: D/jswrapper (126): JS: Activate: 7.262000000000171ms
+2018-09-05T15:07:52.427Z - normal: Simulator: cocos2d: QuadCommand: resizing index size from [-1] to [2560]
+2018-09-05T15:07:53.322Z - normal: Simulator: D/jswrapper (126): JS: LoadScene 71f1197b-5028-4a26-9c2c-e452c1960071: 66.07999999999993ms
+2018-09-05T15:07:53.325Z - normal: Simulator: D/jswrapper (126): JS: InitScene: 2.6959999999999127ms
+2018-09-05T15:07:53.325Z - normal: Simulator: D/jswrapper (126): JS: AutoRelease: 0.01999999999998181ms
+2018-09-05T15:07:53.328Z - normal: Simulator: D/jswrapper (126): JS: Destroy: 2.5210000000001855ms
+2018-09-05T15:07:53.328Z - normal: Simulator: D/jswrapper (126): JS: AttachPersist: 0.0029999999997016857ms
+2018-09-05T15:07:53.330Z - normal: Simulator: LabelTextFormatter error:can't find letter definition in font file for letter: ?
+2018-09-05T15:07:53.331Z - normal: Simulator: cocos2d: SpriteBatchNode: resizing TextureAtlas capacity from [29] to [40].
+2018-09-05T15:07:53.331Z - normal: Simulator: cocos2d: SpriteBatchNode: resizing TextureAtlas capacity from [40] to [54].
+2018-09-05T15:07:53.331Z - normal: Simulator: cocos2d: SpriteBatchNode: resizing TextureAtlas capacity from [54] to [73].
+2018-09-05T15:07:53.356Z - normal: Simulator: D/jswrapper (126): JS: Activate: 27.817000000000007ms
+2018-09-05T15:08:12.242Z - normal: Simulator: D/jswrapper (448): ScriptEngine::cleanup begin ...
+2018-09-05T15:08:12.242Z - normal: Simulator: D/jswrapper (589): GC begin ..., (js->native map) size: 162, all objects: 445
+2018-09-05T15:08:12.274Z - normal: Simulator: D/jswrapper (597): GC end ..., (js->native map) size: 138, all objects: 421
+2018-09-05T15:08:12.274Z - normal: Simulator: D/jswrapper (589): GC begin ..., (js->native map) size: 138, all objects: 419
+2018-09-05T15:08:12.297Z - normal: Simulator: D/jswrapper (597): GC end ..., (js->native map) size: 138, all objects: 419
+2018-09-05T15:08:12.299Z - normal: Simulator: D/jswrapper (589): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-09-05T15:08:12.327Z - normal: Simulator: D/jswrapper (597): GC end ..., (js->native map) size: 0, all objects: 0
+2018-09-05T15:08:12.337Z - normal: Simulator: D/jswrapper (688): Starting to cleanup dragonbones object, count: 0
+2018-09-05T15:08:12.337Z - normal: Simulator: D/jswrapper (707): After first cleanup, dragonbones object remained count: 0
+2018-09-05T15:08:12.337Z - normal: Simulator: D/jswrapper (723): After second cleanup, dragonbones object remained count: 0
+2018-09-05T15:08:12.337Z - normal: Simulator: D/jswrapper (511): ScriptEngine::cleanup end ...
+2018-09-05T15:08:12.338Z - error: Simulator: libpng warning: Interlace handling should be turned on when using png_read_image
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1562)
+    at Object.Panel._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:2283)
+    at EventEmitter.ipcRenderer.on.o (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4070)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-09-05T15:09:19.868Z - normal: Start building with options : {
+  "actualPlatform": "Android",
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build",
+  "debug": false,
+  "dest": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build\\jsb-link",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.GalaxyEscape",
+  "platform": "android",
+  "previewHeight": 640,
+  "previewWidth": 960,
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "1",
+  "scenes": [
+    "6ba1630d-239f-4d4c-a012-e9df9752f155",
+    "71f1197b-5028-4a26-9c2c-e452c1960071",
+    "b043ec12-236b-4b87-a03c-666a614f025f",
+    "2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2"
+  ],
+  "sourceMaps": false,
+  "startScene": "6ba1630d-239f-4d4c-a012-e9df9752f155",
+  "template": "link",
+  "title": "GalaxyEscape",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "769a2cbf-b5c9-46",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape",
+  "projectName": "GalaxyEscape",
+  "debugBuildWorker": false
+}
+2018-09-05T15:09:19.870Z - normal: Building C:\Users\thoma\Documents\GitHub\GalaxyEscape
+2018-09-05T15:09:19.870Z - normal: Destination C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link
+2018-09-05T15:09:20.364Z - normal: Delete C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link\res/**/*,C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link\src/*/
+2018-09-05T15:09:20.371Z - error: Build Failed: Error: [NDK Root] is empty, please set [NDK Root] in Preferences.
+    at s (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:2640)
+    at initCocosEnv (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:2946)
+    at initSettings (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:3976)
+    at Object.build (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:17047)
+    at Gulp.<anonymous> (D:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:21315)
+    at module.exports (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\lib\runTask.js:34:7)
+    at Gulp.Orchestrator._runTask (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:273:3)
+    at Gulp.Orchestrator._runStep (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:214:10)
+    at Gulp.Orchestrator.start (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:134:8)
+    at D:\CocosCreator\resources\app.asar\node_modules\gulp-sequence\index.js:63:12
+    at Async.series.r (D:\CocosCreator\resources\app.asar\editor\core\builder.js:1:3246)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:726:13
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:264:21
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:723:17
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:167:37
+    at Gulp.doneCallback (D:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:21793)
+    at Gulp.Orchestrator.stop (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:150:9)
+2018-09-05T15:09:43.121Z - normal: Start building with options : {
+  "actualPlatform": "Android",
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build",
+  "debug": false,
+  "dest": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build\\jsb-link",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.GalaxyEscape",
+  "platform": "android",
+  "previewHeight": 640,
+  "previewWidth": 960,
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "1",
+  "scenes": [
+    "6ba1630d-239f-4d4c-a012-e9df9752f155",
+    "71f1197b-5028-4a26-9c2c-e452c1960071",
+    "b043ec12-236b-4b87-a03c-666a614f025f",
+    "2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2"
+  ],
+  "sourceMaps": false,
+  "startScene": "6ba1630d-239f-4d4c-a012-e9df9752f155",
+  "template": "link",
+  "title": "GalaxyEscape",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "769a2cbf-b5c9-46",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape",
+  "projectName": "GalaxyEscape",
+  "debugBuildWorker": false
+}
+2018-09-05T15:09:43.121Z - normal: Building C:\Users\thoma\Documents\GitHub\GalaxyEscape
+2018-09-05T15:09:43.121Z - normal: Destination C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link
+2018-09-05T15:09:43.122Z - normal: Delete C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link\res/**/*,C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link\src/*/
+2018-09-05T15:09:43.124Z - error: Build Failed: Error: [NDK Root] is empty, please set [NDK Root] in Preferences.
+    at s (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:2640)
+    at initCocosEnv (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:2946)
+    at initSettings (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:3976)
+    at Object.build (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:17047)
+    at Gulp.<anonymous> (D:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:21315)
+    at module.exports (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\lib\runTask.js:34:7)
+    at Gulp.Orchestrator._runTask (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:273:3)
+    at Gulp.Orchestrator._runStep (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:214:10)
+    at Gulp.Orchestrator.start (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:134:8)
+    at D:\CocosCreator\resources\app.asar\node_modules\gulp-sequence\index.js:63:12
+    at Async.series.r (D:\CocosCreator\resources\app.asar\editor\core\builder.js:1:3246)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:726:13
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:264:21
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:723:17
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:167:37
+    at Gulp.doneCallback (D:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:21793)
+    at Gulp.Orchestrator.stop (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:150:9)
+2018-09-05T15:09:45.082Z - failed: Error: [NDK Root] is empty, please set [NDK Root] in Preferences.
+    at s (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:2640)
+    at initCocosEnv (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:2946)
+    at initSettings (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:3976)
+    at Object.compile (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:19483)
+    at Async.series.t (D:\CocosCreator\resources\app.asar\editor\core\builder.js:1:4665)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at async.forEachOfSeries.async.eachOfSeries (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:281:9)
+    at _parallel (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:717:9)
+    at Object.async.series (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:739:9)
+2018-09-05T15:10:00.458Z - normal: Start building with options : {
+  "actualPlatform": "Android",
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build",
+  "debug": false,
+  "dest": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build\\jsb-link",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.GalaxyEscape",
+  "platform": "android",
+  "previewHeight": 640,
+  "previewWidth": 960,
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "1",
+  "scenes": [
+    "6ba1630d-239f-4d4c-a012-e9df9752f155",
+    "71f1197b-5028-4a26-9c2c-e452c1960071",
+    "b043ec12-236b-4b87-a03c-666a614f025f",
+    "2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2"
+  ],
+  "sourceMaps": false,
+  "startScene": "6ba1630d-239f-4d4c-a012-e9df9752f155",
+  "template": "link",
+  "title": "GalaxyEscape",
+  "useDebugKeystore": false,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "769a2cbf-b5c9-46",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape",
+  "projectName": "GalaxyEscape",
+  "debugBuildWorker": false
+}
+2018-09-05T15:10:00.458Z - normal: Building C:\Users\thoma\Documents\GitHub\GalaxyEscape
+2018-09-05T15:10:00.458Z - normal: Destination C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link
+2018-09-05T15:10:00.458Z - normal: Delete C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link\res/**/*,C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link\src/*/
+2018-09-05T15:10:00.461Z - error: Build Failed: Error: [NDK Root] is empty, please set [NDK Root] in Preferences.
+    at s (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:2640)
+    at initCocosEnv (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:2946)
+    at initSettings (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:3976)
+    at Object.build (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:17047)
+    at Gulp.<anonymous> (D:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:21315)
+    at module.exports (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\lib\runTask.js:34:7)
+    at Gulp.Orchestrator._runTask (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:273:3)
+    at Gulp.Orchestrator._runStep (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:214:10)
+    at Gulp.Orchestrator.start (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:134:8)
+    at D:\CocosCreator\resources\app.asar\node_modules\gulp-sequence\index.js:63:12
+    at Async.series.r (D:\CocosCreator\resources\app.asar\editor\core\builder.js:1:3246)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:726:13
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:264:21
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:723:17
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:167:37
+    at Gulp.doneCallback (D:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:21793)
+    at Gulp.Orchestrator.stop (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:150:9)
+2018-09-05T15:10:13.425Z - normal: Start building with options : {
+  "actualPlatform": "Android",
+  "apiLevel": "",
+  "appABIs": [
+    "arm64-v8a"
+  ],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build",
+  "debug": false,
+  "dest": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build\\jsb-link",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.GalaxyEscape",
+  "platform": "android",
+  "previewHeight": 640,
+  "previewWidth": 960,
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "1",
+  "scenes": [
+    "6ba1630d-239f-4d4c-a012-e9df9752f155",
+    "71f1197b-5028-4a26-9c2c-e452c1960071",
+    "b043ec12-236b-4b87-a03c-666a614f025f",
+    "2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2"
+  ],
+  "sourceMaps": false,
+  "startScene": "6ba1630d-239f-4d4c-a012-e9df9752f155",
+  "template": "link",
+  "title": "GalaxyEscape",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "769a2cbf-b5c9-46",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape",
+  "projectName": "GalaxyEscape",
+  "debugBuildWorker": false
+}
+2018-09-05T15:10:13.425Z - normal: Building C:\Users\thoma\Documents\GitHub\GalaxyEscape
+2018-09-05T15:10:13.425Z - normal: Destination C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link
+2018-09-05T15:10:13.426Z - normal: Delete C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link\res/**/*,C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link\src/*/
+2018-09-05T15:10:13.427Z - error: Build Failed: Error: [NDK Root] is empty, please set [NDK Root] in Preferences.
+    at s (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:2640)
+    at initCocosEnv (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:2946)
+    at initSettings (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:3976)
+    at Object.build (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:17047)
+    at Gulp.<anonymous> (D:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:21315)
+    at module.exports (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\lib\runTask.js:34:7)
+    at Gulp.Orchestrator._runTask (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:273:3)
+    at Gulp.Orchestrator._runStep (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:214:10)
+    at Gulp.Orchestrator.start (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:134:8)
+    at D:\CocosCreator\resources\app.asar\node_modules\gulp-sequence\index.js:63:12
+    at Async.series.r (D:\CocosCreator\resources\app.asar\editor\core\builder.js:1:3246)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:726:13
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:264:21
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:723:17
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:167:37
+    at Gulp.doneCallback (D:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:21793)
+    at Gulp.Orchestrator.stop (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:150:9)
+2018-09-05T15:10:18.770Z - normal: Start building with options : {
+  "actualPlatform": "Android",
+  "apiLevel": "",
+  "appABIs": [
+    "arm64-v8a"
+  ],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build",
+  "debug": true,
+  "dest": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build\\jsb-link",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.GalaxyEscape",
+  "platform": "android",
+  "previewHeight": 640,
+  "previewWidth": 960,
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "1",
+  "scenes": [
+    "6ba1630d-239f-4d4c-a012-e9df9752f155",
+    "71f1197b-5028-4a26-9c2c-e452c1960071",
+    "b043ec12-236b-4b87-a03c-666a614f025f",
+    "2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2"
+  ],
+  "sourceMaps": false,
+  "startScene": "6ba1630d-239f-4d4c-a012-e9df9752f155",
+  "template": "link",
+  "title": "GalaxyEscape",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "769a2cbf-b5c9-46",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape",
+  "projectName": "GalaxyEscape",
+  "debugBuildWorker": false
+}
+2018-09-05T15:10:18.770Z - normal: Building C:\Users\thoma\Documents\GitHub\GalaxyEscape
+2018-09-05T15:10:18.770Z - normal: Destination C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link
+2018-09-05T15:10:18.770Z - normal: Delete C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link\res/**/*,C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link\src/*/
+2018-09-05T15:10:18.773Z - error: Build Failed: Error: [NDK Root] is empty, please set [NDK Root] in Preferences.
+    at s (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:2640)
+    at initCocosEnv (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:2946)
+    at initSettings (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:3976)
+    at Object.build (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:17047)
+    at Gulp.<anonymous> (D:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:21315)
+    at module.exports (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\lib\runTask.js:34:7)
+    at Gulp.Orchestrator._runTask (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:273:3)
+    at Gulp.Orchestrator._runStep (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:214:10)
+    at Gulp.Orchestrator.start (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:134:8)
+    at D:\CocosCreator\resources\app.asar\node_modules\gulp-sequence\index.js:63:12
+    at Async.series.r (D:\CocosCreator\resources\app.asar\editor\core\builder.js:1:3246)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:726:13
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:264:21
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:723:17
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:167:37
+    at Gulp.doneCallback (D:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:21793)
+    at Gulp.Orchestrator.stop (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:150:9)
+2018-09-05T15:12:01.471Z - normal: Start to run project
+2018-09-05T15:12:01.474Z - failed: Error: [NDK Root] is empty, please set [NDK Root] in Preferences.
+    at s (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:2640)
+    at initCocosEnv (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:2946)
+    at initSettings (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:3976)
+    at Object.run (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:21096)
+    at EventEmitter.ipcMain.on (D:\CocosCreator\resources\app.asar\editor\core\ipc\app-ipc.js:1:1035)
+    at emitTwo (events.js:106:13)
+    at EventEmitter.emit (events.js:194:7)
+    at WebContents.<anonymous> (D:\CocosCreator\resources\electron.asar\browser\api\web-contents.js:247:13)
+    at emitTwo (events.js:106:13)
+    at WebContents.emit (events.js:194:7)
+2018-09-05T15:12:02.965Z - normal: Start building with options : {
+  "actualPlatform": "Android",
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build",
+  "debug": false,
+  "dest": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build\\jsb-default",
+  "embedWebDebugger": false,
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [],
+  "fb-instant-games": {},
+  "includeAnySDK": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": false,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": false,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.GalaxyEscape",
+  "platform": "android",
+  "previewHeight": 640,
+  "previewWidth": 960,
+  "privateKey": "",
+  "qqplay": {
+    "REMOTE_SERVER_ROOT": "",
+    "orientation": "portrait"
+  },
+  "renderMode": "1",
+  "scenes": [
+    "6ba1630d-239f-4d4c-a012-e9df9752f155",
+    "71f1197b-5028-4a26-9c2c-e452c1960071",
+    "b043ec12-236b-4b87-a03c-666a614f025f",
+    "2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2"
+  ],
+  "sourceMaps": false,
+  "startScene": "6ba1630d-239f-4d4c-a012-e9df9752f155",
+  "template": "default",
+  "title": "GalaxyEscape",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "REMOTE_SERVER_ROOT": "",
+    "appid": "wx6ac3f5090a6b99c5",
+    "isSubdomain": false,
+    "orientation": "portrait",
+    "subContext": ""
+  },
+  "xxteaKey": "769a2cbf-b5c9-46",
+  "zipCompressJs": true,
+  "project": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape",
+  "projectName": "GalaxyEscape",
+  "debugBuildWorker": false
+}
+2018-09-05T15:12:02.967Z - normal: Building C:\Users\thoma\Documents\GitHub\GalaxyEscape
+2018-09-05T15:12:02.967Z - normal: Destination C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-default
+2018-09-05T15:12:02.968Z - normal: Delete C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-default\res/**/*,C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-default\src/*/
+2018-09-05T15:12:02.978Z - error: Build Failed: Error: [NDK Root] is empty, please set [NDK Root] in Preferences.
+    at s (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:2640)
+    at initCocosEnv (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:2946)
+    at initSettings (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:3976)
+    at Object.build (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:17047)
+    at Gulp.<anonymous> (D:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:21315)
+    at module.exports (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\lib\runTask.js:34:7)
+    at Gulp.Orchestrator._runTask (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:273:3)
+    at Gulp.Orchestrator._runStep (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:214:10)
+    at Gulp.Orchestrator.start (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:134:8)
+    at D:\CocosCreator\resources\app.asar\node_modules\gulp-sequence\index.js:63:12
+    at Async.series.r (D:\CocosCreator\resources\app.asar\editor\core\builder.js:1:3246)
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:726:13
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:264:21
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:723:17
+    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:167:37
+    at Gulp.doneCallback (D:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:21793)
+    at Gulp.Orchestrator.stop (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:150:9)
+2018-09-05T15:13:02.726Z - warn: Folder does not exist: 
+2018-09-05T15:13:51.676Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-09-05T15:13:51.676Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-09-05T15:13:51.676Z - normal: Simulator: FRAME SCALE = 0.75
+2018-09-05T15:13:51.778Z - normal: Simulator: Ready for GLSL
+2018-09-05T15:13:51.778Z - normal: Simulator: Ready for OpenGL 2.0
+2018-09-05T15:13:51.778Z - normal: Simulator: 
+2018-09-05T15:13:51.779Z - normal: Simulator: {
+2018-09-05T15:13:51.779Z - normal: Simulator: 	gl.version: 4.5.0 - Build 24.20.100.6025
+2018-09-05T15:13:51.779Z - normal: Simulator: 	gl.supports_NPOT: true
+2018-09-05T15:13:51.779Z - normal: Simulator: 	cocos2d.x.version: Cocos2d-x-lite v1.8.2
+2018-09-05T15:13:51.779Z - normal: Simulator: 	cocos2d.x.compiled_with_profiler: false
+2018-09-05T15:13:51.779Z - normal: Simulator: 	cocos2d.x.build_type: DEBUG
+2018-09-05T15:13:51.779Z - normal: Simulator: 	cocos2d.x.compiled_with_gl_state_cache: true
+2018-09-05T15:13:51.779Z - normal: Simulator: 	gl.max_texture_size: 16384
+2018-09-05T15:13:51.779Z - normal: Simulator: 	gl.supports_OES_packed_depth_stencil: false
+2018-09-05T15:13:51.779Z - normal: Simulator: 	gl.vendor: Intel
+2018-09-05T15:13:51.780Z - normal: Simulator: 	gl.renderer: Intel(R) UHD Graphics 630
+2018-09-05T15:13:51.780Z - normal: Simulator: 	gl.max_texture_units: 192
+2018-09-05T15:13:51.780Z - normal: Simulator: 	gl.supports_ETC1: false
+2018-09-05T15:13:51.780Z - normal: Simulator: 	gl.supports_PVRTC: false
+2018-09-05T15:13:51.780Z - normal: Simulator: 	gl.supports_BGRA8888: false
+2018-09-05T15:13:51.780Z - normal: Simulator: 	gl.supports_discard_framebuffer: false
+2018-09-05T15:13:51.780Z - normal: Simulator: 	gl.supports_vertex_array_object: true
+2018-09-05T15:13:51.780Z - normal: Simulator: 	gl.supports_OES_map_buffer: false
+2018-09-05T15:13:51.780Z - normal: Simulator: 	gl.supports_OES_depth24: false
+2018-09-05T15:13:51.780Z - normal: Simulator: }
+2018-09-05T15:13:51.780Z - normal: Simulator: 
+2018-09-05T15:13:51.781Z - normal: Simulator: 
+2018-09-05T15:13:51.781Z - normal: Simulator: cocos2d: warning, Director::setProjection() failed because size is 0
+2018-09-05T15:13:51.781Z - normal: Simulator: Project Config:
+2018-09-05T15:13:51.781Z - normal: Simulator:     project dir: D:\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-09-05T15:13:51.781Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-09-05T15:13:51.781Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-09-05T15:13:51.782Z - normal: Simulator:     frame size: 720 x 1280
+2018-09-05T15:13:51.782Z - normal: Simulator:     frame scale: 0.75
+2018-09-05T15:13:51.782Z - normal: Simulator:     show console: NO
+2018-09-05T15:13:51.782Z - normal: Simulator:     write debug log: NO ()
+2018-09-05T15:13:51.782Z - normal: Simulator:     listen: 
+2018-09-05T15:13:51.782Z - normal: Simulator:     debugger: none
+2018-09-05T15:13:51.783Z - normal: Simulator:     add searching path:
+2018-09-05T15:13:51.783Z - normal: Simulator: 
+2018-09-05T15:13:51.784Z - normal: Simulator: 
+2018-09-05T15:13:51.786Z - normal: Simulator: 
+2018-09-05T15:13:51.786Z - normal: Simulator: ------------------------------------------------
+2018-09-05T15:13:51.787Z - normal: Simulator: LOAD Js FILE: main.js
+2018-09-05T15:13:51.787Z - normal: Simulator: ------------------------------------------------
+2018-09-05T15:13:51.787Z - normal: Simulator: D/jswrapper (365): Initializing V8, version: 6.0.286.52
+2018-09-05T15:13:52.071Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-09-05T15:13:52.072Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-09-05T15:13:52.072Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-09-05T15:13:52.406Z - normal: Simulator: iShow!
+2018-09-05T15:13:52.498Z - normal: Simulator: D/jswrapper (126): JS: InitScene: 1.8670000000000186ms
+2018-09-05T15:13:52.509Z - normal: Simulator: D/jswrapper (126): JS: AutoRelease: 0.8640000000000327ms
+2018-09-05T15:13:52.509Z - normal: Simulator: D/jswrapper (126): JS: Destroy: 0.3129999999999882ms
+2018-09-05T15:13:52.509Z - normal: Simulator: D/jswrapper (126): JS: AttachPersist: 0.009000000000014552ms
+2018-09-05T15:13:52.529Z - normal: Simulator: D/jswrapper (126): JS: Activate: 14.730999999999995ms
+2018-09-05T15:13:53.312Z - normal: Simulator: D/jswrapper (126): JS: LoadScene 2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2: 66.20299999999997ms
+2018-09-05T15:13:53.314Z - normal: Simulator: D/jswrapper (126): JS: InitScene: 1.4429999999999836ms
+2018-09-05T15:13:53.314Z - normal: Simulator: D/jswrapper (126): JS: AutoRelease: 0.02299999999991087ms
+2018-09-05T15:13:53.328Z - normal: Simulator: D/jswrapper (126): JS: Destroy: 10.33199999999988ms
+2018-09-05T15:13:53.328Z - normal: Simulator: D/jswrapper (126): JS: AttachPersist: 0.0060000000000854925ms
+2018-09-05T15:13:53.328Z - normal: Simulator: D/jswrapper (126): JS: ScaleX != ScaleY. Don't know which one to return
+2018-09-05T15:13:53.330Z - normal: Simulator: D/jswrapper (126): JS: Activate: 5.769999999999982ms
+2018-09-05T15:13:53.333Z - normal: Simulator: cocos2d: QuadCommand: resizing index size from [-1] to [2560]
+2018-09-05T15:13:53.970Z - normal: Simulator: D/jswrapper (126): JS: LoadScene 71f1197b-5028-4a26-9c2c-e452c1960071: 66.07300000000009ms
+2018-09-05T15:13:53.973Z - normal: Simulator: D/jswrapper (126): JS: InitScene: 2.8400000000001455ms
+2018-09-05T15:13:53.973Z - normal: Simulator: D/jswrapper (126): JS: AutoRelease: 0.020999999999958163ms
+2018-09-05T15:13:53.976Z - normal: Simulator: D/jswrapper (126): JS: Destroy: 2.82100000000014ms
+2018-09-05T15:13:53.976Z - normal: Simulator: D/jswrapper (126): JS: AttachPersist: 0.004000000000132786ms
+2018-09-05T15:13:53.978Z - normal: Simulator: LabelTextFormatter error:can't find letter definition in font file for letter: ?
+2018-09-05T15:13:53.978Z - normal: Simulator: cocos2d: SpriteBatchNode: resizing TextureAtlas capacity from [29] to [40].
+2018-09-05T15:13:53.978Z - normal: Simulator: cocos2d: SpriteBatchNode: resizing TextureAtlas capacity from [40] to [54].
+2018-09-05T15:13:53.979Z - normal: Simulator: cocos2d: SpriteBatchNode: resizing TextureAtlas capacity from [54] to [73].
+2018-09-05T15:13:53.994Z - normal: Simulator: D/jswrapper (126): JS: Activate: 17.945999999999913ms
+2018-09-05T15:13:58.309Z - normal: Simulator: D/jswrapper (448): ScriptEngine::cleanup begin ...
+2018-09-05T15:13:58.309Z - normal: Simulator: D/jswrapper (589): GC begin ..., (js->native map) size: 168, all objects: 451
+2018-09-05T15:13:58.348Z - normal: Simulator: D/jswrapper (597): GC end ..., (js->native map) size: 138, all objects: 421
+2018-09-05T15:13:58.349Z - normal: Simulator: D/jswrapper (589): GC begin ..., (js->native map) size: 138, all objects: 419
+2018-09-05T15:13:58.374Z - normal: Simulator: D/jswrapper (597): GC end ..., (js->native map) size: 138, all objects: 419
+2018-09-05T15:13:58.376Z - normal: Simulator: D/jswrapper (589): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-09-05T15:13:58.408Z - normal: Simulator: D/jswrapper (597): GC end ..., (js->native map) size: 0, all objects: 0
+2018-09-05T15:13:58.412Z - normal: Simulator: D/jswrapper (688): Starting to cleanup dragonbones object, count: 0
+2018-09-05T15:13:58.412Z - normal: Simulator: D/jswrapper (707): After first cleanup, dragonbones object remained count: 0
+2018-09-05T15:13:58.413Z - normal: Simulator: D/jswrapper (723): After second cleanup, dragonbones object remained count: 0
+2018-09-05T15:13:58.413Z - normal: Simulator: D/jswrapper (511): ScriptEngine::cleanup end ...
+2018-09-05T15:13:58.416Z - error: Simulator: libpng warning: Interlace handling should be turned on when using png_read_image
+    at HTMLElement.print-simulator-log (D:\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1562)
+    at Object.Panel._dispatch (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:2283)
+    at EventEmitter.ipcRenderer.on.o (D:\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:4070)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-09-05T15:13:59.921Z - info: shutdown preview server

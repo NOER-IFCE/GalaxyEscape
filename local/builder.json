@@ -1,5 +1,5 @@
 {
-  "actualPlatform": "Web Desktop",
+  "actualPlatform": "Android",
   "apiLevel": "",
   "appABIs": [],
   "buildPath": "./build",
@@ -9,11 +9,11 @@
   "keystoreAliasPassword": "",
   "keystorePassword": "",
   "keystorePath": "",
-  "platform": "web-desktop",
+  "platform": "android",
   "previewHeight": 640,
   "previewWidth": 960,
   "sourceMaps": false,
-  "template": "link",
+  "template": "default",
   "useDebugKeystore": true,
   "vsVersion": "auto"
 }

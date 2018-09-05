@@ -1,9 +1,3 @@
-"use strict";
-cc._RF.push(module, 'fa2cfXAGm1AYIEFC8dbJnoD', 'ButtonCtrl');
-// Scripts/ButtonCtrl.js
-
-"use strict";
-
 cc.Class({
     extends: cc.Component,
 
@@ -21,31 +15,37 @@ cc.Class({
             default: null,
             type: cc.Button
         },
-        massa: 1
+        massa: 1,
+
+        
+    },
+
+    onLoad: function(){
 
     },
 
-    onLoad: function onLoad() {},
-
-    onAddButtonClick: function onAddButtonClick() {
+    onAddButtonClick : function()
+    {
         this.massa += 1;
-        if (this.massa > 20) {
+        if(this.massa > 20){
             this.massa = 20;
             this.massaText.string = this.massa.toString();
-        } else {
+        }
+        else{
             this.massaText.string = this.massa.toString();
         }
+        
     },
-
-    onRemoveButtonClick: function onRemoveButtonClick() {
+    
+    onRemoveButtonClick : function()
+    {
         this.massa -= 1;
-        if (this.massa < 1) {
+        if(this.massa < 1){
             this.massa = 1;
             this.massaText.string = this.massa.toString();
-        } else {
+        }
+        else{
             this.massaText.string = this.massa.toString();
         }
     }
 });
-
-cc._RF.pop();
