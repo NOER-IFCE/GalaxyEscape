@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "foguetefinal",
+    "texture": "ae106e79-9e65-4eb0-957f-d0f1d5de4c44",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      174,
+      333
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      174,
+      333
+    ]
+  }
+}

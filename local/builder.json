@@ -1,6 +1,6 @@
 {
   "actualPlatform": "Android",
-  "apiLevel": "",
+  "apiLevel": "android-28",
   "appABIs": [],
   "buildPath": "./build",
   "debug": false,
@@ -10,8 +10,8 @@
   "keystorePassword": "",
   "keystorePath": "",
   "platform": "android",
-  "previewHeight": 640,
-  "previewWidth": 960,
+  "previewHeight": "720",
+  "previewWidth": "1280",
   "sourceMaps": false,
   "template": "default",
   "useDebugKeystore": true,

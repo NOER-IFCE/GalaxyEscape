@@ -45,7 +45,7 @@ cc.Class({
 
     _updateVelocidade(progress, VelocidadeKms){
         this.velocidade = Math.floor((progress * 255)/4);
-        this.VelocidadeKms.string = this.velocidade.toString() + 'km/s';
+        this.VelocidadeKms.string = this.velocidade.toString();
     },
     OnSliderEvent(sender, eventType){
         this._updateVelocidade(sender.progress);

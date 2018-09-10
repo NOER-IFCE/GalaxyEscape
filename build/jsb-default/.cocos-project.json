@@ -1,0 +1,7 @@
+{
+  "engine_version": "1.10.0",
+  "has_native": true,
+  "project_type": "js",
+  "projectName": "GalaxyEscape",
+  "packageName": "org.cocos2d.GalaxyEscape"
+}

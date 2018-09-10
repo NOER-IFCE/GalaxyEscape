@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "NewGrounds",
+    "texture": "164d9b9f-c140-4209-82c2-ac0e05a9b43c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      59,
+      59
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      59,
+      60
+    ]
+  }
+}
