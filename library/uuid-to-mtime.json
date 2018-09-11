@@ -1,27 +1,27 @@
 {
   "f8e6b000-5643-4b86-9080-aa680ce1f599": {
-    "asset": 1534248412094,
-    "meta": 1533650590000,
+    "asset": 1536663341580,
+    "meta": 1535032330000,
     "relativePath": "image"
   },
   "fc09f9bd-2cce-4605-b630-8145ef809ed6": {
-    "asset": 1534248412119,
-    "meta": 1533650590000,
+    "asset": 1536663308789,
+    "meta": 1535032330000,
     "relativePath": "misc"
   },
   "f6e6dd15-71d1-4ffe-ace7-24fd39942c05": {
-    "asset": 1534248412132,
-    "meta": 1533650590000,
+    "asset": 1536663341831,
+    "meta": 1535032330000,
     "relativePath": "obsolete"
   },
   "f743d2b6-b7ea-4c14-a55b-547ed4d0a045": {
-    "asset": 1534248412147,
-    "meta": 1533650590000,
+    "asset": 1536663341839,
+    "meta": 1535032330000,
     "relativePath": "particle"
   },
   "ae6c6c98-11e4-452f-8758-75f5c6a56e83": {
-    "asset": 1534248412362,
-    "meta": 1533650590000,
+    "asset": 1536663341588,
+    "meta": 1535032330000,
     "relativePath": "prefab"
   },
   "6ba1630d-239f-4d4c-a012-e9df9752f155": {
@@ -36,37 +36,37 @@
   },
   "b4ba8fe4-997d-4f08-9b51-29bddd74c174": {
     "asset": 1535318248866,
-    "meta": 1535318375937,
+    "meta": 1536663689593,
     "relativePath": "Tela Inicio\\Backgroundmdpi.png"
   },
   "5e995981-97c8-46cb-915c-86d3b1994554": {
     "asset": 1535318248875,
-    "meta": 1535318375972,
+    "meta": 1536663689614,
     "relativePath": "Tela Inicio\\creditos.png"
   },
   "b16d4283-2cf0-4d34-a627-251944af0c40": {
     "asset": 1535318248881,
-    "meta": 1535318376019,
+    "meta": 1536663689641,
     "relativePath": "Tela Inicio\\meteoro_1.png"
   },
   "d0aa453e-9c9b-4f07-9ee4-bbab505674e2": {
     "asset": 1535318248878,
-    "meta": 1535318375997,
+    "meta": 1536663689626,
     "relativePath": "Tela Inicio\\iniciar.png"
   },
   "a52ccd0a-42cc-448c-91c0-790733e1f79e": {
     "asset": 1535318248882,
-    "meta": 1535318376026,
+    "meta": 1536663689650,
     "relativePath": "Tela Inicio\\meteoro_2.png"
   },
   "b2827b66-86a7-44c4-b0be-2dc153e97bef": {
     "asset": 1535318248885,
-    "meta": 1535318376049,
+    "meta": 1536663689666,
     "relativePath": "Tela Inicio\\meteoro_3.png"
   },
   "54535c19-2354-4249-85ae-9942e05506b7": {
     "asset": 1535318248871,
-    "meta": 1535318376064,
+    "meta": 1536663689674,
     "relativePath": "Tela Inicio\\Saiba mais.png"
   },
   "71f1197b-5028-4a26-9c2c-e452c1960071": {
@@ -101,32 +101,32 @@
   },
   "b8140668-5d0f-44e0-9a2c-17a822b64a19": {
     "asset": 1535318248889,
-    "meta": 1535318376113,
+    "meta": 1536663689732,
     "relativePath": "Tela Planetas\\Background2.png"
   },
   "54939b4b-69fa-4c37-b199-0080df02a4c8": {
     "asset": 1535318248905,
-    "meta": 1535318376181,
+    "meta": 1536663689828,
     "relativePath": "Tela Planetas\\Venus_1.png"
   },
   "dfdc0878-048c-46d1-932a-58cb97264092": {
     "asset": 1535318248892,
-    "meta": 1535318376106,
+    "meta": 1536663689723,
     "relativePath": "Tela Planetas\\Marte.png"
   },
   "928d6d56-4c61-45de-a913-39d0c5ee5309": {
     "asset": 1535318248895,
-    "meta": 1535318376135,
+    "meta": 1536663689750,
     "relativePath": "Tela Planetas\\Mercurio.png"
   },
   "6135f469-b790-4d4e-8b56-4ce9f9a0025f": {
     "asset": 1535318248901,
-    "meta": 1535318376188,
+    "meta": 1536663689814,
     "relativePath": "Tela Planetas\\Terra.png"
   },
   "57fb12d7-8625-4c6b-b09c-a950547d7ca9": {
     "asset": 1535318248898,
-    "meta": 1535318376167,
+    "meta": 1536663689791,
     "relativePath": "Tela Planetas\\Sol_Tela_dos_Planetas.png"
   },
   "53345558-144a-46b7-9cb1-6bca6a1048c1": {
@@ -136,22 +136,22 @@
   },
   "478bcf52-2fc2-44da-89e9-8f7509180f9d": {
     "asset": 1535318248916,
-    "meta": 1535318376267,
+    "meta": 1536663689942,
     "relativePath": "TelaLancamento\\background.png"
   },
   "e90b60cb-0af9-4011-9a5a-4e7eab10699d": {
     "asset": 1535318248920,
-    "meta": 1535318376283,
+    "meta": 1536663689979,
     "relativePath": "TelaLancamento\\foguete lancamento.png"
   },
   "48fee697-b050-49a4-ae05-211f945dfae5": {
     "asset": 1535318248913,
-    "meta": 1535318376291,
+    "meta": 1536663689995,
     "relativePath": "TelaLancamento\\Manche.png"
   },
   "fe107842-bf74-4a99-a9e3-16d8843cffd0": {
     "asset": 1535318248918,
-    "meta": 1535318376259,
+    "meta": 1536663689960,
     "relativePath": "TelaLancamento\\barra.png"
   },
   "b043ec12-236b-4b87-a03c-666a614f025f": {
@@ -166,7 +166,7 @@
   },
   "65f7af32-013e-466d-a25a-d1f38aa3c5dd": {
     "asset": 1535318248910,
-    "meta": 1535318376236,
+    "meta": 1536663689878,
     "relativePath": "TelaDeResultadoTerra\\Tela_de_Resultadosmdpi.png"
   },
   "e480875a-3363-45e0-8b3f-6084ac074ff1": {
@@ -181,12 +181,12 @@
   },
   "151ef8a1-3260-4c7c-8990-b292304162f3": {
     "asset": 1535318248734,
-    "meta": 1535318374143,
+    "meta": 1536663688343,
     "relativePath": "OA Galaxy Escape\\0.75x\\Artboard 1ldpi.png"
   },
   "55ec6d9f-bbce-4db1-baa6-d555b467773a": {
     "asset": 1535318248736,
-    "meta": 1535318374185,
+    "meta": 1536663688397,
     "relativePath": "OA Galaxy Escape\\0.75x\\Backgroundldpi.png"
   },
   "5721c874-4529-48cb-8f35-a1ca7f76eb26": {
@@ -196,12 +196,12 @@
   },
   "ef6d393c-1890-4624-9ce9-46b04283ea29": {
     "asset": 1535318248745,
-    "meta": 1535318374280,
+    "meta": 1536663688482,
     "relativePath": "OA Galaxy Escape\\1.5x\\Backgroundhdpi.png"
   },
   "1d804381-6442-4a72-99fe-cff354558747": {
     "asset": 1535318248742,
-    "meta": 1535318374287,
+    "meta": 1536663688440,
     "relativePath": "OA Galaxy Escape\\1.5x\\Artboard 1hdpi.png"
   },
   "9d2b5b1c-0efc-4769-b3c2-ec9b0cef758b": {
@@ -211,42 +211,42 @@
   },
   "8fee942f-7d6b-4711-94ee-d67de250ab81": {
     "asset": 1535318248749,
-    "meta": 1535318374353,
+    "meta": 1536663688491,
     "relativePath": "OA Galaxy Escape\\1x\\Artboard 1mdpi.png"
   },
   "873da95f-4266-45bb-8c0f-1c1e6435e7be": {
     "asset": 1535318248758,
-    "meta": 1535318374361,
+    "meta": 1536663688554,
     "relativePath": "OA Galaxy Escape\\1x\\background.png"
   },
   "c7ad1312-6b7c-4b61-b5e6-65d320bbff90": {
     "asset": 1535318248759,
-    "meta": 1535318374375,
+    "meta": 1536663688509,
     "relativePath": "OA Galaxy Escape\\1x\\barra.png"
   },
   "164e14e9-c894-4577-bbcc-115b95db2648": {
     "asset": 1535318248761,
-    "meta": 1535318374382,
+    "meta": 1536663688541,
     "relativePath": "OA Galaxy Escape\\1x\\botao de decremento de massa clickado.png"
   },
   "c2f1d732-75ca-4701-81f5-794e6b56ac60": {
     "asset": 1535318248762,
-    "meta": 1535318374404,
+    "meta": 1536663688569,
     "relativePath": "OA Galaxy Escape\\1x\\botao de decremento de massa.png"
   },
   "05a1e08b-1cdf-45e8-a719-a5ec9760e241": {
     "asset": 1535318248764,
-    "meta": 1535318374396,
+    "meta": 1536663688583,
     "relativePath": "OA Galaxy Escape\\1x\\botao de incremento de massa clickado.png"
   },
   "b3a6aa76-43a6-47b9-afec-afed891f88e4": {
     "asset": 1535318248752,
-    "meta": 1535318374421,
+    "meta": 1536663688591,
     "relativePath": "OA Galaxy Escape\\1x\\Botao de incremento de massa.png"
   },
   "2229af40-2538-48eb-bbe6-baf00cde6cbf": {
     "asset": 1535318248765,
-    "meta": 1535318374428,
+    "meta": 1536663688618,
     "relativePath": "OA Galaxy Escape\\1x\\foguete lancamento.png"
   },
   "0b55c126-c971-4ec3-9c9e-e65d9157cecc": {
@@ -256,17 +256,17 @@
   },
   "f65132df-ddb6-44ed-9ddd-470a0bbdb586": {
     "asset": 1535318248755,
-    "meta": 1535318374449,
+    "meta": 1536663688633,
     "relativePath": "OA Galaxy Escape\\1x\\Manche.png"
   },
   "093453cd-7e46-4930-a2d7-72fec4e176b5": {
     "asset": 1535318248772,
-    "meta": 1535318374599,
+    "meta": 1536663688757,
     "relativePath": "OA Galaxy Escape\\2x\\Artboard 1xhdpi.png"
   },
   "e6b014ea-a2b4-4a30-a8fa-2d146e9e1597": {
     "asset": 1535318248776,
-    "meta": 1535318374592,
+    "meta": 1536663688764,
     "relativePath": "OA Galaxy Escape\\2x\\Backgroundxhdpi.png"
   },
   "8cef47ba-57ca-486a-bf53-158c566810e8": {
@@ -276,12 +276,12 @@
   },
   "5893b65c-e227-4ed5-b4c8-81a1f85d76b3": {
     "asset": 1535318248790,
-    "meta": 1535318374836,
+    "meta": 1536663688995,
     "relativePath": "OA Galaxy Escape\\3x\\Backgroundxxhdpi.png"
   },
   "8bc4d671-2fb7-4444-a430-0f6862cede41": {
     "asset": 1535318248784,
-    "meta": 1535318374843,
+    "meta": 1536663689003,
     "relativePath": "OA Galaxy Escape\\3x\\Artboard 1xxhdpi.png"
   },
   "936a9c36-448b-4a08-aee6-4d6d1fdb9a45": {
@@ -291,17 +291,17 @@
   },
   "0bb0070d-8d18-4b17-8c1b-28597c762e2a": {
     "asset": 1535318248807,
-    "meta": 1535318375201,
+    "meta": 1536663689359,
     "relativePath": "OA Galaxy Escape\\4x\\Backgroundxxxhdpi.png"
   },
   "5bb2668f-1da6-427e-acea-a7cef5ab56b5": {
     "asset": 1535318248800,
-    "meta": 1535318375211,
+    "meta": 1536663689368,
     "relativePath": "OA Galaxy Escape\\4x\\Artboard 1xxxhdpi.png"
   },
   "64edf585-9ad2-441a-8d28-267e672d9656": {
     "asset": 1535318248844,
-    "meta": 1535318375229,
+    "meta": 1536663689384,
     "relativePath": "OA Galaxy Escape\\ezgif-5-61d5300a9f.png"
   },
   "b516ec85-198a-443b-a1e2-83e0d2208556": {
@@ -326,7 +326,7 @@
   },
   "0be3c780-76ce-486e-a74b-dd09216ab971": {
     "asset": 1535318248820,
-    "meta": 1535318375277,
+    "meta": 1536663689432,
     "relativePath": "OA Galaxy Escape\\Tela de Resultados\\Tela_de_Resultadosmdpi.png"
   },
   "e86db2b0-e886-4b43-baa7-7fb19fc051ca": {
@@ -341,62 +341,62 @@
   },
   "e04a9b4c-7526-49d8-a5e5-e789f018ee93": {
     "asset": 1535318248828,
-    "meta": 1535318375304,
+    "meta": 1536663689462,
     "relativePath": "OA Galaxy Escape\\Tela dos Planetas\\Marte.png"
   },
   "772a520a-bae2-4ed5-a3e8-f47a74f66f62": {
     "asset": 1535318248829,
-    "meta": 1535318375324,
+    "meta": 1536663689475,
     "relativePath": "OA Galaxy Escape\\Tela dos Planetas\\Mercurio.png"
   },
   "07441d47-adfc-4f43-8e3c-0f15b8dc31ef": {
     "asset": 1535318248824,
-    "meta": 1535318375332,
+    "meta": 1536663689452,
     "relativePath": "OA Galaxy Escape\\Tela dos Planetas\\Background2.png"
   },
   "c8924f2e-e578-46d1-b670-d7074399ef71": {
     "asset": 1535318248831,
-    "meta": 1535318375365,
+    "meta": 1536663689506,
     "relativePath": "OA Galaxy Escape\\Tela dos Planetas\\Sol_Tela_dos_Planetas.png"
   },
   "174f86a3-a2a2-4801-8d7d-054d578fccf0": {
     "asset": 1535318248835,
-    "meta": 1535318375381,
+    "meta": 1536663689529,
     "relativePath": "OA Galaxy Escape\\Tela dos Planetas\\Tela dos Planetas.png"
   },
   "f081f0ea-e802-4d2a-850c-06212c803f61": {
     "asset": 1535318248837,
-    "meta": 1535318375398,
+    "meta": 1536663689533,
     "relativePath": "OA Galaxy Escape\\Tela dos Planetas\\Terra.png"
   },
   "c5bcc9b0-bada-460b-8a49-71a7aebb58f3": {
     "asset": 1535318248841,
-    "meta": 1535318375446,
+    "meta": 1536663689549,
     "relativePath": "OA Galaxy Escape\\Tela dos Planetas\\Venus_1.png"
   },
   "b4206f77-48f9-441e-92f5-1bded684f4a7": {
     "asset": 1535318248839,
-    "meta": 1535318375456,
+    "meta": 1536663689557,
     "relativePath": "OA Galaxy Escape\\Tela dos Planetas\\Venus.png"
   },
   "295b9bc7-9ca3-4330-80ba-48a13c7fe452": {
     "asset": 1535318248894,
-    "meta": 1535318376082,
+    "meta": 1536663689690,
     "relativePath": "Tela Planetas\\Marte_btn.png"
   },
   "7c8607e7-a743-4aed-afbc-771d232b6297": {
     "asset": 1535318248897,
-    "meta": 1535318376128,
+    "meta": 1536663689758,
     "relativePath": "Tela Planetas\\Mercurio_btn.png"
   },
   "9013ad02-c07d-4db1-82c5-31e395e1bd55": {
     "asset": 1535318248906,
-    "meta": 1535318376210,
+    "meta": 1536663689835,
     "relativePath": "Tela Planetas\\Venus_btn.png"
   },
   "e09af666-b17e-4aab-8fe4-d514d6651d1c": {
     "asset": 1535318248903,
-    "meta": 1535318376160,
+    "meta": 1536663689806,
     "relativePath": "Tela Planetas\\Terra_btn.png"
   },
   "9bf280fa-9be6-45d4-acbe-9a441565f5d9": {
@@ -416,37 +416,37 @@
   },
   "d616245b-e7d1-4e5c-9f75-8cb242e2536b": {
     "asset": 1535318248946,
-    "meta": 1535318376433,
+    "meta": 1536663690340,
     "relativePath": "Texture\\Sol\\Asset 33.png"
   },
   "76d5503a-578b-4bb0-8fce-1e5da1aacf7b": {
     "asset": 1535318248945,
-    "meta": 1535318376441,
+    "meta": 1536663690306,
     "relativePath": "Texture\\Sol\\Asset 32.png"
   },
   "8c47763e-ec1e-4f71-9c95-881afc9d879e": {
     "asset": 1535318248943,
-    "meta": 1535318376411,
+    "meta": 1536663690288,
     "relativePath": "Texture\\Sol\\Asset 31.png"
   },
   "b6b0d6c8-087c-4a51-acd8-f80fc16d9dae": {
     "asset": 1535318248939,
-    "meta": 1535318376395,
+    "meta": 1536663690211,
     "relativePath": "Texture\\Sol\\Asset 29.png"
   },
   "6ef0ac25-5588-43b6-bea0-8a5af8ff0ead": {
     "asset": 1535318248947,
-    "meta": 1535318376456,
+    "meta": 1536663690330,
     "relativePath": "Texture\\Sol\\Asset 34.png"
   },
   "ce603286-9c63-4906-9fa9-e0817a8e8d3a": {
     "asset": 1535318248941,
-    "meta": 1535318376417,
+    "meta": 1536663690222,
     "relativePath": "Texture\\Sol\\Asset 30.png"
   },
   "f2f9ea1e-3cd8-46aa-8fb0-673ef99d8493": {
     "asset": 1535318248937,
-    "meta": 1535318376392,
+    "meta": 1536663690192,
     "relativePath": "Texture\\Sol\\Asset 28.png"
   },
   "69563aa8-acda-4b48-9861-0783b6b9229a": {
@@ -461,7 +461,7 @@
   },
   "3072b68b-7bec-4d92-a2a8-a0bf907d9157": {
     "asset": 1535318248753,
-    "meta": 1535318374464,
+    "meta": 1536663688610,
     "relativePath": "OA Galaxy Escape\\1x\\Levelreoundred-min.png"
   },
   "c2a63edd-675c-4168-a51c-646d678ac205": {
@@ -471,7 +471,7 @@
   },
   "dbe74381-aafe-4e16-aa0b-9ec282879903": {
     "asset": 1535318248729,
-    "meta": 1535318374178,
+    "meta": 1536663688353,
     "relativePath": "Font\\mikado_outline_shadow.png"
   },
   "6791a06b-c802-4b3e-b688-af75c3730a5c": {
@@ -486,7 +486,7 @@
   },
   "89a671a7-9c72-4270-a36e-8df7b9cdd3a5": {
     "asset": 1535318248863,
-    "meta": 1535318375925,
+    "meta": 1536663689580,
     "relativePath": "Tela Inicio\\Ajustes.png"
   },
   "79c77f30-2281-4a3d-97d3-a175c1161879": {
@@ -496,32 +496,32 @@
   },
   "d4b9e9e9-a728-4f4d-b13e-83e661c16c65": {
     "asset": 1535318248929,
-    "meta": 1535318376337,
+    "meta": 1536663690119,
     "relativePath": "Texture\\Foguete\\Foguete3.png"
   },
   "3143306d-cc64-4b1a-9f93-3ebabf36a6b7": {
     "asset": 1535318248930,
-    "meta": 1535318376347,
+    "meta": 1536663690137,
     "relativePath": "Texture\\Foguete\\Foguete4.png"
   },
   "eedecbf1-418b-429b-ba10-99ed415550c8": {
     "asset": 1535318248924,
-    "meta": 1535318376315,
+    "meta": 1536663690080,
     "relativePath": "Texture\\Foguete\\Foguete1.png"
   },
   "8e5c52ab-6791-4e54-bf0f-3ec8c458cf38": {
     "asset": 1535318248934,
-    "meta": 1535318376363,
+    "meta": 1536663690176,
     "relativePath": "Texture\\Foguete\\Foguete6.png"
   },
   "e874a751-3882-4b79-8b69-944445734693": {
     "asset": 1535318248927,
-    "meta": 1535318376322,
+    "meta": 1536663690107,
     "relativePath": "Texture\\Foguete\\Foguete2.png"
   },
   "8a6a7b1c-3181-495b-bb45-783392420a05": {
     "asset": 1535318248932,
-    "meta": 1535318376370,
+    "meta": 1536663690158,
     "relativePath": "Texture\\Foguete\\Foguete5.png"
   },
   "f13ddd94-58a0-4a46-9c4d-d2ad89b718cd": {
@@ -531,42 +531,42 @@
   },
   "5c92f7eb-7fb2-4ca6-92f8-7acc24c27281": {
     "asset": 1535390300381,
-    "meta": 1535390300438,
+    "meta": 1536663689783,
     "relativePath": "Tela Planetas\\Terra Selecionado.png"
   },
   "14461699-9a8e-4fdf-9ee0-eef7bfca0f71": {
     "asset": 1535392647206,
-    "meta": 1535392647268,
+    "meta": 1536663690036,
     "relativePath": "TelaLancamento\\Painel.png"
   },
   "266a3790-4702-47ff-9dd1-11a66b5b1700": {
     "asset": 1535392657193,
-    "meta": 1535392657251,
+    "meta": 1536663690094,
     "relativePath": "TelaLancamento\\teladelancamento2.png"
   },
   "723d1e5d-32f3-4557-9dbd-196287779ea5": {
     "asset": 1535399397163,
-    "meta": 1535399397184,
+    "meta": 1536663689887,
     "relativePath": "TelaLancamento\\addhover.png"
   },
   "42240e1c-9618-464d-8d05-6d4cbc88e4db": {
     "asset": 1535399406279,
-    "meta": 1535399406299,
+    "meta": 1536663690053,
     "relativePath": "TelaLancamento\\removehover.png"
   },
   "993fc55b-1999-4a70-bf07-fba680232685": {
     "asset": 1535399593631,
-    "meta": 1535399593653,
+    "meta": 1536663689912,
     "relativePath": "TelaLancamento\\Asset 7.png"
   },
   "7431f4d7-84b8-4021-af02-0ca995587f9f": {
     "asset": 1535399660181,
-    "meta": 1535399660219,
+    "meta": 1536663690028,
     "relativePath": "TelaLancamento\\remove.png"
   },
   "ae6c1eb0-240e-40d7-aaa5-6e8fdc6597ff": {
     "asset": 1535401438701,
-    "meta": 1535401438732,
+    "meta": 1536663689934,
     "relativePath": "TelaLancamento\\Bar.png"
   },
   "d75f5b4e-d943-4340-98aa-f10336f67166": {
@@ -581,207 +581,207 @@
   },
   "164d9b9f-c140-4209-82c2-ac0e05a9b43c": {
     "asset": 1536529649097,
-    "meta": 1536529649134,
+    "meta": 1536663690004,
     "relativePath": "TelaLancamento\\NewGrounds.png"
   },
   "e851e89b-faa2-4484-bea6-5c01dd9f06e2": {
-    "asset": 1533650590000,
-    "meta": 1536537996621,
+    "asset": 1535032330000,
+    "meta": 1536663687190,
     "relativePath": "image\\default_btn_normal.png"
   },
   "71561142-4c83-4933-afca-cb7a17f67053": {
-    "asset": 1533650590000,
-    "meta": 1536537996624,
+    "asset": 1535032330000,
+    "meta": 1536663687182,
     "relativePath": "image\\default_btn_disabled.png"
   },
   "d81ec8ad-247c-4e62-aa3c-d35c4193c7af": {
-    "asset": 1533650590000,
-    "meta": 1536537996635,
+    "asset": 1535032330000,
+    "meta": 1536663687229,
     "relativePath": "image\\default_panel.png"
   },
   "b43ff3c2-02bb-4874-81f7-f2dea6970f18": {
-    "asset": 1533650590000,
-    "meta": 1536537996640,
+    "asset": 1535032330000,
+    "meta": 1536663687207,
     "relativePath": "image\\default_btn_pressed.png"
   },
   "cfef78f1-c8df-49b7-8ed0-4c953ace2621": {
-    "asset": 1533650590000,
-    "meta": 1536537996651,
+    "asset": 1535032330000,
+    "meta": 1536663687253,
     "relativePath": "image\\default_progressbar.png"
   },
   "99170b0b-d210-46f1-b213-7d9e3f23098a": {
-    "asset": 1533650590000,
-    "meta": 1536537996655,
+    "asset": 1535032330000,
+    "meta": 1536663687237,
     "relativePath": "image\\default_progressbar_bg.png"
   },
   "567dcd80-8bf4-4535-8a5a-313f1caf078a": {
-    "asset": 1533650590000,
-    "meta": 1536537996672,
+    "asset": 1535032330000,
+    "meta": 1536663687262,
     "relativePath": "image\\default_radio_button_off.png"
   },
   "9d60001f-b5f4-4726-a629-2659e3ded0b8": {
-    "asset": 1533650590000,
-    "meta": 1536537996676,
+    "asset": 1535032330000,
+    "meta": 1536663687297,
     "relativePath": "image\\default_radio_button_on.png"
   },
   "4bab67cb-18e6-4099-b840-355f0473f890": {
-    "asset": 1533650590000,
-    "meta": 1536537996691,
+    "asset": 1535032330000,
+    "meta": 1536663687286,
     "relativePath": "image\\default_scrollbar_bg.png"
   },
   "617323dd-11f4-4dd3-8eec-0caf6b3b45b9": {
-    "asset": 1533650590000,
-    "meta": 1536537996694,
+    "asset": 1535032330000,
+    "meta": 1536663687314,
     "relativePath": "image\\default_scrollbar_vertical_bg.png"
   },
   "d6d3ca85-4681-47c1-b5dd-d036a9d39ea2": {
-    "asset": 1533650590000,
-    "meta": 1536537996706,
+    "asset": 1535032330000,
+    "meta": 1536663687321,
     "relativePath": "image\\default_scrollbar_vertical.png"
   },
   "0291c134-b3da-4098-b7b5-e397edbe947f": {
-    "asset": 1533650590000,
-    "meta": 1536537996709,
+    "asset": 1535032330000,
+    "meta": 1536663687335,
     "relativePath": "image\\default_scrollbar.png"
   },
   "0275e94c-56a7-410f-bd1a-fc7483f7d14a": {
-    "asset": 1533650590000,
-    "meta": 1536537996721,
+    "asset": 1535032330000,
+    "meta": 1536663687348,
     "relativePath": "image\\default_sprite_splash.png"
   },
   "6e056173-d285-473c-b206-40a7fff5386e": {
-    "asset": 1533650590000,
-    "meta": 1536537996727,
+    "asset": 1535032330000,
+    "meta": 1536663687371,
     "relativePath": "image\\default_sprite.png"
   },
   "c25b9d50-c8fc-4d27-beeb-6e7c1f2e5c0f": {
-    "asset": 1533650590000,
-    "meta": 1536537996741,
+    "asset": 1535032330000,
+    "meta": 1536663687394,
     "relativePath": "image\\default_toggle_disabled.png"
   },
   "73a0903d-d80e-4e3c-aa67-f999543c08f5": {
-    "asset": 1533650590000,
-    "meta": 1536537996744,
+    "asset": 1535032330000,
+    "meta": 1536663687363,
     "relativePath": "image\\default_toggle_checkmark.png"
   },
   "d29077ba-1627-4a72-9579-7b56a235340c": {
-    "asset": 1533650590000,
-    "meta": 1536537996755,
+    "asset": 1535032330000,
+    "meta": 1536663687387,
     "relativePath": "image\\default_toggle_normal.png"
   },
   "b181c1e4-0a72-4a91-bfb0-ae6f36ca60bd": {
-    "asset": 1533650590000,
-    "meta": 1536537996759,
+    "asset": 1535032330000,
+    "meta": 1536663687409,
     "relativePath": "image\\default_toggle_pressed.png"
   },
   "b2687ac4-099e-403c-a192-ff477686f4f5": {
-    "asset": 1533650590000,
-    "meta": 1536537996916,
+    "asset": 1535032330000,
+    "meta": 1536663687669,
     "relativePath": "particle\\atom.plist"
   },
   "b8223619-7e38-47c4-841f-9160c232495a": {
-    "asset": 1533650590000,
-    "meta": 1536537996918,
+    "asset": 1535032330000,
+    "meta": 1536663687650,
     "relativePath": "obsolete\\atom.plist"
   },
   "972b9a4d-47ee-4c74-b5c3-61d8a69bc29f": {
-    "asset": 1533650590000,
-    "meta": 1536537996766,
+    "asset": 1535032330000,
+    "meta": 1536663687458,
     "relativePath": "prefab\\button.prefab"
   },
   "2c937608-2562-40ea-b264-7395df6f0cea": {
-    "asset": 1533650590000,
-    "meta": 1536537996770,
+    "asset": 1535032330000,
+    "meta": 1536663687462,
     "relativePath": "prefab\\canvas.prefab"
   },
   "61aeb05b-3b32-452b-8eed-2b76deeed554": {
-    "asset": 1533650590000,
-    "meta": 1536537996772,
+    "asset": 1535032330000,
+    "meta": 1536663687470,
     "relativePath": "prefab\\editbox.prefab"
   },
   "27756ebb-3d33-44b0-9b96-e858fadd4dd4": {
-    "asset": 1533650590000,
-    "meta": 1536537996776,
+    "asset": 1535032330000,
+    "meta": 1536663687477,
     "relativePath": "prefab\\label.prefab"
   },
   "2be36297-9abb-4fee-8049-9ed5e271da8a": {
-    "asset": 1533650590000,
-    "meta": 1536537996781,
+    "asset": 1535032330000,
+    "meta": 1536663687417,
     "relativePath": "misc\\default_video.mp4"
   },
   "785a442c-3ceb-45be-a46e-7317f625f3b9": {
-    "asset": 1533650590000,
-    "meta": 1536537996787,
+    "asset": 1535032330000,
+    "meta": 1536663687485,
     "relativePath": "prefab\\layout.prefab"
   },
   "ca8401fe-ad6e-41a8-bd46-8e3e4e9945be": {
-    "asset": 1533650590000,
-    "meta": 1536537996794,
+    "asset": 1535032330000,
+    "meta": 1536663687493,
     "relativePath": "prefab\\pageview.prefab"
   },
   "cd33edea-55f5-46c2-958d-357a01384a36": {
-    "asset": 1533650590000,
-    "meta": 1536537996798,
+    "asset": 1535032330000,
+    "meta": 1536663687502,
     "relativePath": "prefab\\particlesystem.prefab"
   },
   "5965ffac-69da-4b55-bcde-9225d0613c28": {
-    "asset": 1533650590000,
-    "meta": 1536537996802,
+    "asset": 1535032330000,
+    "meta": 1536663687510,
     "relativePath": "prefab\\progressBar.prefab"
   },
   "4a37dd57-78cd-4cec-aad4-f11a73d12b63": {
-    "asset": 1533650590000,
-    "meta": 1536537996822,
+    "asset": 1535032330000,
+    "meta": 1536663687518,
     "relativePath": "prefab\\richtext.prefab"
   },
   "32044bd2-481f-4cf1-a656-e2b2fb1594eb": {
-    "asset": 1533650590000,
-    "meta": 1536537996830,
+    "asset": 1535032330000,
+    "meta": 1536663687539,
     "relativePath": "prefab\\scrollview.prefab"
   },
   "0004d1cf-a0ad-47d8-ab17-34d3db9d35a3": {
-    "asset": 1533650590000,
-    "meta": 1536537996845,
+    "asset": 1535032330000,
+    "meta": 1536663687530,
     "relativePath": "prefab\\slider.prefab"
   },
   "1f55e3be-b89b-4b79-88de-47fd31018044": {
-    "asset": 1533650590000,
-    "meta": 1536537996849,
+    "asset": 1535032330000,
+    "meta": 1536663687548,
     "relativePath": "prefab\\sprite_splash.prefab"
   },
   "96083d03-c332-4a3f-9386-d03e2d19e8ee": {
-    "asset": 1533650590000,
-    "meta": 1536537996863,
+    "asset": 1535032330000,
+    "meta": 1536663687557,
     "relativePath": "prefab\\sprite.prefab"
   },
   "7de03a80-4457-438d-95a7-3e7cdffd6086": {
-    "asset": 1533650590000,
-    "meta": 1536537996867,
+    "asset": 1535032330000,
+    "meta": 1536663687563,
     "relativePath": "prefab\\tiledmap.prefab"
   },
   "0d784963-d024-4ea6-a7db-03be0ad63010": {
-    "asset": 1533650590000,
-    "meta": 1536537996881,
+    "asset": 1535032330000,
+    "meta": 1536663687580,
     "relativePath": "prefab\\toggle.prefab"
   },
   "bf0a434c-84dd-4a8e-a08a-7a36f180cc75": {
-    "asset": 1533650590000,
-    "meta": 1536537996888,
+    "asset": 1535032330000,
+    "meta": 1536663687588,
     "relativePath": "prefab\\toggleContainer.prefab"
   },
   "d1b8be49-b0a0-435c-83b7-552bed4bbe35": {
-    "asset": 1533650590000,
-    "meta": 1536537996894,
+    "asset": 1535032330000,
+    "meta": 1536663687597,
     "relativePath": "prefab\\toggleGroup.prefab"
   },
   "232d2782-c4bd-4bb4-9e01-909f03d6d3b9": {
-    "asset": 1533650590000,
-    "meta": 1536537996898,
+    "asset": 1535032330000,
+    "meta": 1536663687604,
     "relativePath": "prefab\\videoplayer.prefab"
   },
   "8c5001fd-07ee-4a4b-a8a0-63e15195e94d": {
-    "asset": 1533650590000,
-    "meta": 1536537996900,
+    "asset": 1535032330000,
+    "meta": 1536663687612,
     "relativePath": "prefab\\webview.prefab"
   },
   "da4ff85a-f246-4d5d-8824-26d1e2c079e0": {
@@ -791,7 +791,7 @@
   },
   "ae106e79-9e65-4eb0-957f-d0f1d5de4c44": {
     "asset": 1536591728608,
-    "meta": 1536591728673,
+    "meta": 1536663689861,
     "relativePath": "TelaDeResultadoTerra\\foguetefinal.png"
   },
   "9e0dfc18-69aa-4a1b-b939-7467b859603e": {
@@ -800,8 +800,8 @@
     "relativePath": "Animation\\foguetefinal.anim"
   },
   "5eceef9c-2f48-4048-be58-b095c26663b8": {
-    "asset": 1536608600414,
-    "meta": 1536608600444,
+    "asset": 1536616040156,
+    "meta": 1536616040181,
     "relativePath": "Scenes\\TelaDeResultadoTerraOrbita.fire"
   },
   "8d5fa8cb-3bbd-414f-b6ad-8774253fd91f": {
@@ -814,14 +814,34 @@
     "meta": 1536600297460,
     "relativePath": "Scripts\\ResultCtrl.js"
   },
-  "06d48518-416d-4c59-894d-1f3002074bef": {
-    "asset": 1536600756408,
-    "meta": 1536600794240,
-    "relativePath": "Scripts\\LaunchScript.js"
-  },
   "b5c1245b-5288-47ff-b188-887cdf829229": {
     "asset": 1536601295137,
     "meta": 1536601296556,
     "relativePath": "Scripts\\btn_voltar.js"
+  },
+  "06d48518-416d-4c59-894d-1f3002074bef": {
+    "asset": 1536612480588,
+    "meta": 1536613138702,
+    "relativePath": "Scripts\\LaunchScript.js"
+  },
+  "edd215b9-2796-4a05-aaf5-81f96c9281ce": {
+    "asset": 1535032330000,
+    "meta": 1536663687215,
+    "relativePath": "image\\default_editbox_bg.png"
+  },
+  "8a96b965-2dc0-4e03-aa90-3b79cb93b5b4": {
+    "asset": 1535032330000,
+    "meta": 1536663687440,
+    "relativePath": "obsolete\\atom.png"
+  },
+  "d0a82d39-bede-46c4-b698-c81ff0dedfff": {
+    "asset": 1535032330000,
+    "meta": 1536663687441,
+    "relativePath": "particle\\atom.png"
+  },
+  "0e42ba95-1fa1-46aa-b2cf-143cd1bcee2c": {
+    "asset": 1535032330000,
+    "meta": 1536663687572,
+    "relativePath": "prefab\\tiledtile.prefab"
   }
 }

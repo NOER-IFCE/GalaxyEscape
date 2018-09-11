@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Asset 28",
+    "texture": "f2+eoePNhGqo+wZz75nYST",
+    "rect": [
+      3,
+      4,
+      93,
+      96
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      99,
+      103
+    ]
+  }
+}

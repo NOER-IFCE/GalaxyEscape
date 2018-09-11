@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Terra_btn",
+    "texture": "e0mvZmsX5Kq4/k1RTWZR0c",
+    "rect": [
+      0,
+      4,
+      135,
+      104
+    ],
+    "offset": [
+      -10,
+      -2
+    ],
+    "originalSize": [
+      155,
+      108
+    ]
+  }
+}

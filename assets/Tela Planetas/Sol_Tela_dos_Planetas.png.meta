@@ -1,9 +1,10 @@
 {
-  "ver": "2.0.0",
+  "ver": "2.2.0",
   "uuid": "57fb12d7-8625-4c6b-b09c-a950547d7ca9",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
+  "premultiplyAlpha": false,
   "subMetas": {
     "Sol_Tela_dos_Planetas": {
       "ver": "1.0.3",

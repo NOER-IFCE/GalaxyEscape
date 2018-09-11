@@ -49,22 +49,22 @@ cc.Class({
         //this.vescape = Math.sqrt(this.vescape)/1000;
         //this.vorbita = Math.sqrt(this.vorbita)/1000;
         this.vorbita = 7.81
-        this.vescape = 42.1
+        this.vescape = 11.2
 
         //this.Resultado.string = this.velocidadedofoguete + 'km/s';
         if(this.velocidadedofoguete >= this.vescape - this.erro && this.velocidadedofoguete <= this.vescape + this.erro){
-            this.Resultado.string = ("Lançamento com velocidade suficiente para escapar da órbita. Muito bem!");
+            //this.Resultado.string = ("Lançamento com velocidade suficiente para escapar da órbita. Muito bem!");
             cc.director.loadScene('TelaDeResultadoTerra');
 
         }else if(this.velocidadedofoguete > this.vescape + this.erro){
-            this.Resultado.string = ("Lançamento com velocidade excessiva, gasto desnecessário de combustível");
+            //this.Resultado.string = ("Lançamento com velocidade excessiva, gasto desnecessário de combustível");
             cc.director.loadScene('TelaDeResultadoTerra');
 
         }else if(this.velocidadedofoguete < this.vorbita){
             this.Resultado.string = ('Lançamento com velocidade inferior à velocidade de órbita, Abortar missão! Retornar à base!');
 
         }else if(this.velocidadedofoguete >= this.vorbita && this.velocidadedofoguete < this.vescape){
-            this.Resultado.string = ('Lançamento com velocidade mínima de órbita, o foguete entra na órbita do Planeta');
+            //this.Resultado.string = ('Lançamento com velocidade mínima de órbita, o foguete entra na órbita do Planeta');
             cc.director.loadScene('TelaDeResultadoTerraOrbita');
 
         };

@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "foguete lancamento",
+    "texture": "e9C2DLCvlAEZpaTn6rEGmd",
+    "rect": [
+      0,
+      0,
+      176,
+      472
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      176,
+      472
+    ]
+  }
+}

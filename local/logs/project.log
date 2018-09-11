@@ -1,102 +1,103 @@
-2018-09-10T18:00:45.194Z - normal: Load ~/.CocosCreator/settings.json
-2018-09-10T18:00:45.199Z - normal: checking language setting...
-2018-09-10T18:00:45.199Z - normal: Language: en
-2018-09-10T18:00:46.608Z - success: protocol editor-framework registered
-2018-09-10T18:00:46.608Z - success: protocol app registered
-2018-09-10T18:00:46.608Z - success: protocol theme registered
-2018-09-10T18:00:46.609Z - success: protocol packages registered
-2018-09-10T18:00:46.609Z - success: protocol unpack registerred
-2018-09-10T18:00:46.609Z - success: protocol disable-commonjs registerred
-2018-09-10T18:00:49.607Z - normal: failed to connect login server due to request timeout
-2018-09-10T18:00:49.608Z - normal: Check project C:\Users\thoma\Documents\GitHub\GalaxyEscape
-2018-09-10T18:00:49.609Z - normal: Initializing project C:\Users\thoma\Documents\GitHub\GalaxyEscape
-2018-09-10T18:00:49.631Z - normal: Initializing Cocos2d
-2018-09-10T18:00:50.743Z - normal: Initializing Asset Database
-2018-09-10T18:00:50.809Z - success: protocol uuid registerred
-2018-09-10T18:00:50.809Z - success: protocol db registerred
-2018-09-10T18:00:50.809Z - success: protocol thumbnail registerred
-2018-09-10T18:00:50.810Z - normal: Loading editor/builtin packages
-2018-09-10T18:00:50.929Z - success: assets loaded
-2018-09-10T18:00:50.932Z - success: builder loaded
-2018-09-10T18:00:50.935Z - success: cocos-analytics loaded
-2018-09-10T18:00:50.939Z - success: console loaded
-2018-09-10T18:00:50.977Z - success: fb-instant-games loaded
-2018-09-10T18:00:50.981Z - success: hierarchy loaded
-2018-09-10T18:00:50.984Z - success: inspector loaded
-2018-09-10T18:00:50.986Z - success: keystore loaded
-2018-09-10T18:00:50.994Z - success: node-library loaded
-2018-09-10T18:00:50.996Z - success: package-asset loaded
-2018-09-10T18:00:50.997Z - success: preferences loaded
-2018-09-10T18:00:50.998Z - success: project-exporter loaded
-2018-09-10T18:00:51.024Z - success: project-importer loaded
-2018-09-10T18:00:51.025Z - success: project-settings loaded
-2018-09-10T18:00:51.027Z - success: ui-kit loaded
-2018-09-10T18:00:51.030Z - success: scene loaded
-2018-09-10T18:00:51.031Z - success: sprite-editor loaded
-2018-09-10T18:00:51.033Z - success: store loaded
-2018-09-10T18:00:51.039Z - success: timeline loaded
-2018-09-10T18:00:51.039Z - normal: Loading builtin packages
-2018-09-10T18:00:51.133Z - success: asset-db-debugger loaded
-2018-09-10T18:00:51.155Z - success: code-editor loaded
-2018-09-10T18:00:51.159Z - success: color-picker loaded
-2018-09-10T18:00:51.169Z - success: package-manager loaded
-2018-09-10T18:00:51.174Z - success: qqplay-adapter loaded
-2018-09-10T18:00:51.197Z - success: sdkbox loaded
-2018-09-10T18:00:51.211Z - success: tester loaded
-2018-09-10T18:00:51.221Z - success: ui-grid loaded
-2018-09-10T18:00:51.232Z - success: ui-kit-preview-extra loaded
-2018-09-10T18:00:51.275Z - success: ui-kit-preview loaded
-2018-09-10T18:00:51.283Z - success: ui-tree loaded
-2018-09-10T18:00:51.287Z - success: weapp-adapter loaded
-2018-09-10T18:00:52.188Z - normal: Loading packages
-2018-09-10T18:00:52.193Z - normal: Watching packages
-2018-09-10T18:00:52.474Z - normal: Run Application
-2018-09-10T18:00:54.618Z - success: preview server running at http://localhost:7456
-2018-09-10T18:00:59.348Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
-    at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
-    at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
-    at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
-    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
-    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+2018-09-11T14:04:35.188Z - normal: Load ~/.CocosCreator/settings.json
+2018-09-11T14:04:35.191Z - normal: checking language setting...
+2018-09-11T14:04:35.191Z - normal: Language: en
+2018-09-11T14:04:37.158Z - success: protocol editor-framework registered
+2018-09-11T14:04:37.159Z - success: protocol app registered
+2018-09-11T14:04:37.159Z - success: protocol theme registered
+2018-09-11T14:04:37.159Z - success: protocol packages registered
+2018-09-11T14:04:37.159Z - success: protocol unpack registerred
+2018-09-11T14:04:37.159Z - success: protocol disable-commonjs registerred
+2018-09-11T14:04:38.498Z - normal: connected!
+2018-09-11T14:04:38.500Z - normal: Check project C:\Users\thoma\Documents\GitHub\GalaxyEscape
+2018-09-11T14:04:38.542Z - normal: Initializing project C:\Users\thoma\Documents\GitHub\GalaxyEscape
+2018-09-11T14:04:38.553Z - normal: Initializing Cocos2d
+2018-09-11T14:04:40.899Z - normal: Initializing Asset Database
+2018-09-11T14:04:40.996Z - success: protocol uuid registerred
+2018-09-11T14:04:40.996Z - success: protocol db registerred
+2018-09-11T14:04:40.996Z - success: protocol thumbnail registerred
+2018-09-11T14:04:40.997Z - normal: Loading editor/builtin packages
+2018-09-11T14:04:41.204Z - success: assets loaded
+2018-09-11T14:04:41.208Z - success: builder loaded
+2018-09-11T14:04:41.210Z - success: cocos-analytics loaded
+2018-09-11T14:04:41.215Z - success: console loaded
+2018-09-11T14:04:41.246Z - success: fb-instant-games loaded
+2018-09-11T14:04:41.250Z - success: hierarchy loaded
+2018-09-11T14:04:41.254Z - success: inspector loaded
+2018-09-11T14:04:41.255Z - success: keystore loaded
+2018-09-11T14:04:41.259Z - success: node-library loaded
+2018-09-11T14:04:41.267Z - success: package-asset loaded
+2018-09-11T14:04:41.270Z - success: preferences loaded
+2018-09-11T14:04:41.271Z - success: project-exporter loaded
+2018-09-11T14:04:41.285Z - success: project-importer loaded
+2018-09-11T14:04:41.287Z - success: project-settings loaded
+2018-09-11T14:04:41.289Z - success: ui-kit loaded
+2018-09-11T14:04:41.292Z - success: scene loaded
+2018-09-11T14:04:41.293Z - success: sprite-editor loaded
+2018-09-11T14:04:41.295Z - success: store loaded
+2018-09-11T14:04:41.299Z - success: timeline loaded
+2018-09-11T14:04:41.299Z - normal: Loading builtin packages
+2018-09-11T14:04:41.459Z - success: asset-db-debugger loaded
+2018-09-11T14:04:41.483Z - success: code-editor loaded
+2018-09-11T14:04:41.487Z - success: color-picker loaded
+2018-09-11T14:04:41.490Z - success: jsb-adapter loaded
+2018-09-11T14:04:41.498Z - success: package-manager loaded
+2018-09-11T14:04:41.922Z - success: qqplay-adapter loaded
+2018-09-11T14:04:41.964Z - success: sdkbox loaded
+2018-09-11T14:04:41.991Z - success: tester loaded
+2018-09-11T14:04:42.003Z - success: ui-grid loaded
+2018-09-11T14:04:42.012Z - success: ui-kit-preview-extra loaded
+2018-09-11T14:04:42.039Z - success: ui-kit-preview loaded
+2018-09-11T14:04:42.046Z - success: ui-tree loaded
+2018-09-11T14:04:42.050Z - success: weapp-adapter loaded
+2018-09-11T14:04:43.483Z - normal: Loading packages
+2018-09-11T14:04:43.489Z - normal: Watching packages
+2018-09-11T14:04:44.078Z - normal: Run Application
+2018-09-11T14:04:46.344Z - success: preview server running at http://localhost:7456
+2018-09-11T14:04:53.056Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
+    at a.remove (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2693)
+    at Object.e.remove (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4106)
+    at r.series.n (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:4460)
+    at D:\Engine\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\Engine\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
     at runCallback (timers.js:672:20)
     at tryOnImmediate (timers.js:645:5)
     at processImmediate [as _immediateCallback] (timers.js:617:5)
-2018-09-10T18:00:59.349Z - success: ui-tree unloaded
-2018-09-10T18:00:59.350Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
-    at Menu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2594)
-    at Object.MainMenu.remove (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4485)
-    at Async.series.a (D:\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:5122)
-    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
-    at Immediate.iterate (D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+2018-09-11T14:04:53.057Z - success: ui-tree unloaded
+2018-09-11T14:04:53.058Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
+    at a.remove (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2693)
+    at Object.e.remove (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4106)
+    at r.series.n (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:4460)
+    at D:\Engine\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\Engine\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
     at runCallback (timers.js:672:20)
     at tryOnImmediate (timers.js:645:5)
     at processImmediate [as _immediateCallback] (timers.js:617:5)
-2018-09-10T18:00:59.350Z - failed: Failed to uncache module main.js: Cannot find it.
-2018-09-10T18:00:59.350Z - success: ui-tree unloaded
-2018-09-10T18:00:59.355Z - failed: Failed to load panel "panel.preview" from "ui-tree", the panelID ui-tree.preview already exists
-2018-09-10T18:00:59.356Z - success: ui-tree loaded
-2018-09-10T18:00:59.357Z - success: ui-tree loaded
-2018-09-10T18:01:13.897Z - normal: Start building with options : {
-  "actualPlatform": "Android",
-  "apiLevel": "",
+2018-09-11T14:04:53.058Z - failed: Failed to uncache module main.js: Cannot find it.
+2018-09-11T14:04:53.058Z - success: ui-tree unloaded
+2018-09-11T14:04:53.063Z - failed: Failed to load panel "panel.preview" from "ui-tree", the panelID ui-tree.preview already exists
+2018-09-11T14:04:53.065Z - success: ui-tree loaded
+2018-09-11T14:04:53.065Z - success: ui-tree loaded
+2018-09-11T14:09:00.475Z - normal: Start building with options : {
+  "actualPlatform": "web-mobile",
+  "apiLevel": "android-19",
   "appABIs": [],
   "appKey": "",
   "appSecret": "",
   "buildPath": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build",
   "debug": false,
-  "dest": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build\\jsb-default",
+  "dest": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build\\web-mobile",
   "embedWebDebugger": false,
-  "encryptJs": true,
+  "encryptJs": false,
   "excludeScenes": [],
   "excludedModules": [],
   "fb-instant-games": {},
   "includeAnySDK": false,
   "includeSDKBox": false,
   "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
+  "inlineSpriteFrames_native": false,
   "jailbreakPlatform": false,
   "md5Cache": false,
-  "mergeStartScene": false,
+  "mergeStartScene": true,
   "oauthLoginServer": "",
   "optimizeHotUpdate": false,
   "orientation": {
@@ -106,7 +107,7 @@
     "upsideDown": false
   },
   "packageName": "org.cocos2d.GalaxyEscape",
-  "platform": "android",
+  "platform": "web-mobile",
   "previewHeight": "720",
   "previewWidth": "1280",
   "privateKey": "",
@@ -114,7 +115,6 @@
     "REMOTE_SERVER_ROOT": "",
     "orientation": "portrait"
   },
-  "renderMode": "1",
   "scenes": [
     "6ba1630d-239f-4d4c-a012-e9df9752f155",
     "71f1197b-5028-4a26-9c2c-e452c1960071",
@@ -124,7 +124,7 @@
   ],
   "sourceMaps": false,
   "startScene": "6ba1630d-239f-4d4c-a012-e9df9752f155",
-  "template": "default",
+  "template": "link",
   "title": "GalaxyEscape",
   "useDebugKeystore": true,
   "vsVersion": "auto",
@@ -142,523 +142,18 @@
   "projectName": "GalaxyEscape",
   "debugBuildWorker": false
 }
-2018-09-10T18:01:13.898Z - normal: Building C:\Users\thoma\Documents\GitHub\GalaxyEscape
-2018-09-10T18:01:13.898Z - normal: Destination C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-default
-2018-09-10T18:01:14.327Z - normal: Delete C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-default\res/**/*,C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-default\src/*/
-2018-09-10T18:01:17.288Z - normal: Creating native cocos project to  C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-default
-2018-09-10T18:02:44.587Z - normal: Start building assets
-2018-09-10T18:02:44.588Z - normal: Start spawn build-worker
-2018-09-10T18:02:45.354Z - normal: Finish spawn build-worker
-2018-09-10T18:02:45.354Z - normal: Start init build-worker
-2018-09-10T18:02:47.107Z - normal: Finish init build-worker
-2018-09-10T18:02:47.107Z - normal: Start build-assets in worker
-2018-09-10T18:02:47.239Z - info: Enable "Inline all SpriteFrames" in native platform will increase the package size used in hot update.
-2018-09-10T18:02:47.877Z - normal: Finish build-assets in worker
-2018-09-10T18:02:47.882Z - normal: Finish building assets
-2018-09-10T18:02:47.904Z - normal: Start building plugin scripts
-2018-09-10T18:02:47.949Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
-2018-09-10T18:02:49.256Z - normal: Built to "C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-default" successfully
-2018-09-10T18:03:42.284Z - normal: Start to run project
-2018-09-10T18:03:43.391Z - normal: Start to run project. Please wait...
-2018-09-10T18:03:43.391Z - normal: The log file path [ C:\Users\thoma\.CocosCreator\logs\native.log ]
-2018-09-10T18:03:44.801Z - failed: Error: Failed to run project. The log file path [ C:\Users\thoma\.CocosCreator\logs\native.log ]
-    at ChildProcess.handleChildProcess (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:22221)
-    at ChildProcess.e.on (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:8846)
-    at emitTwo (events.js:106:13)
-    at ChildProcess.emit (events.js:194:7)
-    at maybeClose (internal/child_process.js:899:16)
-    at Process.ChildProcess._handle.onexit (internal/child_process.js:226:5)
-2018-09-10T18:04:37.950Z - normal: Start to compile native project. Please wait...
-2018-09-10T18:04:37.950Z - normal: The log file path [ C:\Users\thoma\.CocosCreator\logs\native.log ]
-2018-09-10T18:04:39.518Z - failed: Error: Compile failed. The log file path [ C:\Users\thoma\.CocosCreator\logs\native.log ]
-    at ChildProcess.handleChildProcess (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:20890)
-    at ChildProcess.e.on (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:8846)
-    at emitTwo (events.js:106:13)
-    at ChildProcess.emit (events.js:194:7)
-    at maybeClose (internal/child_process.js:899:16)
-    at Process.ChildProcess._handle.onexit (internal/child_process.js:226:5)
-2018-09-10T18:10:28.300Z - normal: Start building with options : {
-  "actualPlatform": "Android",
-  "apiLevel": "",
-  "appABIs": [],
-  "appKey": "",
-  "appSecret": "",
-  "buildPath": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build",
-  "debug": false,
-  "dest": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build\\jsb-default",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeAnySDK": false,
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "jailbreakPlatform": false,
-  "md5Cache": false,
-  "mergeStartScene": false,
-  "oauthLoginServer": "",
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.GalaxyEscape",
-  "platform": "android",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "privateKey": "",
-  "qqplay": {
-    "REMOTE_SERVER_ROOT": "",
-    "orientation": "portrait"
-  },
-  "renderMode": "1",
-  "scenes": [
-    "6ba1630d-239f-4d4c-a012-e9df9752f155",
-    "71f1197b-5028-4a26-9c2c-e452c1960071",
-    "b043ec12-236b-4b87-a03c-666a614f025f",
-    "5eceef9c-2f48-4048-be58-b095c26663b8",
-    "2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2"
-  ],
-  "sourceMaps": false,
-  "startScene": "6ba1630d-239f-4d4c-a012-e9df9752f155",
-  "template": "default",
-  "title": "GalaxyEscape",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "wechatgame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "wx6ac3f5090a6b99c5",
-    "isSubdomain": false,
-    "orientation": "portrait",
-    "subContext": ""
-  },
-  "xxteaKey": "769a2cbf-b5c9-46",
-  "zipCompressJs": false,
-  "project": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape",
-  "projectName": "GalaxyEscape",
-  "debugBuildWorker": false
-}
-2018-09-10T18:10:28.303Z - normal: Building C:\Users\thoma\Documents\GitHub\GalaxyEscape
-2018-09-10T18:10:28.303Z - normal: Destination C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-default
-2018-09-10T18:10:28.306Z - normal: Delete C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-default\res/**/*,C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-default\src/*/
-2018-09-10T18:10:32.586Z - normal: Start building assets
-2018-09-10T18:10:32.586Z - normal: Start spawn build-worker
-2018-09-10T18:10:33.159Z - normal: Finish spawn build-worker
-2018-09-10T18:10:33.159Z - normal: Start init build-worker
-2018-09-10T18:10:37.240Z - normal: Finish init build-worker
-2018-09-10T18:10:37.240Z - normal: Start build-assets in worker
-2018-09-10T18:10:37.595Z - info: Enable "Inline all SpriteFrames" in native platform will increase the package size used in hot update.
-2018-09-10T18:10:38.035Z - normal: Finish build-assets in worker
-2018-09-10T18:10:38.042Z - normal: Finish building assets
-2018-09-10T18:10:38.056Z - normal: Start building plugin scripts
-2018-09-10T18:10:38.085Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
-2018-09-10T18:10:39.342Z - normal: Built to "C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-default" successfully
-2018-09-10T18:10:44.042Z - normal: Start to compile native project. Please wait...
-2018-09-10T18:10:44.042Z - normal: The log file path [ C:\Users\thoma\.CocosCreator\logs\native.log ]
-2018-09-10T18:10:45.317Z - failed: Error: Compile failed. The log file path [ C:\Users\thoma\.CocosCreator\logs\native.log ]
-    at ChildProcess.handleChildProcess (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:20890)
-    at ChildProcess.e.on (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:8846)
-    at emitTwo (events.js:106:13)
-    at ChildProcess.emit (events.js:194:7)
-    at maybeClose (internal/child_process.js:899:16)
-    at Socket.<anonymous> (internal/child_process.js:342:11)
-    at emitOne (events.js:96:13)
-    at Socket.emit (events.js:191:7)
-    at Pipe._handle.close [as _onclose] (net.js:510:12)
-2018-09-10T18:17:58.764Z - error: TypeError: Cannot read property 'sender' of undefined
-    at removeRemoteListenersAndLogWarning (D:\CocosCreator\resources\electron.asar\browser\rpc-server.js:153:34)
-    at callIntoRenderer (D:\CocosCreator\resources\electron.asar\browser\rpc-server.js:220:13)
-    at Function.wrappedCallback (D:\CocosCreator\resources\electron.asar\browser\api\dialog.js:129:14)
-    at process.on.t (D:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:360)
-    at emitOne (events.js:101:20)
-    at process.emit (events.js:191:7)
-    at process._fatalException (bootstrap_node.js:308:26)
-2018-09-10T18:33:57.164Z - normal: Start building with options : {
-  "actualPlatform": "Android",
-  "apiLevel": "",
-  "appABIs": [],
-  "appKey": "",
-  "appSecret": "",
-  "buildPath": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build",
-  "debug": false,
-  "dest": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build\\jsb-default",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeAnySDK": false,
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "jailbreakPlatform": false,
-  "md5Cache": false,
-  "mergeStartScene": false,
-  "oauthLoginServer": "",
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.GalaxyEscape",
-  "platform": "android",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "privateKey": "",
-  "qqplay": {
-    "REMOTE_SERVER_ROOT": "",
-    "orientation": "portrait"
-  },
-  "renderMode": "1",
-  "scenes": [
-    "6ba1630d-239f-4d4c-a012-e9df9752f155",
-    "71f1197b-5028-4a26-9c2c-e452c1960071",
-    "b043ec12-236b-4b87-a03c-666a614f025f",
-    "5eceef9c-2f48-4048-be58-b095c26663b8",
-    "2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2"
-  ],
-  "sourceMaps": false,
-  "startScene": "6ba1630d-239f-4d4c-a012-e9df9752f155",
-  "template": "default",
-  "title": "GalaxyEscape",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "wechatgame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "wx6ac3f5090a6b99c5",
-    "isSubdomain": false,
-    "orientation": "portrait",
-    "subContext": ""
-  },
-  "xxteaKey": "769a2cbf-b5c9-46",
-  "zipCompressJs": false,
-  "project": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape",
-  "projectName": "GalaxyEscape",
-  "debugBuildWorker": false
-}
-2018-09-10T18:33:57.167Z - normal: Building C:\Users\thoma\Documents\GitHub\GalaxyEscape
-2018-09-10T18:33:57.167Z - normal: Destination C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-default
-2018-09-10T18:33:57.168Z - normal: Delete C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-default\res/**/*,C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-default\src/*/
-2018-09-10T18:34:00.186Z - normal: Start building assets
-2018-09-10T18:34:00.186Z - normal: Start spawn build-worker
-2018-09-10T18:34:00.760Z - normal: Finish spawn build-worker
-2018-09-10T18:34:00.760Z - normal: Start init build-worker
-2018-09-10T18:34:02.491Z - normal: Finish init build-worker
-2018-09-10T18:34:02.491Z - normal: Start build-assets in worker
-2018-09-10T18:34:02.579Z - info: Enable "Inline all SpriteFrames" in native platform will increase the package size used in hot update.
-2018-09-10T18:34:02.940Z - normal: Finish build-assets in worker
-2018-09-10T18:34:02.946Z - normal: Finish building assets
-2018-09-10T18:34:02.960Z - normal: Start building plugin scripts
-2018-09-10T18:34:02.973Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
-2018-09-10T18:34:04.233Z - normal: Built to "C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-default" successfully
-2018-09-10T18:34:06.480Z - normal: Start to compile native project. Please wait...
-2018-09-10T18:34:06.480Z - normal: The log file path [ C:\Users\thoma\.CocosCreator\logs\native.log ]
-2018-09-10T18:34:07.639Z - failed: Error: Compile failed. The log file path [ C:\Users\thoma\.CocosCreator\logs\native.log ]
-    at ChildProcess.handleChildProcess (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:20890)
-    at ChildProcess.e.on (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:8846)
-    at emitTwo (events.js:106:13)
-    at ChildProcess.emit (events.js:194:7)
-    at maybeClose (internal/child_process.js:899:16)
-    at Process.ChildProcess._handle.onexit (internal/child_process.js:226:5)
-2018-09-10T18:41:47.765Z - normal: Start building with options : {
-  "actualPlatform": "Android",
-  "apiLevel": "android-28",
-  "appABIs": [],
-  "appKey": "",
-  "appSecret": "",
-  "buildPath": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build",
-  "debug": false,
-  "dest": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build\\jsb-default",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeAnySDK": false,
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "jailbreakPlatform": false,
-  "md5Cache": false,
-  "mergeStartScene": false,
-  "oauthLoginServer": "",
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.GalaxyEscape",
-  "platform": "android",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "privateKey": "",
-  "qqplay": {
-    "REMOTE_SERVER_ROOT": "",
-    "orientation": "portrait"
-  },
-  "renderMode": "1",
-  "scenes": [
-    "6ba1630d-239f-4d4c-a012-e9df9752f155",
-    "71f1197b-5028-4a26-9c2c-e452c1960071",
-    "b043ec12-236b-4b87-a03c-666a614f025f",
-    "5eceef9c-2f48-4048-be58-b095c26663b8",
-    "2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2"
-  ],
-  "sourceMaps": false,
-  "startScene": "6ba1630d-239f-4d4c-a012-e9df9752f155",
-  "template": "default",
-  "title": "GalaxyEscape",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "wechatgame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "wx6ac3f5090a6b99c5",
-    "isSubdomain": false,
-    "orientation": "portrait",
-    "subContext": ""
-  },
-  "xxteaKey": "769a2cbf-b5c9-46",
-  "zipCompressJs": false,
-  "project": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape",
-  "projectName": "GalaxyEscape",
-  "debugBuildWorker": false
-}
-2018-09-10T18:41:47.768Z - normal: Building C:\Users\thoma\Documents\GitHub\GalaxyEscape
-2018-09-10T18:41:47.768Z - normal: Destination C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-default
-2018-09-10T18:41:47.769Z - normal: Delete C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-default\res/**/*,C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-default\src/*/
-2018-09-10T18:41:47.816Z - error: Build Failed: Error: [NDK Root] is empty, please set [NDK Root] in Preferences.
-    at s (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:2640)
-    at initCocosEnv (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:2946)
-    at initSettings (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:3976)
-    at Object.build (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:17047)
-    at Gulp.<anonymous> (D:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:21315)
-    at module.exports (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\lib\runTask.js:34:7)
-    at Gulp.Orchestrator._runTask (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:273:3)
-    at Gulp.Orchestrator._runStep (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:214:10)
-    at Gulp.Orchestrator.start (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:134:8)
-    at D:\CocosCreator\resources\app.asar\node_modules\gulp-sequence\index.js:63:12
-    at Async.series.r (D:\CocosCreator\resources\app.asar\editor\core\builder.js:1:3246)
-    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:726:13
-    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
-    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:264:21
-    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
-    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:723:17
-    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:167:37
-    at Gulp.doneCallback (D:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:21793)
-    at Gulp.Orchestrator.stop (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:150:9)
-2018-09-10T18:43:27.913Z - normal: Start building with options : {
-  "actualPlatform": "Android",
-  "apiLevel": "android-28",
-  "appABIs": [],
-  "appKey": "",
-  "appSecret": "",
-  "buildPath": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build",
-  "debug": false,
-  "dest": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build\\jsb-default",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeAnySDK": false,
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "jailbreakPlatform": false,
-  "md5Cache": false,
-  "mergeStartScene": false,
-  "oauthLoginServer": "",
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.GalaxyEscape",
-  "platform": "android",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "privateKey": "",
-  "qqplay": {
-    "REMOTE_SERVER_ROOT": "",
-    "orientation": "portrait"
-  },
-  "renderMode": "1",
-  "scenes": [
-    "6ba1630d-239f-4d4c-a012-e9df9752f155",
-    "71f1197b-5028-4a26-9c2c-e452c1960071",
-    "b043ec12-236b-4b87-a03c-666a614f025f",
-    "5eceef9c-2f48-4048-be58-b095c26663b8",
-    "2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2"
-  ],
-  "sourceMaps": false,
-  "startScene": "6ba1630d-239f-4d4c-a012-e9df9752f155",
-  "template": "default",
-  "title": "GalaxyEscape",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "wechatgame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "wx6ac3f5090a6b99c5",
-    "isSubdomain": false,
-    "orientation": "portrait",
-    "subContext": ""
-  },
-  "xxteaKey": "769a2cbf-b5c9-46",
-  "zipCompressJs": false,
-  "project": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape",
-  "projectName": "GalaxyEscape",
-  "debugBuildWorker": false
-}
-2018-09-10T18:43:27.913Z - normal: Building C:\Users\thoma\Documents\GitHub\GalaxyEscape
-2018-09-10T18:43:27.913Z - normal: Destination C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-default
-2018-09-10T18:43:27.913Z - normal: Delete C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-default\res/**/*,C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-default\src/*/
-2018-09-10T18:43:27.915Z - error: Build Failed: Error: [ANT Root] is empty, please set [ANT Root] in Preferences.
-    at s (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:2640)
-    at initCocosEnv (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:3014)
-    at initSettings (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:3976)
-    at Object.build (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:17047)
-    at Gulp.<anonymous> (D:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:21315)
-    at module.exports (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\lib\runTask.js:34:7)
-    at Gulp.Orchestrator._runTask (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:273:3)
-    at Gulp.Orchestrator._runStep (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:214:10)
-    at Gulp.Orchestrator.start (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:134:8)
-    at D:\CocosCreator\resources\app.asar\node_modules\gulp-sequence\index.js:63:12
-    at Async.series.r (D:\CocosCreator\resources\app.asar\editor\core\builder.js:1:3246)
-    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:726:13
-    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:52:16
-    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:264:21
-    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:44:16
-    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:723:17
-    at D:\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:167:37
-    at Gulp.doneCallback (D:\CocosCreator\resources\app.asar\editor\core\gulp-build.js:1:21793)
-    at Gulp.Orchestrator.stop (D:\CocosCreator\resources\app.asar\node_modules\orchestrator\index.js:150:9)
-2018-09-10T18:43:59.040Z - normal: Start building with options : {
-  "actualPlatform": "Android",
-  "apiLevel": "android-28",
-  "appABIs": [],
-  "appKey": "",
-  "appSecret": "",
-  "buildPath": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build",
-  "debug": false,
-  "dest": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build\\jsb-default",
-  "embedWebDebugger": false,
-  "encryptJs": true,
-  "excludeScenes": [],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeAnySDK": false,
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "jailbreakPlatform": false,
-  "md5Cache": false,
-  "mergeStartScene": false,
-  "oauthLoginServer": "",
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.GalaxyEscape",
-  "platform": "android",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "privateKey": "",
-  "qqplay": {
-    "REMOTE_SERVER_ROOT": "",
-    "orientation": "portrait"
-  },
-  "renderMode": "1",
-  "scenes": [
-    "6ba1630d-239f-4d4c-a012-e9df9752f155",
-    "71f1197b-5028-4a26-9c2c-e452c1960071",
-    "b043ec12-236b-4b87-a03c-666a614f025f",
-    "5eceef9c-2f48-4048-be58-b095c26663b8",
-    "2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2"
-  ],
-  "sourceMaps": false,
-  "startScene": "6ba1630d-239f-4d4c-a012-e9df9752f155",
-  "template": "default",
-  "title": "GalaxyEscape",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "auto",
-  "wechatgame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "wx6ac3f5090a6b99c5",
-    "isSubdomain": false,
-    "orientation": "portrait",
-    "subContext": ""
-  },
-  "xxteaKey": "769a2cbf-b5c9-46",
-  "zipCompressJs": false,
-  "project": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape",
-  "projectName": "GalaxyEscape",
-  "debugBuildWorker": false
-}
-2018-09-10T18:43:59.040Z - normal: Building C:\Users\thoma\Documents\GitHub\GalaxyEscape
-2018-09-10T18:43:59.040Z - normal: Destination C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-default
-2018-09-10T18:43:59.041Z - normal: Delete C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-default\res/**/*,C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-default\src/*/
-2018-09-10T18:44:02.019Z - normal: Start building assets
-2018-09-10T18:44:02.019Z - normal: Start spawn build-worker
-2018-09-10T18:44:02.624Z - normal: Finish spawn build-worker
-2018-09-10T18:44:02.624Z - normal: Start init build-worker
-2018-09-10T18:44:04.454Z - normal: Finish init build-worker
-2018-09-10T18:44:04.454Z - normal: Start build-assets in worker
-2018-09-10T18:44:04.544Z - info: Enable "Inline all SpriteFrames" in native platform will increase the package size used in hot update.
-2018-09-10T18:44:05.033Z - normal: Finish build-assets in worker
-2018-09-10T18:44:05.039Z - normal: Finish building assets
-2018-09-10T18:44:05.053Z - normal: Start building plugin scripts
-2018-09-10T18:44:05.064Z - normal: Generating main.js from D:\CocosCreator\resources\static\build-templates\shares\main.js
-2018-09-10T18:44:06.459Z - normal: Built to "C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-default" successfully
-2018-09-10T18:44:09.666Z - normal: Start to compile native project. Please wait...
-2018-09-10T18:44:09.667Z - normal: The log file path [ C:\Users\thoma\.CocosCreator\logs\native.log ]
-2018-09-10T18:47:26.266Z - error: TypeError: Cannot read property 'sender' of undefined
-    at removeRemoteListenersAndLogWarning (D:\CocosCreator\resources\electron.asar\browser\rpc-server.js:153:34)
-    at callIntoRenderer (D:\CocosCreator\resources\electron.asar\browser\rpc-server.js:220:13)
-    at Function.wrappedCallback (D:\CocosCreator\resources\electron.asar\browser\api\dialog.js:129:14)
-    at process.on.t (D:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:360)
-    at emitOne (events.js:101:20)
-    at process.emit (events.js:191:7)
-    at process._fatalException (bootstrap_node.js:308:26)
-2018-09-10T18:48:28.185Z - failed: Error: Compile failed. The log file path [ C:\Users\thoma\.CocosCreator\logs\native.log ]
-    at ChildProcess.handleChildProcess (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:20890)
-    at ChildProcess.e.on (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:8846)
-    at emitTwo (events.js:106:13)
-    at ChildProcess.emit (events.js:194:7)
-    at maybeClose (internal/child_process.js:899:16)
-    at Process.ChildProcess._handle.onexit (internal/child_process.js:226:5)
-2018-09-10T19:08:44.169Z - normal: Start to compile native project. Please wait...
-2018-09-10T19:08:44.170Z - normal: The log file path [ C:\Users\thoma\.CocosCreator\logs\native.log ]
-2018-09-10T19:08:51.090Z - failed: Error: Compile failed. The log file path [ C:\Users\thoma\.CocosCreator\logs\native.log ]
-    at ChildProcess.handleChildProcess (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:20890)
-    at ChildProcess.e.on (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:8846)
-    at emitTwo (events.js:106:13)
-    at ChildProcess.emit (events.js:194:7)
-    at maybeClose (internal/child_process.js:899:16)
-    at Process.ChildProcess._handle.onexit (internal/child_process.js:226:5)
-2018-09-10T19:36:37.806Z - normal: Start to compile native project. Please wait...
-2018-09-10T19:36:37.807Z - normal: The log file path [ C:\Users\thoma\.CocosCreator\logs\native.log ]
-2018-09-10T19:36:42.616Z - failed: Error: Compile failed. The log file path [ C:\Users\thoma\.CocosCreator\logs\native.log ]
-    at ChildProcess.handleChildProcess (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:20890)
-    at ChildProcess.e.on (D:\CocosCreator\resources\app.asar\editor\core\native-utils.js:1:8846)
-    at emitTwo (events.js:106:13)
-    at ChildProcess.emit (events.js:194:7)
-    at maybeClose (internal/child_process.js:899:16)
-    at Process.ChildProcess._handle.onexit (internal/child_process.js:226:5)
+2018-09-11T14:09:00.478Z - normal: Building C:\Users\thoma\Documents\GitHub\GalaxyEscape
+2018-09-11T14:09:00.478Z - normal: Destination C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\web-mobile
+2018-09-11T14:09:00.981Z - normal: Delete C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\web-mobile\**\*
+2018-09-11T14:09:44.117Z - normal: Start building assets
+2018-09-11T14:09:44.118Z - normal: Start spawn build-worker
+2018-09-11T14:09:44.699Z - normal: Finish spawn build-worker
+2018-09-11T14:09:44.699Z - normal: Start init build-worker
+2018-09-11T14:09:47.292Z - normal: Finish init build-worker
+2018-09-11T14:09:47.292Z - normal: Start build-assets in worker
+2018-09-11T14:09:47.826Z - normal: Finish build-assets in worker
+2018-09-11T14:09:47.832Z - normal: Finish building assets
+2018-09-11T14:09:47.849Z - normal: Start building plugin scripts
+2018-09-11T14:09:47.901Z - normal: Generating main.js from D:\Engine\CocosCreator\resources\static\build-templates\shares\main.js
+2018-09-11T14:09:47.927Z - normal: Generating html from D:\Engine\CocosCreator\resources\static\build-templates\web-mobile\template\index.html
+2018-09-11T14:09:47.949Z - normal: Built to "C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\web-mobile" successfully

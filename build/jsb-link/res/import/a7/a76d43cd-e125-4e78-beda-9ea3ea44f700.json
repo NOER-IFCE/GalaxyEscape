@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "foguetefinal",
+    "texture": "aeEG55nmVOsJV/0PHV3kxE",
+    "rect": [
+      0,
+      0,
+      174,
+      333
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      174,
+      333
+    ]
+  }
+}

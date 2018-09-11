@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Asset 32",
+    "texture": "761VA6V4tLsI/OHl2hqs97",
+    "rect": [
+      3,
+      3,
+      93,
+      95
+    ],
+    "offset": [
+      0,
+      0.5
+    ],
+    "originalSize": [
+      99,
+      102
+    ]
+  }
+}

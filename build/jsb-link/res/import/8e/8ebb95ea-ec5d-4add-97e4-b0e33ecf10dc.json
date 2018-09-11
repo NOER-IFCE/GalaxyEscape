@@ -1,0 +1,21 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "creditos",
+    "texture": "5emVmBl8hGy5FchtOxmUVU",
+    "rect": [
+      0,
+      0,
+      222,
+      89
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      222,
+      89
+    ]
+  }
+}
