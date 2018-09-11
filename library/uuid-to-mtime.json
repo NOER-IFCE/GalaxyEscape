@@ -25,8 +25,8 @@
     "relativePath": "prefab"
   },
   "6ba1630d-239f-4d4c-a012-e9df9752f155": {
-    "asset": 1535318248848,
-    "meta": 1535318375477,
+    "asset": 1536678851138,
+    "meta": 1536678851155,
     "relativePath": "Scenes\\CenaPrincipal.fire"
   },
   "485d1944-295c-4875-964c-740abcd26190": {
@@ -85,8 +85,8 @@
     "relativePath": "Scripts"
   },
   "2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2": {
-    "asset": 1536595885500,
-    "meta": 1536595885524,
+    "asset": 1536679531812,
+    "meta": 1536679531838,
     "relativePath": "Scenes\\TelaPlanetas.fire"
   },
   "5e596d0b-3694-4716-80ef-54baf4c31f06": {
@@ -155,8 +155,8 @@
     "relativePath": "TelaLancamento\\barra.png"
   },
   "b043ec12-236b-4b87-a03c-666a614f025f": {
-    "asset": 1536601301366,
-    "meta": 1536601301383,
+    "asset": 1536681190146,
+    "meta": 1536681190163,
     "relativePath": "Scenes\\TelaDeResultadoTerra.fire"
   },
   "57aeaec0-2977-4b42-9a56-d7d7e41cf508": {
@@ -800,8 +800,8 @@
     "relativePath": "Animation\\foguetefinal.anim"
   },
   "5eceef9c-2f48-4048-be58-b095c26663b8": {
-    "asset": 1536616040156,
-    "meta": 1536616040181,
+    "asset": 1536681344984,
+    "meta": 1536681345009,
     "relativePath": "Scenes\\TelaDeResultadoTerraOrbita.fire"
   },
   "8d5fa8cb-3bbd-414f-b6ad-8774253fd91f": {
@@ -813,11 +813,6 @@
     "asset": 1536600292023,
     "meta": 1536600297460,
     "relativePath": "Scripts\\ResultCtrl.js"
-  },
-  "b5c1245b-5288-47ff-b188-887cdf829229": {
-    "asset": 1536601295137,
-    "meta": 1536601296556,
-    "relativePath": "Scripts\\btn_voltar.js"
   },
   "06d48518-416d-4c59-894d-1f3002074bef": {
     "asset": 1536612480588,
@@ -843,5 +838,20 @@
     "asset": 1535032330000,
     "meta": 1536663687572,
     "relativePath": "prefab\\tiledtile.prefab"
+  },
+  "dfd991ff-5419-4c5c-8ff6-920016665b1c": {
+    "asset": 1536678773043,
+    "meta": 1536678775966,
+    "relativePath": "Scripts\\MenuCtrl.js"
+  },
+  "0d867845-6244-4548-a2cb-407d675410b0": {
+    "asset": 1536679320955,
+    "meta": 1536679323459,
+    "relativePath": "Scripts\\PlanetCtrl.js"
+  },
+  "b5c1245b-5288-47ff-b188-887cdf829229": {
+    "asset": 1536681169503,
+    "meta": 1536681171696,
+    "relativePath": "Scripts\\btn_voltar.js"
   }
 }

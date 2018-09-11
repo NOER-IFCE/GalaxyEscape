@@ -27,7 +27,7 @@
   },
   "startScene": "6ba1630d-239f-4d4c-a012-e9df9752f155",
   "title": "GalaxyEscape",
-  "webOrientation": "auto",
+  "webOrientation": "landscape",
   "wechatgame": {
     "REMOTE_SERVER_ROOT": "",
     "appid": "wx6ac3f5090a6b99c5",
