@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "massa_do_foguete-8",
+    "texture": "9da93b36-3e13-497b-af6b-4e295193853d",
+    "atlas": "",
+    "rect": [
+      47,
+      0,
+      196,
+      26
+    ],
+    "offset": [
+      0.5,
+      0.5
+    ],
+    "originalSize": [
+      289,
+      27
+    ]
+  }
+}

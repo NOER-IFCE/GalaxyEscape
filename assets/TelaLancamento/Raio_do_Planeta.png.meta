@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "f060983f-ad8a-4d3b-ac5b-2f23d4a8a98f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Raio_do_Planeta": {
+      "ver": "1.0.3",
+      "uuid": "35572169-b7fb-4bee-8e93-0801f74cef95",
+      "rawTextureUuid": "f060983f-ad8a-4d3b-ac5b-2f23d4a8a98f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 27,
+      "trimY": 0,
+      "width": 212,
+      "height": 72,
+      "rawWidth": 265,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

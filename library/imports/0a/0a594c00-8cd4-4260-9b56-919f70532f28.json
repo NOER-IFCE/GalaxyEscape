@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "velocidade-8",
+    "texture": "e9903683-337b-4024-859c-a2f6289d3e79",
+    "atlas": "",
+    "rect": [
+      87,
+      0,
+      254,
+      39
+    ],
+    "offset": [
+      -3,
+      0.5
+    ],
+    "originalSize": [
+      434,
+      40
+    ]
+  }
+}

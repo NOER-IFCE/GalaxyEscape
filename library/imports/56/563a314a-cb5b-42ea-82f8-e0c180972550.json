@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "AvisoMaior-8",
+    "texture": "158284f6-da02-4c38-8e30-c549677574c3",
+    "atlas": "",
+    "rect": [
+      52,
+      0,
+      638,
+      83
+    ],
+    "offset": [
+      -3.5,
+      0
+    ],
+    "originalSize": [
+      749,
+      83
+    ]
+  }
+}

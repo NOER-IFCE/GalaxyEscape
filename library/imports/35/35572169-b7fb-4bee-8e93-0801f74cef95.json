@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Raio_do_Planeta",
+    "texture": "f060983f-ad8a-4d3b-ac5b-2f23d4a8a98f",
+    "atlas": "",
+    "rect": [
+      27,
+      0,
+      212,
+      72
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      265,
+      72
+    ]
+  }
+}

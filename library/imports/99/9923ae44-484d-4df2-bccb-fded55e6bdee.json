@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Aviso-8",
+    "texture": "ba8d94d7-5111-49a2-8aaa-2535761e1748",
+    "atlas": "",
+    "rect": [
+      31,
+      0,
+      386,
+      50
+    ],
+    "offset": [
+      -2.5,
+      0
+    ],
+    "originalSize": [
+      453,
+      50
+    ]
+  }
+}

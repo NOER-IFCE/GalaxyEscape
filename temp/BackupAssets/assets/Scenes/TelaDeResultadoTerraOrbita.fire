@@ -352,7 +352,7 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 495.56,
+      "width": 627.78,
       "height": 44.44
     },
     "_anchorPoint": {
@@ -362,8 +362,8 @@
     },
     "_position": {
       "__type__": "cc.Vec3",
-      "x": 313,
-      "y": 462,
+      "x": 334,
+      "y": 441,
       "z": 0
     },
     "_scale": {
@@ -398,8 +398,8 @@
     "_srcBlendFactor": 770,
     "_dstBlendFactor": 771,
     "_useOriginalSize": false,
-    "_string": "Preso na Orbita do Planeta!",
-    "_N$string": "Preso na Orbita do Planeta!",
+    "_string": "Preso no campo orbital do Planeta!",
+    "_N$string": "Preso no campo orbital do Planeta!",
     "_fontSize": 40,
     "_lineHeight": 40,
     "_enableWrapText": true,
