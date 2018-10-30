@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Sistema-100",
+    "texture": "89bc691e-ba72-4395-b8ba-65ec60740f5f",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      548,
+      56
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      548,
+      56
+    ]
+  }
+}

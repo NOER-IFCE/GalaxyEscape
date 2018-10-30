@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "GuiaAba-8",
+    "texture": "3a238c48-656b-4771-8968-65f6e93a98af",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      904,
+      478
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      904,
+      478
+    ]
+  }
+}

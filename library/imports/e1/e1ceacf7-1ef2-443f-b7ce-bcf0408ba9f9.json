@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "audio_fechado-8",
+    "texture": "31e608a9-20b6-40d5-b559-9c564d8fff98",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      67,
+      64
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      67,
+      64
+    ]
+  }
+}

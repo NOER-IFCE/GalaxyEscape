@@ -2,7 +2,7 @@
 cc._RF.push(module, 'fa2cfXAGm1AYIEFC8dbJnoD', 'ButtonCtrl', __filename);
 // Scripts/ButtonCtrl.js
 
-"use strict";
+'use strict';
 
 cc.Class({
     extends: cc.Component,
@@ -21,11 +21,51 @@ cc.Class({
             default: null,
             type: cc.Button
         },
-        massa: 1
+        massa: 1,
+
+        guias: {
+            default: null,
+            type: cc.Node
+        },
+
+        abrir: {
+            default: null,
+            type: cc.Button
+        },
+
+        fechar: {
+            default: null,
+            type: cc.Button
+        },
+
+        fecharResult: {
+            default: null,
+            type: cc.Button
+        },
+        ResultadoVelocInsuf: {
+            default: null,
+            type: cc.Node
+        },
+
+        instrucao: {
+            default: null,
+            type: cc.Node
+        },
+        instrucaofechar: {
+            default: null,
+            type: cc.Button
+        },
+        retornar: {
+            default: null,
+            type: cc.Button
+        }
 
     },
 
-    onLoad: function onLoad() {},
+    onLoad: function onLoad() {
+        this.guias.active = false;
+        this.ResultadoVelocInsuf.active = false;
+    },
 
     onAddButtonClick: function onAddButtonClick() {
         this.massa += 1;
@@ -45,6 +85,26 @@ cc.Class({
         } else {
             this.massaText.string = this.massa.toString();
         }
+    },
+
+    onGuiaButtonClick: function onGuiaButtonClick() {
+        this.guias.active = true;
+    },
+
+    onGuiaHideButtonClick: function onGuiaHideButtonClick() {
+        this.guias.active = false;
+    },
+
+    onInstrucaoHideButtonClick: function onInstrucaoHideButtonClick() {
+        this.instrucao.active = false;
+    },
+
+    onReturnButtonClick: function onReturnButtonClick() {
+        cc.director.loadScene('TelaPlanetas');
+    },
+
+    onFecharResultClick: function onFecharResultClick() {
+        this.ResultadoVelocInsuf.active = false;
     }
 });
 

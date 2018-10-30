@@ -1,761 +1,978 @@
-2018-09-12T15:56:40.981Z - normal: Load ~/.CocosCreator/settings.json
-2018-09-12T15:56:40.985Z - normal: checking language setting...
-2018-09-12T15:56:40.985Z - normal: Language: en
-2018-09-12T15:56:42.500Z - success: protocol editor-framework registered
-2018-09-12T15:56:42.500Z - success: protocol app registered
-2018-09-12T15:56:42.500Z - success: protocol theme registered
-2018-09-12T15:56:42.500Z - success: protocol packages registered
-2018-09-12T15:56:42.500Z - success: protocol unpack registerred
-2018-09-12T15:56:42.500Z - success: protocol disable-commonjs registerred
-2018-09-12T15:56:44.293Z - normal: connected!
-2018-09-12T15:56:44.295Z - normal: Check project C:\Users\thoma\Documents\GitHub\GalaxyEscape
-2018-09-12T15:56:44.298Z - normal: Initializing project C:\Users\thoma\Documents\GitHub\GalaxyEscape
-2018-09-12T15:56:44.301Z - normal: Initializing Cocos2d
-2018-09-12T15:56:44.865Z - normal: Initializing Asset Database
-2018-09-12T15:56:44.901Z - success: protocol uuid registerred
-2018-09-12T15:56:44.901Z - success: protocol db registerred
-2018-09-12T15:56:44.901Z - success: protocol thumbnail registerred
-2018-09-12T15:56:44.901Z - normal: Loading editor/builtin packages
-2018-09-12T15:56:45.023Z - success: assets loaded
-2018-09-12T15:56:45.024Z - success: builder loaded
-2018-09-12T15:56:45.027Z - success: cocos-analytics loaded
-2018-09-12T15:56:45.029Z - success: console loaded
-2018-09-12T15:56:45.059Z - success: fb-instant-games loaded
-2018-09-12T15:56:45.063Z - success: hierarchy loaded
-2018-09-12T15:56:45.065Z - success: inspector loaded
-2018-09-12T15:56:45.067Z - success: keystore loaded
-2018-09-12T15:56:45.071Z - success: node-library loaded
-2018-09-12T15:56:45.072Z - success: package-asset loaded
-2018-09-12T15:56:45.073Z - success: preferences loaded
-2018-09-12T15:56:45.074Z - success: project-exporter loaded
-2018-09-12T15:56:45.086Z - success: project-importer loaded
-2018-09-12T15:56:45.087Z - success: project-settings loaded
-2018-09-12T15:56:45.089Z - success: ui-kit loaded
-2018-09-12T15:56:45.092Z - success: scene loaded
-2018-09-12T15:56:45.092Z - success: sprite-editor loaded
-2018-09-12T15:56:45.095Z - success: store loaded
-2018-09-12T15:56:45.098Z - success: timeline loaded
-2018-09-12T15:56:45.098Z - normal: Loading builtin packages
-2018-09-12T15:56:45.101Z - success: asset-db-debugger loaded
-2018-09-12T15:56:45.102Z - success: code-editor loaded
-2018-09-12T15:56:45.103Z - success: color-picker loaded
-2018-09-12T15:56:45.104Z - success: jsb-adapter loaded
-2018-09-12T15:56:45.106Z - success: package-manager loaded
-2018-09-12T15:56:45.177Z - success: qqplay-adapter loaded
-2018-09-12T15:56:45.184Z - success: sdkbox loaded
-2018-09-12T15:56:45.187Z - success: tester loaded
-2018-09-12T15:56:45.188Z - success: ui-grid loaded
-2018-09-12T15:56:45.190Z - success: ui-kit-preview-extra loaded
-2018-09-12T15:56:45.191Z - success: ui-kit-preview loaded
-2018-09-12T15:56:45.194Z - success: ui-tree loaded
-2018-09-12T15:56:45.194Z - success: weapp-adapter loaded
-2018-09-12T15:56:46.177Z - normal: Loading packages
-2018-09-12T15:56:46.235Z - normal: Watching packages
-2018-09-12T15:56:46.533Z - normal: Run Application
-2018-09-12T15:56:47.156Z - success: preview server running at http://localhost:7456
-2018-09-12T15:58:56.620Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2018-09-12T15:58:56.621Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
-2018-09-12T15:58:56.621Z - normal: Simulator: FRAME SCALE = 1.00
-2018-09-12T15:58:56.780Z - normal: Simulator: Ready for GLSL
-2018-09-12T15:58:56.781Z - normal: Simulator: Ready for OpenGL 2.0
-2018-09-12T15:58:56.782Z - normal: Simulator: Project Config:
-2018-09-12T15:58:56.782Z - normal: Simulator:     project dir: D:\Engine\CocosCreator\resources\cocos2d-x\simulator\win32\
-2018-09-12T15:58:56.782Z - normal: Simulator:     writable path: $(PROJDIR)\
-2018-09-12T15:58:56.782Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2018-09-12T15:58:56.782Z - normal: Simulator:     frame size: 640 x 960
-2018-09-12T15:58:56.782Z - normal: Simulator:     frame scale: 1.00
-2018-09-12T15:58:56.783Z - normal: Simulator:     show console: NO
-2018-09-12T15:58:56.783Z - normal: Simulator:     write debug log: NO ()
-2018-09-12T15:58:56.783Z - normal: Simulator:     listen: 
-2018-09-12T15:58:56.783Z - normal: Simulator:     debugger: none
-2018-09-12T15:58:56.783Z - normal: Simulator:     add searching path:
-2018-09-12T15:58:56.783Z - normal: Simulator: 
-2018-09-12T15:58:56.783Z - normal: Simulator: 
-2018-09-12T15:58:56.783Z - normal: Simulator: 
-2018-09-12T15:58:56.783Z - normal: Simulator: resetDesignResolution request
-2018-09-12T15:58:56.783Z - normal: Simulator: ------------------------------------------------
-2018-09-12T15:58:56.783Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
-2018-09-12T15:58:56.783Z - normal: Simulator: ------------------------------------------------
-2018-09-12T15:58:56.784Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
-2018-09-12T15:58:57.063Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
-2018-09-12T15:58:57.064Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
-2018-09-12T15:58:57.064Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
-2018-09-12T15:58:57.105Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
-2018-09-12T15:58:57.105Z - normal: Simulator: resetDesignResolution request
-2018-09-12T15:58:57.106Z - normal: Simulator: ------------------------------------------------
-2018-09-12T15:58:57.106Z - normal: Simulator: LOAD Js FILE: main.js
-2018-09-12T15:58:57.106Z - normal: Simulator: ------------------------------------------------
-2018-09-12T15:58:57.442Z - normal: Simulator: iShow!
-2018-09-12T15:58:57.445Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8b4c
-2018-09-12T15:58:57.445Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8869
-2018-09-12T15:58:57.459Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.0.1
-2018-09-12T15:58:58.652Z - normal: Simulator: D/jswrapper (129): JS: LoadScene 2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2: 116.97399999999993ms
-2018-09-12T15:58:58.664Z - normal: Simulator: D/jswrapper (129): JS: ScaleX != ScaleY. Don't know which one to return
-2018-09-12T15:59:00.171Z - normal: Simulator: D/jswrapper (129): JS: LoadScene 71f1197b-5028-4a26-9c2c-e452c1960071: 76.62199999999984ms
-2018-09-12T15:59:09.132Z - normal: Simulator: D/jswrapper (452): ScriptEngine::cleanup begin ...
-2018-09-12T15:59:09.133Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 54, all objects: 120
-2018-09-12T15:59:09.177Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 51, all objects: 117
-2018-09-12T15:59:09.178Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 51, all objects: 117
-2018-09-12T15:59:09.212Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 51, all objects: 117
-2018-09-12T15:59:09.212Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (1) by GC
-2018-09-12T15:59:09.212Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (40) by GC
-2018-09-12T15:59:09.212Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (39) by GC
-2018-09-12T15:59:09.213Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (18) by GC
-2018-09-12T15:59:09.213Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (15) by GC
-2018-09-12T15:59:09.213Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (1) by GC
-2018-09-12T15:59:09.213Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (4) by GC
-2018-09-12T15:59:09.213Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (7) by GC
-2018-09-12T15:59:09.213Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (2) by GC
-2018-09-12T15:59:09.213Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (3) by GC
-2018-09-12T15:59:09.214Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (23) by GC
-2018-09-12T15:59:09.214Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (3) by GC
-2018-09-12T15:59:09.214Z - normal: Simulator: D/jswrapper (316): Destroy WebGLProgram (3) by GC
-2018-09-12T15:59:09.214Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (2) by GC
-2018-09-12T15:59:09.214Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (28) by GC
-2018-09-12T15:59:09.214Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (4) by GC
-2018-09-12T15:59:09.214Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (8) by GC
-2018-09-12T15:59:09.214Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (6) by GC
-2018-09-12T15:59:09.214Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (5) by GC
-2018-09-12T15:59:09.215Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (12) by GC
-2018-09-12T15:59:09.215Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (9) by GC
-2018-09-12T15:59:09.215Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (17) by GC
-2018-09-12T15:59:09.216Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (10) by GC
-2018-09-12T15:59:09.216Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (27) by GC
-2018-09-12T15:59:09.216Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (11) by GC
-2018-09-12T15:59:09.216Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (13) by GC
-2018-09-12T15:59:09.216Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (34) by GC
-2018-09-12T15:59:09.216Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (31) by GC
-2018-09-12T15:59:09.216Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (14) by GC
-2018-09-12T15:59:09.219Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (19) by GC
-2018-09-12T15:59:09.219Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (26) by GC
-2018-09-12T15:59:09.219Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (22) by GC
-2018-09-12T15:59:09.219Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (20) by GC
-2018-09-12T15:59:09.219Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (21) by GC
-2018-09-12T15:59:09.219Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (24) by GC
-2018-09-12T15:59:09.219Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (25) by GC
-2018-09-12T15:59:09.219Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (29) by GC
-2018-09-12T15:59:09.220Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (30) by GC
-2018-09-12T15:59:09.220Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (32) by GC
-2018-09-12T15:59:09.220Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (36) by GC
-2018-09-12T15:59:09.220Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (33) by GC
-2018-09-12T15:59:09.220Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (35) by GC
-2018-09-12T15:59:09.220Z - normal: Simulator: D/jswrapper (297): Destroy WebGLFramebuffer (1) by GC
-2018-09-12T15:59:09.220Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (37) by GC
-2018-09-12T15:59:09.220Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (38) by GC
-2018-09-12T15:59:09.221Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (16) by GC
-2018-09-12T15:59:09.221Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 0, all objects: 0
-2018-09-12T15:59:09.256Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 0, all objects: 0
-2018-09-12T15:59:09.261Z - normal: Simulator: D/jswrapper (515): ScriptEngine::cleanup end ...
-2018-09-12T15:59:09.324Z - error: Simulator: libpng warning: Interlace handling should be turned on when using png_read_image
+2018-10-29T20:40:30.700Z - normal: Load ~/.CocosCreator/settings.json
+2018-10-29T20:40:30.704Z - normal: checking language setting...
+2018-10-29T20:40:30.704Z - normal: Language: en
+2018-10-29T20:40:32.731Z - success: protocol editor-framework registered
+2018-10-29T20:40:32.731Z - success: protocol app registered
+2018-10-29T20:40:32.731Z - success: protocol theme registered
+2018-10-29T20:40:32.731Z - success: protocol packages registered
+2018-10-29T20:40:32.731Z - success: protocol unpack registerred
+2018-10-29T20:40:32.731Z - success: protocol disable-commonjs registerred
+2018-10-29T20:40:33.920Z - normal: connected!
+2018-10-29T20:40:33.923Z - normal: Check project C:\Users\thoma\Documents\GitHub\GalaxyEscape
+2018-10-29T20:40:33.926Z - normal: Initializing project C:\Users\thoma\Documents\GitHub\GalaxyEscape
+2018-10-29T20:40:33.951Z - normal: Initializing Cocos2d
+2018-10-29T20:40:36.419Z - normal: Initializing Asset Database
+2018-10-29T20:40:36.501Z - success: protocol uuid registerred
+2018-10-29T20:40:36.502Z - success: protocol db registerred
+2018-10-29T20:40:36.502Z - success: protocol thumbnail registerred
+2018-10-29T20:40:36.502Z - normal: Loading editor/builtin packages
+2018-10-29T20:40:36.773Z - success: assets loaded
+2018-10-29T20:40:36.776Z - success: builder loaded
+2018-10-29T20:40:36.778Z - success: cocos-analytics loaded
+2018-10-29T20:40:36.791Z - success: console loaded
+2018-10-29T20:40:36.837Z - success: fb-instant-games loaded
+2018-10-29T20:40:36.842Z - success: hierarchy loaded
+2018-10-29T20:40:36.844Z - success: inspector loaded
+2018-10-29T20:40:36.846Z - success: keystore loaded
+2018-10-29T20:40:36.850Z - success: node-library loaded
+2018-10-29T20:40:36.851Z - success: package-asset loaded
+2018-10-29T20:40:36.852Z - success: preferences loaded
+2018-10-29T20:40:36.854Z - success: project-exporter loaded
+2018-10-29T20:40:36.881Z - success: project-importer loaded
+2018-10-29T20:40:36.883Z - success: project-settings loaded
+2018-10-29T20:40:36.885Z - success: ui-kit loaded
+2018-10-29T20:40:36.888Z - success: scene loaded
+2018-10-29T20:40:36.890Z - success: sprite-editor loaded
+2018-10-29T20:40:36.893Z - success: store loaded
+2018-10-29T20:40:36.913Z - success: timeline loaded
+2018-10-29T20:40:36.914Z - normal: Loading builtin packages
+2018-10-29T20:40:37.071Z - success: asset-db-debugger loaded
+2018-10-29T20:40:37.095Z - success: code-editor loaded
+2018-10-29T20:40:37.099Z - success: color-picker loaded
+2018-10-29T20:40:37.103Z - success: jsb-adapter loaded
+2018-10-29T20:40:37.113Z - success: package-manager loaded
+2018-10-29T20:40:37.577Z - success: qqplay-adapter loaded
+2018-10-29T20:40:37.609Z - success: sdkbox loaded
+2018-10-29T20:40:37.620Z - success: tester loaded
+2018-10-29T20:40:37.629Z - success: ui-grid loaded
+2018-10-29T20:40:37.638Z - success: ui-kit-preview-extra loaded
+2018-10-29T20:40:37.663Z - success: ui-kit-preview loaded
+2018-10-29T20:40:37.671Z - success: ui-tree loaded
+2018-10-29T20:40:37.675Z - success: weapp-adapter loaded
+2018-10-29T20:40:39.176Z - normal: Loading packages
+2018-10-29T20:40:39.182Z - normal: Watching packages
+2018-10-29T20:40:39.633Z - normal: Run Application
+2018-10-29T20:40:42.846Z - success: preview server running at http://localhost:7456
+2018-10-29T20:40:49.703Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
+    at a.remove (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2693)
+    at Object.e.remove (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4106)
+    at r.series.n (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:4460)
+    at D:\Engine\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\Engine\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-10-29T20:40:49.703Z - success: ui-tree unloaded
+2018-10-29T20:40:49.704Z - error: Failed to remove menu in path: Developer/UI Preview/ui-tree (could not be found)
+    at a.remove (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\main\menu.js:1:2693)
+    at Object.e.remove (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\main\main-menu.js:1:4106)
+    at r.series.n (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\main\package.js:1:4460)
+    at D:\Engine\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:718:13
+    at Immediate.iterate (D:\Engine\CocosCreator\resources\app.asar\node_modules\async\lib\async.js:262:13)
+    at runCallback (timers.js:672:20)
+    at tryOnImmediate (timers.js:645:5)
+    at processImmediate [as _immediateCallback] (timers.js:617:5)
+2018-10-29T20:40:49.704Z - failed: Failed to uncache module main.js: Cannot find it.
+2018-10-29T20:40:49.704Z - success: ui-tree unloaded
+2018-10-29T20:40:49.711Z - failed: Failed to load panel "panel.preview" from "ui-tree", the panelID ui-tree.preview already exists
+2018-10-29T20:40:49.712Z - success: ui-tree loaded
+2018-10-29T20:40:49.713Z - success: ui-tree loaded
+2018-10-29T20:52:18.959Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-10-29T22:38:25.222Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-10-29T22:39:46.213Z - success: jsb-adapter unloaded
+2018-10-29T22:39:46.215Z - success: jsb-adapter unloaded
+2018-10-29T22:39:46.215Z - success: jsb-adapter unloaded
+2018-10-29T22:39:46.215Z - success: jsb-adapter unloaded
+2018-10-29T22:39:46.215Z - success: jsb-adapter unloaded
+2018-10-29T22:39:46.215Z - success: jsb-adapter unloaded
+2018-10-29T22:39:46.216Z - success: jsb-adapter unloaded
+2018-10-29T22:39:46.216Z - success: jsb-adapter unloaded
+2018-10-29T22:39:46.216Z - success: jsb-adapter unloaded
+2018-10-29T22:39:46.216Z - success: jsb-adapter unloaded
+2018-10-29T22:39:46.219Z - success: jsb-adapter loaded
+2018-10-29T22:39:46.220Z - success: jsb-adapter loaded
+2018-10-29T22:39:46.220Z - success: jsb-adapter loaded
+2018-10-29T22:39:46.220Z - success: jsb-adapter loaded
+2018-10-29T22:39:46.220Z - success: jsb-adapter loaded
+2018-10-29T22:39:46.220Z - success: jsb-adapter loaded
+2018-10-29T22:39:46.220Z - success: jsb-adapter loaded
+2018-10-29T22:39:46.220Z - success: jsb-adapter loaded
+2018-10-29T22:39:46.220Z - success: jsb-adapter loaded
+2018-10-29T22:39:46.220Z - success: jsb-adapter loaded
+2018-10-29T22:39:46.270Z - success: jsb-adapter unloaded
+2018-10-29T22:39:46.271Z - success: jsb-adapter loaded
+2018-10-29T22:39:47.856Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-10-29T22:39:47.856Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-10-29T22:39:47.856Z - normal: Simulator: FRAME SCALE = 1.00
+2018-10-29T22:39:48.261Z - normal: Simulator: Ready for GLSL
+2018-10-29T22:39:48.261Z - normal: Simulator: Ready for OpenGL 2.0
+2018-10-29T22:39:48.261Z - normal: Simulator: Project Config:
+2018-10-29T22:39:48.262Z - normal: Simulator:     project dir: D:\Engine\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-10-29T22:39:48.262Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-10-29T22:39:48.262Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-10-29T22:39:48.262Z - normal: Simulator:     frame size: 640 x 960
+2018-10-29T22:39:48.262Z - normal: Simulator:     frame scale: 1.00
+2018-10-29T22:39:48.262Z - normal: Simulator:     show console: NO
+2018-10-29T22:39:48.262Z - normal: Simulator:     write debug log: NO ()
+2018-10-29T22:39:48.262Z - normal: Simulator:     listen: 
+2018-10-29T22:39:48.262Z - normal: Simulator:     debugger: none
+2018-10-29T22:39:48.262Z - normal: Simulator:     add searching path:
+2018-10-29T22:39:48.262Z - normal: Simulator: 
+2018-10-29T22:39:48.262Z - normal: Simulator: 
+2018-10-29T22:39:48.262Z - normal: Simulator: 
+2018-10-29T22:39:48.263Z - normal: Simulator: resetDesignResolution request
+2018-10-29T22:39:48.263Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:39:48.263Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2018-10-29T22:39:48.263Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:39:48.263Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
+2018-10-29T22:39:48.515Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-10-29T22:39:48.516Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-10-29T22:39:48.516Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-10-29T22:39:48.558Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
+2018-10-29T22:39:48.559Z - normal: Simulator: resetDesignResolution request
+2018-10-29T22:39:48.559Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:39:48.559Z - normal: Simulator: LOAD Js FILE: main.js
+2018-10-29T22:39:48.559Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:39:48.890Z - normal: Simulator: iShow!
+2018-10-29T22:39:48.895Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8b4c
+2018-10-29T22:39:48.895Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8869
+2018-10-29T22:39:48.908Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.0.1
+2018-10-29T22:39:53.733Z - normal: Simulator: D/jswrapper (129): JS: LoadScene 2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2: 49.66700000000037ms
+2018-10-29T22:39:53.739Z - normal: Simulator: D/jswrapper (129): JS: ScaleX != ScaleY. Don't know which one to return
+2018-10-29T22:40:04.422Z - normal: Simulator: D/jswrapper (129): JS: LoadScene 6ba1630d-239f-4d4c-a012-e9df9752f155: 2.6700000000000728ms
+2018-10-29T22:40:14.721Z - normal: Simulator: D/jswrapper (129): JS: LoadScene 2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2: 1.7409999999981665ms
+2018-10-29T22:40:14.722Z - normal: Simulator: D/jswrapper (129): JS: ScaleX != ScaleY. Don't know which one to return
+2018-10-29T22:40:18.531Z - normal: Simulator: D/jswrapper (129): JS: LoadScene 71f1197b-5028-4a26-9c2c-e452c1960071: 52.91200000000026ms
+2018-10-29T22:40:21.521Z - normal: Simulator: D/jswrapper (452): ScriptEngine::cleanup begin ...
+2018-10-29T22:40:21.521Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 73, all objects: 139
+2018-10-29T22:40:21.561Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 67, all objects: 133
+2018-10-29T22:40:21.561Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 67, all objects: 133
+2018-10-29T22:40:21.592Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 67, all objects: 133
+2018-10-29T22:40:21.593Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (36) by GC
+2018-10-29T22:40:21.593Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (34) by GC
+2018-10-29T22:40:21.593Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (29) by GC
+2018-10-29T22:40:21.593Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (2) by GC
+2018-10-29T22:40:21.593Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (40) by GC
+2018-10-29T22:40:21.593Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (11) by GC
+2018-10-29T22:40:21.593Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (1) by GC
+2018-10-29T22:40:21.594Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (22) by GC
+2018-10-29T22:40:21.594Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (14) by GC
+2018-10-29T22:40:21.594Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (2) by GC
+2018-10-29T22:40:21.594Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (44) by GC
+2018-10-29T22:40:21.594Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (20) by GC
+2018-10-29T22:40:21.594Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (3) by GC
+2018-10-29T22:40:21.595Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (3) by GC
+2018-10-29T22:40:21.595Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (42) by GC
+2018-10-29T22:40:21.595Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (41) by GC
+2018-10-29T22:40:21.595Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (4) by GC
+2018-10-29T22:40:21.596Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (33) by GC
+2018-10-29T22:40:21.596Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (1) by GC
+2018-10-29T22:40:21.596Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (6) by GC
+2018-10-29T22:40:21.598Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (4) by GC
+2018-10-29T22:40:21.598Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (39) by GC
+2018-10-29T22:40:21.598Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (12) by GC
+2018-10-29T22:40:21.598Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (10) by GC
+2018-10-29T22:40:21.598Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (5) by GC
+2018-10-29T22:40:21.599Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (9) by GC
+2018-10-29T22:40:21.599Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (7) by GC
+2018-10-29T22:40:21.599Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (8) by GC
+2018-10-29T22:40:21.599Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (13) by GC
+2018-10-29T22:40:21.599Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (16) by GC
+2018-10-29T22:40:21.599Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (15) by GC
+2018-10-29T22:40:21.600Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (49) by GC
+2018-10-29T22:40:21.600Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (53) by GC
+2018-10-29T22:40:21.600Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (19) by GC
+2018-10-29T22:40:21.600Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (17) by GC
+2018-10-29T22:40:21.600Z - normal: Simulator: D/jswrapper (297): Destroy WebGLFramebuffer (1) by GC
+2018-10-29T22:40:21.600Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (18) by GC
+2018-10-29T22:40:21.600Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (21) by GC
+2018-10-29T22:40:21.601Z - normal: Simulator: D/jswrapper (316): Destroy WebGLProgram (3) by GC
+2018-10-29T22:40:21.601Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (24) by GC
+2018-10-29T22:40:21.601Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (46) by GC
+2018-10-29T22:40:21.601Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (31) by GC
+2018-10-29T22:40:21.602Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (25) by GC
+2018-10-29T22:40:21.602Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (26) by GC
+2018-10-29T22:40:21.602Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (27) by GC
+2018-10-29T22:40:21.602Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (30) by GC
+2018-10-29T22:40:21.603Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (28) by GC
+2018-10-29T22:40:21.603Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (32) by GC
+2018-10-29T22:40:21.603Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (35) by GC
+2018-10-29T22:40:21.603Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (38) by GC
+2018-10-29T22:40:21.603Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (37) by GC
+2018-10-29T22:40:21.603Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (43) by GC
+2018-10-29T22:40:21.604Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (48) by GC
+2018-10-29T22:40:21.604Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (45) by GC
+2018-10-29T22:40:21.604Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (47) by GC
+2018-10-29T22:40:21.604Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (50) by GC
+2018-10-29T22:40:21.604Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (51) by GC
+2018-10-29T22:40:21.604Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (52) by GC
+2018-10-29T22:40:21.604Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (54) by GC
+2018-10-29T22:40:21.604Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (55) by GC
+2018-10-29T22:40:21.605Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (23) by GC
+2018-10-29T22:40:21.605Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (56) by GC
+2018-10-29T22:40:21.607Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-10-29T22:40:21.637Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 0, all objects: 0
+2018-10-29T22:40:21.694Z - normal: Simulator: D/jswrapper (515): ScriptEngine::cleanup end ...
+2018-10-29T22:40:21.789Z - error: Simulator: libpng warning: Interlace handling should be turned on when using png_read_image
     at HTMLElement.print-simulator-log (D:\Engine\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1487)
     at Object.e._dispatch (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
     at EventEmitter.o.on.s (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
     at emitMany (events.js:127:13)
     at EventEmitter.emit (events.js:204:7)
-2018-09-12T15:59:24.108Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2018-09-12T15:59:24.108Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
-2018-09-12T15:59:24.109Z - normal: Simulator: FRAME SCALE = 1.00
-2018-09-12T15:59:24.201Z - normal: Simulator: Ready for GLSL
-2018-09-12T15:59:24.201Z - normal: Simulator: Ready for OpenGL 2.0
-2018-09-12T15:59:24.201Z - normal: Simulator: Project Config:
-2018-09-12T15:59:24.201Z - normal: Simulator:     project dir: D:\Engine\CocosCreator\resources\cocos2d-x\simulator\win32\
-2018-09-12T15:59:24.201Z - normal: Simulator:     writable path: $(PROJDIR)\
-2018-09-12T15:59:24.201Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2018-09-12T15:59:24.201Z - normal: Simulator:     frame size: 640 x 960
-2018-09-12T15:59:24.202Z - normal: Simulator:     frame scale: 1.00
-2018-09-12T15:59:24.202Z - normal: Simulator:     show console: NO
-2018-09-12T15:59:24.202Z - normal: Simulator:     write debug log: NO ()
-2018-09-12T15:59:24.202Z - normal: Simulator:     listen: 
-2018-09-12T15:59:24.202Z - normal: Simulator:     debugger: none
-2018-09-12T15:59:24.202Z - normal: Simulator:     add searching path:
-2018-09-12T15:59:24.202Z - normal: Simulator: 
-2018-09-12T15:59:24.202Z - normal: Simulator: 
-2018-09-12T15:59:24.202Z - normal: Simulator: 
-2018-09-12T15:59:24.202Z - normal: Simulator: resetDesignResolution request
-2018-09-12T15:59:24.202Z - normal: Simulator: ------------------------------------------------
-2018-09-12T15:59:24.203Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
-2018-09-12T15:59:24.203Z - normal: Simulator: ------------------------------------------------
-2018-09-12T15:59:24.203Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
-2018-09-12T15:59:24.490Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
-2018-09-12T15:59:24.490Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
-2018-09-12T15:59:24.491Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
-2018-09-12T15:59:24.529Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
-2018-09-12T15:59:24.530Z - normal: Simulator: resetDesignResolution request
-2018-09-12T15:59:24.530Z - normal: Simulator: ------------------------------------------------
-2018-09-12T15:59:24.530Z - normal: Simulator: LOAD Js FILE: main.js
-2018-09-12T15:59:24.531Z - normal: Simulator: ------------------------------------------------
-2018-09-12T15:59:24.860Z - normal: Simulator: iShow!
-2018-09-12T15:59:24.865Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8b4c
-2018-09-12T15:59:24.865Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8869
-2018-09-12T15:59:24.875Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.0.1
-2018-09-12T15:59:25.789Z - normal: Simulator: D/jswrapper (129): JS: LoadScene 2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2: 52.74400000000014ms
-2018-09-12T15:59:25.797Z - normal: Simulator: D/jswrapper (129): JS: ScaleX != ScaleY. Don't know which one to return
-2018-09-12T15:59:26.615Z - normal: Simulator: D/jswrapper (129): JS: LoadScene 71f1197b-5028-4a26-9c2c-e452c1960071: 96.34100000000012ms
-2018-09-12T15:59:30.420Z - normal: Simulator: D/jswrapper (452): ScriptEngine::cleanup begin ...
-2018-09-12T15:59:30.420Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 53, all objects: 119
-2018-09-12T15:59:30.463Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 51, all objects: 117
-2018-09-12T15:59:30.463Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 51, all objects: 117
-2018-09-12T15:59:30.498Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 51, all objects: 117
-2018-09-12T15:59:30.499Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (34) by GC
-2018-09-12T15:59:30.499Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (11) by GC
-2018-09-12T15:59:30.499Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (22) by GC
-2018-09-12T15:59:30.499Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (4) by GC
-2018-09-12T15:59:30.499Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (1) by GC
-2018-09-12T15:59:30.500Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (2) by GC
-2018-09-12T15:59:30.500Z - normal: Simulator: D/jswrapper (316): Destroy WebGLProgram (3) by GC
-2018-09-12T15:59:30.500Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (3) by GC
-2018-09-12T15:59:30.500Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (17) by GC
-2018-09-12T15:59:30.500Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (27) by GC
-2018-09-12T15:59:30.501Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (4) by GC
-2018-09-12T15:59:30.501Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (1) by GC
-2018-09-12T15:59:30.501Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (32) by GC
-2018-09-12T15:59:30.501Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (23) by GC
-2018-09-12T15:59:30.501Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (2) by GC
-2018-09-12T15:59:30.501Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (9) by GC
-2018-09-12T15:59:30.501Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (3) by GC
-2018-09-12T15:59:30.501Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (5) by GC
-2018-09-12T15:59:30.502Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (8) by GC
-2018-09-12T15:59:30.502Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (7) by GC
-2018-09-12T15:59:30.502Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (6) by GC
-2018-09-12T15:59:30.502Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (10) by GC
-2018-09-12T15:59:30.502Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (15) by GC
-2018-09-12T15:59:30.502Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (12) by GC
-2018-09-12T15:59:30.503Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (20) by GC
-2018-09-12T15:59:30.503Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (13) by GC
-2018-09-12T15:59:30.503Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (14) by GC
-2018-09-12T15:59:30.503Z - normal: Simulator: D/jswrapper (297): Destroy WebGLFramebuffer (1) by GC
-2018-09-12T15:59:30.503Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (16) by GC
-2018-09-12T15:59:30.506Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (35) by GC
-2018-09-12T15:59:30.506Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (18) by GC
-2018-09-12T15:59:30.506Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (19) by GC
-2018-09-12T15:59:30.506Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (21) by GC
-2018-09-12T15:59:30.506Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (24) by GC
-2018-09-12T15:59:30.506Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (25) by GC
-2018-09-12T15:59:30.506Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (26) by GC
-2018-09-12T15:59:30.506Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (31) by GC
-2018-09-12T15:59:30.506Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (30) by GC
-2018-09-12T15:59:30.507Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (28) by GC
-2018-09-12T15:59:30.507Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (29) by GC
-2018-09-12T15:59:30.507Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (33) by GC
-2018-09-12T15:59:30.507Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (36) by GC
-2018-09-12T15:59:30.507Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (37) by GC
-2018-09-12T15:59:30.507Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (38) by GC
-2018-09-12T15:59:30.507Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (39) by GC
-2018-09-12T15:59:30.507Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (40) by GC
-2018-09-12T15:59:30.507Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 0, all objects: 0
-2018-09-12T15:59:30.542Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 0, all objects: 0
-2018-09-12T15:59:30.547Z - normal: Simulator: D/jswrapper (515): ScriptEngine::cleanup end ...
-2018-09-12T15:59:30.627Z - error: Simulator: libpng warning: Interlace handling should be turned on when using png_read_image
-    at HTMLElement.print-simulator-log (D:\Engine\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1487)
-    at Object.e._dispatch (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2018-09-12T15:59:37.720Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2018-09-12T15:59:37.721Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
-2018-09-12T15:59:37.721Z - normal: Simulator: FRAME SCALE = 1.00
-2018-09-12T15:59:37.813Z - normal: Simulator: Ready for GLSL
-2018-09-12T15:59:37.813Z - normal: Simulator: Ready for OpenGL 2.0
-2018-09-12T15:59:37.813Z - normal: Simulator: Project Config:
-2018-09-12T15:59:37.813Z - normal: Simulator:     project dir: D:\Engine\CocosCreator\resources\cocos2d-x\simulator\win32\
-2018-09-12T15:59:37.813Z - normal: Simulator:     writable path: $(PROJDIR)\
-2018-09-12T15:59:37.813Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2018-09-12T15:59:37.814Z - normal: Simulator:     frame size: 640 x 960
-2018-09-12T15:59:37.814Z - normal: Simulator:     frame scale: 1.00
-2018-09-12T15:59:37.814Z - normal: Simulator:     show console: NO
-2018-09-12T15:59:37.814Z - normal: Simulator:     write debug log: NO ()
-2018-09-12T15:59:37.814Z - normal: Simulator:     listen: 
-2018-09-12T15:59:37.814Z - normal: Simulator:     debugger: none
-2018-09-12T15:59:37.814Z - normal: Simulator:     add searching path:
-2018-09-12T15:59:37.814Z - normal: Simulator: 
-2018-09-12T15:59:37.815Z - normal: Simulator: 
-2018-09-12T15:59:37.815Z - normal: Simulator: 
-2018-09-12T15:59:37.815Z - normal: Simulator: resetDesignResolution request
-2018-09-12T15:59:37.815Z - normal: Simulator: ------------------------------------------------
-2018-09-12T15:59:37.815Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
-2018-09-12T15:59:37.815Z - normal: Simulator: ------------------------------------------------
-2018-09-12T15:59:37.815Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
-2018-09-12T15:59:38.103Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
-2018-09-12T15:59:38.103Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
-2018-09-12T15:59:38.103Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
-2018-09-12T15:59:38.144Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
-2018-09-12T15:59:38.145Z - normal: Simulator: resetDesignResolution request
-2018-09-12T15:59:38.145Z - normal: Simulator: ------------------------------------------------
-2018-09-12T15:59:38.145Z - normal: Simulator: LOAD Js FILE: main.js
-2018-09-12T15:59:38.145Z - normal: Simulator: ------------------------------------------------
-2018-09-12T15:59:38.465Z - normal: Simulator: iShow!
-2018-09-12T15:59:38.470Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8b4c
-2018-09-12T15:59:38.470Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8869
-2018-09-12T15:59:38.482Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.0.1
-2018-09-12T15:59:39.632Z - normal: Simulator: D/jswrapper (129): JS: LoadScene 2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2: 59.05399999999986ms
-2018-09-12T15:59:39.644Z - normal: Simulator: D/jswrapper (129): JS: ScaleX != ScaleY. Don't know which one to return
-2018-09-12T15:59:40.562Z - normal: Simulator: D/jswrapper (129): JS: LoadScene 71f1197b-5028-4a26-9c2c-e452c1960071: 113.92900000000009ms
-2018-09-12T15:59:45.547Z - normal: Simulator: D/jswrapper (452): ScriptEngine::cleanup begin ...
-2018-09-12T15:59:45.548Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 54, all objects: 120
-2018-09-12T15:59:45.592Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 51, all objects: 117
-2018-09-12T15:59:45.592Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 51, all objects: 117
-2018-09-12T15:59:45.630Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 51, all objects: 117
-2018-09-12T15:59:45.630Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (1) by GC
-2018-09-12T15:59:45.630Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (3) by GC
-2018-09-12T15:59:45.631Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (13) by GC
-2018-09-12T15:59:45.631Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (2) by GC
-2018-09-12T15:59:45.631Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (4) by GC
-2018-09-12T15:59:45.631Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (1) by GC
-2018-09-12T15:59:45.631Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (4) by GC
-2018-09-12T15:59:45.631Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (2) by GC
-2018-09-12T15:59:45.631Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (3) by GC
-2018-09-12T15:59:45.632Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (5) by GC
-2018-09-12T15:59:45.632Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (8) by GC
-2018-09-12T15:59:45.632Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (6) by GC
-2018-09-12T15:59:45.632Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (7) by GC
-2018-09-12T15:59:45.632Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (22) by GC
-2018-09-12T15:59:45.632Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (9) by GC
-2018-09-12T15:59:45.632Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (10) by GC
-2018-09-12T15:59:45.632Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (11) by GC
-2018-09-12T15:59:45.632Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (16) by GC
-2018-09-12T15:59:45.632Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (12) by GC
-2018-09-12T15:59:45.632Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (14) by GC
-2018-09-12T15:59:45.632Z - normal: Simulator: D/jswrapper (297): Destroy WebGLFramebuffer (1) by GC
-2018-09-12T15:59:45.632Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (40) by GC
-2018-09-12T15:59:45.632Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (23) by GC
-2018-09-12T15:59:45.633Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (15) by GC
-2018-09-12T15:59:45.638Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (29) by GC
-2018-09-12T15:59:45.639Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (18) by GC
-2018-09-12T15:59:45.639Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (34) by GC
-2018-09-12T15:59:45.639Z - normal: Simulator: D/jswrapper (316): Destroy WebGLProgram (3) by GC
-2018-09-12T15:59:45.639Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (19) by GC
-2018-09-12T15:59:45.639Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (20) by GC
-2018-09-12T15:59:45.639Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (21) by GC
-2018-09-12T15:59:45.639Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (24) by GC
-2018-09-12T15:59:45.639Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (25) by GC
-2018-09-12T15:59:45.639Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (26) by GC
-2018-09-12T15:59:45.639Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (27) by GC
-2018-09-12T15:59:45.640Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (17) by GC
-2018-09-12T15:59:45.640Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (28) by GC
-2018-09-12T15:59:45.640Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (32) by GC
-2018-09-12T15:59:45.640Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (30) by GC
-2018-09-12T15:59:45.640Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (35) by GC
-2018-09-12T15:59:45.640Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (31) by GC
-2018-09-12T15:59:45.640Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (33) by GC
-2018-09-12T15:59:45.640Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (36) by GC
-2018-09-12T15:59:45.640Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (37) by GC
-2018-09-12T15:59:45.641Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (39) by GC
-2018-09-12T15:59:45.641Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (38) by GC
-2018-09-12T15:59:45.641Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 0, all objects: 0
-2018-09-12T15:59:45.677Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 0, all objects: 0
-2018-09-12T15:59:45.682Z - normal: Simulator: D/jswrapper (515): ScriptEngine::cleanup end ...
-2018-09-12T15:59:45.750Z - error: Simulator: libpng warning: Interlace handling should be turned on when using png_read_image
-    at HTMLElement.print-simulator-log (D:\Engine\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1487)
-    at Object.e._dispatch (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2018-09-12T15:59:50.025Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2018-09-12T15:59:50.025Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
-2018-09-12T15:59:50.025Z - normal: Simulator: FRAME SCALE = 1.00
-2018-09-12T15:59:50.116Z - normal: Simulator: Ready for GLSL
-2018-09-12T15:59:50.116Z - normal: Simulator: Ready for OpenGL 2.0
-2018-09-12T15:59:50.116Z - normal: Simulator: Project Config:
-2018-09-12T15:59:50.116Z - normal: Simulator:     project dir: D:\Engine\CocosCreator\resources\cocos2d-x\simulator\win32\
-2018-09-12T15:59:50.116Z - normal: Simulator:     writable path: $(PROJDIR)\
-2018-09-12T15:59:50.116Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2018-09-12T15:59:50.116Z - normal: Simulator:     frame size: 640 x 960
-2018-09-12T15:59:50.117Z - normal: Simulator:     frame scale: 1.00
-2018-09-12T15:59:50.118Z - normal: Simulator:     show console: NO
-2018-09-12T15:59:50.118Z - normal: Simulator:     write debug log: NO ()
-2018-09-12T15:59:50.118Z - normal: Simulator:     listen: 
-2018-09-12T15:59:50.118Z - normal: Simulator:     debugger: none
-2018-09-12T15:59:50.118Z - normal: Simulator:     add searching path:
-2018-09-12T15:59:50.118Z - normal: Simulator: 
-2018-09-12T15:59:50.118Z - normal: Simulator: 
-2018-09-12T15:59:50.118Z - normal: Simulator: 
-2018-09-12T15:59:50.118Z - normal: Simulator: resetDesignResolution request
-2018-09-12T15:59:50.118Z - normal: Simulator: ------------------------------------------------
-2018-09-12T15:59:50.118Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
-2018-09-12T15:59:50.118Z - normal: Simulator: ------------------------------------------------
-2018-09-12T15:59:50.118Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
-2018-09-12T15:59:50.409Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
-2018-09-12T15:59:50.410Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
-2018-09-12T15:59:50.410Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
-2018-09-12T15:59:50.449Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
-2018-09-12T15:59:50.449Z - normal: Simulator: resetDesignResolution request
-2018-09-12T15:59:50.449Z - normal: Simulator: ------------------------------------------------
-2018-09-12T15:59:50.450Z - normal: Simulator: LOAD Js FILE: main.js
-2018-09-12T15:59:50.450Z - normal: Simulator: ------------------------------------------------
-2018-09-12T15:59:50.778Z - normal: Simulator: iShow!
-2018-09-12T15:59:50.783Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8b4c
-2018-09-12T15:59:50.783Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8869
-2018-09-12T15:59:50.794Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.0.1
-2018-09-12T15:59:51.595Z - normal: Simulator: D/jswrapper (129): JS: LoadScene 2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2: 53.60400000000004ms
-2018-09-12T15:59:51.604Z - normal: Simulator: D/jswrapper (129): JS: ScaleX != ScaleY. Don't know which one to return
-2018-09-12T15:59:54.758Z - normal: Simulator: D/jswrapper (129): JS: LoadScene 71f1197b-5028-4a26-9c2c-e452c1960071: 56.62700000000041ms
-2018-09-12T16:00:01.892Z - normal: Simulator: D/jswrapper (452): ScriptEngine::cleanup begin ...
-2018-09-12T16:00:01.893Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 53, all objects: 119
-2018-09-12T16:00:01.935Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 51, all objects: 117
-2018-09-12T16:00:01.935Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 51, all objects: 117
-2018-09-12T16:00:01.966Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 51, all objects: 117
-2018-09-12T16:00:01.967Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (29) by GC
-2018-09-12T16:00:01.967Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (1) by GC
-2018-09-12T16:00:01.967Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (34) by GC
-2018-09-12T16:00:01.968Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (31) by GC
-2018-09-12T16:00:01.968Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (2) by GC
-2018-09-12T16:00:01.968Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (27) by GC
-2018-09-12T16:00:01.968Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (26) by GC
-2018-09-12T16:00:01.968Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (3) by GC
-2018-09-12T16:00:01.968Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (4) by GC
-2018-09-12T16:00:01.968Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (1) by GC
-2018-09-12T16:00:01.968Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (20) by GC
-2018-09-12T16:00:01.968Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (2) by GC
-2018-09-12T16:00:01.968Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (12) by GC
-2018-09-12T16:00:01.968Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (3) by GC
-2018-09-12T16:00:01.968Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (4) by GC
-2018-09-12T16:00:01.968Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (28) by GC
-2018-09-12T16:00:01.969Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (8) by GC
-2018-09-12T16:00:01.969Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (5) by GC
-2018-09-12T16:00:01.969Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (22) by GC
-2018-09-12T16:00:01.969Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (6) by GC
-2018-09-12T16:00:01.969Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (17) by GC
-2018-09-12T16:00:01.969Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (7) by GC
-2018-09-12T16:00:01.969Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (11) by GC
-2018-09-12T16:00:01.969Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (9) by GC
-2018-09-12T16:00:01.969Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (10) by GC
-2018-09-12T16:00:01.969Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (13) by GC
-2018-09-12T16:00:01.969Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (14) by GC
-2018-09-12T16:00:01.970Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (15) by GC
-2018-09-12T16:00:01.974Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (24) by GC
-2018-09-12T16:00:01.974Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (19) by GC
-2018-09-12T16:00:01.975Z - normal: Simulator: D/jswrapper (316): Destroy WebGLProgram (3) by GC
-2018-09-12T16:00:01.975Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (18) by GC
-2018-09-12T16:00:01.975Z - normal: Simulator: D/jswrapper (297): Destroy WebGLFramebuffer (1) by GC
-2018-09-12T16:00:01.975Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (23) by GC
-2018-09-12T16:00:01.975Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (21) by GC
-2018-09-12T16:00:01.976Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (25) by GC
-2018-09-12T16:00:01.976Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (37) by GC
-2018-09-12T16:00:01.976Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (33) by GC
-2018-09-12T16:00:01.976Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (30) by GC
-2018-09-12T16:00:01.976Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (35) by GC
-2018-09-12T16:00:01.976Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (32) by GC
-2018-09-12T16:00:01.976Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (36) by GC
-2018-09-12T16:00:01.976Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (38) by GC
-2018-09-12T16:00:01.976Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (40) by GC
-2018-09-12T16:00:01.976Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (16) by GC
-2018-09-12T16:00:01.976Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (39) by GC
-2018-09-12T16:00:01.981Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 0, all objects: 0
-2018-09-12T16:00:02.007Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 0, all objects: 0
-2018-09-12T16:00:02.011Z - normal: Simulator: D/jswrapper (515): ScriptEngine::cleanup end ...
-2018-09-12T16:00:02.069Z - error: Simulator: libpng warning: Interlace handling should be turned on when using png_read_image
-    at HTMLElement.print-simulator-log (D:\Engine\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1487)
-    at Object.e._dispatch (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2018-09-12T16:00:59.962Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2018-09-12T16:00:59.964Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
-2018-09-12T16:00:59.964Z - normal: Simulator: FRAME SCALE = 1.00
-2018-09-12T16:01:00.049Z - normal: Simulator: Ready for GLSL
-2018-09-12T16:01:00.051Z - normal: Simulator: Ready for OpenGL 2.0
-2018-09-12T16:01:00.052Z - normal: Simulator: Project Config:
-2018-09-12T16:01:00.052Z - normal: Simulator:     project dir: D:\Engine\CocosCreator\resources\cocos2d-x\simulator\win32\
-2018-09-12T16:01:00.052Z - normal: Simulator:     writable path: $(PROJDIR)\
-2018-09-12T16:01:00.052Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2018-09-12T16:01:00.053Z - normal: Simulator:     frame size: 640 x 960
-2018-09-12T16:01:00.053Z - normal: Simulator:     frame scale: 1.00
-2018-09-12T16:01:00.053Z - normal: Simulator:     show console: NO
-2018-09-12T16:01:00.056Z - normal: Simulator:     write debug log: NO ()
-2018-09-12T16:01:00.058Z - normal: Simulator:     listen: 
-2018-09-12T16:01:00.058Z - normal: Simulator:     debugger: none
-2018-09-12T16:01:00.059Z - normal: Simulator:     add searching path:
-2018-09-12T16:01:00.059Z - normal: Simulator: 
-2018-09-12T16:01:00.059Z - normal: Simulator: 
-2018-09-12T16:01:00.060Z - normal: Simulator: 
-2018-09-12T16:01:00.060Z - normal: Simulator: resetDesignResolution request
-2018-09-12T16:01:00.060Z - normal: Simulator: ------------------------------------------------
-2018-09-12T16:01:00.061Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
-2018-09-12T16:01:00.061Z - normal: Simulator: ------------------------------------------------
-2018-09-12T16:01:00.061Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
-2018-09-12T16:01:00.345Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
-2018-09-12T16:01:00.345Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
-2018-09-12T16:01:00.346Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
-2018-09-12T16:01:00.384Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
-2018-09-12T16:01:00.385Z - normal: Simulator: resetDesignResolution request
-2018-09-12T16:01:00.385Z - normal: Simulator: ------------------------------------------------
-2018-09-12T16:01:00.385Z - normal: Simulator: LOAD Js FILE: main.js
-2018-09-12T16:01:00.385Z - normal: Simulator: ------------------------------------------------
-2018-09-12T16:01:00.710Z - normal: Simulator: iShow!
-2018-09-12T16:01:00.715Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8b4c
-2018-09-12T16:01:00.715Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8869
-2018-09-12T16:01:00.725Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.0.1
-2018-09-12T16:01:01.666Z - normal: Simulator: D/jswrapper (129): JS: LoadScene 2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2: 55.63499999999999ms
-2018-09-12T16:01:01.676Z - normal: Simulator: D/jswrapper (129): JS: ScaleX != ScaleY. Don't know which one to return
-2018-09-12T16:01:03.491Z - normal: Simulator: D/jswrapper (129): JS: LoadScene 71f1197b-5028-4a26-9c2c-e452c1960071: 106.04800000000023ms
-2018-09-12T16:01:07.700Z - normal: Simulator: D/jswrapper (452): ScriptEngine::cleanup begin ...
-2018-09-12T16:01:07.700Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 53, all objects: 119
-2018-09-12T16:01:07.742Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 51, all objects: 117
-2018-09-12T16:01:07.742Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 51, all objects: 117
-2018-09-12T16:01:07.774Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 51, all objects: 117
-2018-09-12T16:01:07.774Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (37) by GC
-2018-09-12T16:01:07.774Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (4) by GC
-2018-09-12T16:01:07.774Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (3) by GC
-2018-09-12T16:01:07.774Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (31) by GC
-2018-09-12T16:01:07.774Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (11) by GC
-2018-09-12T16:01:07.775Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (10) by GC
-2018-09-12T16:01:07.775Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (1) by GC
-2018-09-12T16:01:07.775Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (2) by GC
-2018-09-12T16:01:07.775Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (2) by GC
-2018-09-12T16:01:07.775Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (29) by GC
-2018-09-12T16:01:07.775Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (3) by GC
-2018-09-12T16:01:07.775Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (4) by GC
-2018-09-12T16:01:07.775Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (1) by GC
-2018-09-12T16:01:07.775Z - normal: Simulator: D/jswrapper (297): Destroy WebGLFramebuffer (1) by GC
-2018-09-12T16:01:07.775Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (39) by GC
-2018-09-12T16:01:07.776Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (5) by GC
-2018-09-12T16:01:07.776Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (22) by GC
-2018-09-12T16:01:07.776Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (13) by GC
-2018-09-12T16:01:07.776Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (6) by GC
-2018-09-12T16:01:07.776Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (38) by GC
-2018-09-12T16:01:07.776Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (14) by GC
-2018-09-12T16:01:07.777Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (7) by GC
-2018-09-12T16:01:07.777Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (9) by GC
-2018-09-12T16:01:07.778Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (8) by GC
-2018-09-12T16:01:07.778Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (15) by GC
-2018-09-12T16:01:07.778Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (12) by GC
-2018-09-12T16:01:07.781Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (25) by GC
-2018-09-12T16:01:07.781Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (19) by GC
-2018-09-12T16:01:07.781Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (18) by GC
-2018-09-12T16:01:07.782Z - normal: Simulator: D/jswrapper (316): Destroy WebGLProgram (3) by GC
-2018-09-12T16:01:07.782Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (20) by GC
-2018-09-12T16:01:07.782Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (21) by GC
-2018-09-12T16:01:07.782Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (26) by GC
-2018-09-12T16:01:07.782Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (23) by GC
-2018-09-12T16:01:07.783Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (24) by GC
-2018-09-12T16:01:07.783Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (27) by GC
-2018-09-12T16:01:07.783Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (17) by GC
-2018-09-12T16:01:07.783Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (40) by GC
-2018-09-12T16:01:07.783Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (28) by GC
-2018-09-12T16:01:07.783Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (30) by GC
-2018-09-12T16:01:07.783Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (33) by GC
-2018-09-12T16:01:07.783Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (32) by GC
-2018-09-12T16:01:07.784Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (34) by GC
-2018-09-12T16:01:07.784Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (35) by GC
-2018-09-12T16:01:07.784Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (36) by GC
-2018-09-12T16:01:07.784Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (16) by GC
-2018-09-12T16:01:07.784Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 0, all objects: 0
-2018-09-12T16:01:07.809Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 0, all objects: 0
-2018-09-12T16:01:07.814Z - normal: Simulator: D/jswrapper (515): ScriptEngine::cleanup end ...
-2018-09-12T16:01:07.879Z - error: Simulator: libpng warning: Interlace handling should be turned on when using png_read_image
-    at HTMLElement.print-simulator-log (D:\Engine\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1487)
-    at Object.e._dispatch (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2018-09-12T16:01:15.979Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2018-09-12T16:01:15.981Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
-2018-09-12T16:01:15.981Z - normal: Simulator: FRAME SCALE = 1.00
-2018-09-12T16:01:16.069Z - normal: Simulator: Ready for GLSL
-2018-09-12T16:01:16.069Z - normal: Simulator: Ready for OpenGL 2.0
-2018-09-12T16:01:16.069Z - normal: Simulator: Project Config:
-2018-09-12T16:01:16.069Z - normal: Simulator:     project dir: D:\Engine\CocosCreator\resources\cocos2d-x\simulator\win32\
-2018-09-12T16:01:16.069Z - normal: Simulator:     writable path: $(PROJDIR)\
-2018-09-12T16:01:16.069Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2018-09-12T16:01:16.069Z - normal: Simulator:     frame size: 640 x 960
-2018-09-12T16:01:16.069Z - normal: Simulator:     frame scale: 1.00
-2018-09-12T16:01:16.069Z - normal: Simulator:     show console: NO
-2018-09-12T16:01:16.069Z - normal: Simulator:     write debug log: NO ()
-2018-09-12T16:01:16.069Z - normal: Simulator:     listen: 
-2018-09-12T16:01:16.069Z - normal: Simulator:     debugger: none
-2018-09-12T16:01:16.069Z - normal: Simulator:     add searching path:
-2018-09-12T16:01:16.070Z - normal: Simulator: 
-2018-09-12T16:01:16.070Z - normal: Simulator: 
-2018-09-12T16:01:16.070Z - normal: Simulator: 
-2018-09-12T16:01:16.070Z - normal: Simulator: resetDesignResolution request
-2018-09-12T16:01:16.070Z - normal: Simulator: ------------------------------------------------
-2018-09-12T16:01:16.070Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
-2018-09-12T16:01:16.070Z - normal: Simulator: ------------------------------------------------
-2018-09-12T16:01:16.070Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
-2018-09-12T16:01:16.371Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
-2018-09-12T16:01:16.372Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
-2018-09-12T16:01:16.372Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
-2018-09-12T16:01:16.410Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
-2018-09-12T16:01:16.411Z - normal: Simulator: resetDesignResolution request
-2018-09-12T16:01:16.411Z - normal: Simulator: ------------------------------------------------
-2018-09-12T16:01:16.411Z - normal: Simulator: LOAD Js FILE: main.js
-2018-09-12T16:01:16.411Z - normal: Simulator: ------------------------------------------------
-2018-09-12T16:01:16.738Z - normal: Simulator: iShow!
-2018-09-12T16:01:16.745Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8b4c
-2018-09-12T16:01:16.745Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8869
-2018-09-12T16:01:16.753Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.0.1
-2018-09-12T16:01:18.113Z - normal: Simulator: D/jswrapper (129): JS: LoadScene 2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2: 49.56099999999992ms
-2018-09-12T16:01:18.135Z - normal: Simulator: D/jswrapper (129): JS: ScaleX != ScaleY. Don't know which one to return
-2018-09-12T16:01:19.021Z - normal: Simulator: D/jswrapper (129): JS: LoadScene 71f1197b-5028-4a26-9c2c-e452c1960071: 110.61200000000008ms
-2018-09-12T16:01:33.948Z - normal: Simulator: D/jswrapper (129): JS: LoadScene b043ec12-236b-4b87-a03c-666a614f025f: 44.29599999999846ms
-2018-09-12T16:01:35.140Z - normal: Simulator: D/jswrapper (129): JS: LoadScene 71f1197b-5028-4a26-9c2c-e452c1960071: 1.9330000000009022ms
-2018-09-12T16:01:38.901Z - normal: Simulator: D/jswrapper (452): ScriptEngine::cleanup begin ...
-2018-09-12T16:01:38.901Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 66, all objects: 132
-2018-09-12T16:01:38.943Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 56, all objects: 122
-2018-09-12T16:01:38.943Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 56, all objects: 122
-2018-09-12T16:01:38.976Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 56, all objects: 122
-2018-09-12T16:01:38.977Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (32) by GC
-2018-09-12T16:01:38.978Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (1) by GC
-2018-09-12T16:01:38.978Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (2) by GC
-2018-09-12T16:01:38.978Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (4) by GC
-2018-09-12T16:01:38.978Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (3) by GC
-2018-09-12T16:01:38.978Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (1) by GC
-2018-09-12T16:01:38.978Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (19) by GC
-2018-09-12T16:01:38.978Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (2) by GC
-2018-09-12T16:01:38.978Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (20) by GC
-2018-09-12T16:01:38.979Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (3) by GC
-2018-09-12T16:01:38.979Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (4) by GC
-2018-09-12T16:01:38.979Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (7) by GC
-2018-09-12T16:01:38.979Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (5) by GC
-2018-09-12T16:01:38.979Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (6) by GC
-2018-09-12T16:01:38.979Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (8) by GC
-2018-09-12T16:01:38.979Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (16) by GC
-2018-09-12T16:01:38.983Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (9) by GC
-2018-09-12T16:01:38.983Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (29) by GC
-2018-09-12T16:01:38.983Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (14) by GC
-2018-09-12T16:01:38.984Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (10) by GC
-2018-09-12T16:01:38.984Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (11) by GC
-2018-09-12T16:01:38.984Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (12) by GC
-2018-09-12T16:01:38.984Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (13) by GC
-2018-09-12T16:01:38.984Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (15) by GC
-2018-09-12T16:01:38.984Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (22) by GC
-2018-09-12T16:01:38.984Z - normal: Simulator: D/jswrapper (316): Destroy WebGLProgram (3) by GC
-2018-09-12T16:01:38.984Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (35) by GC
-2018-09-12T16:01:38.984Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (23) by GC
-2018-09-12T16:01:38.985Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (18) by GC
-2018-09-12T16:01:38.985Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (21) by GC
-2018-09-12T16:01:38.985Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (24) by GC
-2018-09-12T16:01:38.985Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (25) by GC
-2018-09-12T16:01:38.985Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (26) by GC
-2018-09-12T16:01:38.985Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (27) by GC
-2018-09-12T16:01:38.985Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (17) by GC
-2018-09-12T16:01:38.985Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (28) by GC
-2018-09-12T16:01:38.985Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (30) by GC
-2018-09-12T16:01:38.985Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (31) by GC
-2018-09-12T16:01:38.986Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (33) by GC
-2018-09-12T16:01:38.986Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (34) by GC
-2018-09-12T16:01:38.986Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (36) by GC
-2018-09-12T16:01:38.986Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (38) by GC
-2018-09-12T16:01:38.986Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (37) by GC
-2018-09-12T16:01:38.986Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (42) by GC
-2018-09-12T16:01:38.986Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (41) by GC
-2018-09-12T16:01:38.986Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (44) by GC
-2018-09-12T16:01:38.986Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (43) by GC
-2018-09-12T16:01:38.987Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (45) by GC
-2018-09-12T16:01:38.987Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (39) by GC
-2018-09-12T16:01:38.987Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (40) by GC
-2018-09-12T16:01:38.988Z - normal: Simulator: D/jswrapper (297): Destroy WebGLFramebuffer (1) by GC
-2018-09-12T16:01:38.988Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 0, all objects: 0
-2018-09-12T16:01:39.016Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 0, all objects: 0
-2018-09-12T16:01:39.022Z - normal: Simulator: D/jswrapper (515): ScriptEngine::cleanup end ...
-2018-09-12T16:01:39.087Z - error: Simulator: libpng warning: Interlace handling should be turned on when using png_read_image
-    at HTMLElement.print-simulator-log (D:\Engine\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1487)
-    at Object.e._dispatch (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2018-09-12T16:01:43.886Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2018-09-12T16:01:43.888Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
-2018-09-12T16:01:43.888Z - normal: Simulator: FRAME SCALE = 1.00
-2018-09-12T16:01:43.981Z - normal: Simulator: Ready for GLSL
-2018-09-12T16:01:43.981Z - normal: Simulator: Ready for OpenGL 2.0
-2018-09-12T16:01:43.981Z - normal: Simulator: Project Config:
-2018-09-12T16:01:43.981Z - normal: Simulator:     project dir: D:\Engine\CocosCreator\resources\cocos2d-x\simulator\win32\
-2018-09-12T16:01:43.981Z - normal: Simulator:     writable path: $(PROJDIR)\
-2018-09-12T16:01:43.981Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2018-09-12T16:01:43.981Z - normal: Simulator:     frame size: 640 x 960
-2018-09-12T16:01:43.981Z - normal: Simulator:     frame scale: 1.00
-2018-09-12T16:01:43.981Z - normal: Simulator:     show console: NO
-2018-09-12T16:01:43.981Z - normal: Simulator:     write debug log: NO ()
-2018-09-12T16:01:43.981Z - normal: Simulator:     listen: 
-2018-09-12T16:01:43.981Z - normal: Simulator:     debugger: none
-2018-09-12T16:01:43.982Z - normal: Simulator:     add searching path:
-2018-09-12T16:01:43.982Z - normal: Simulator: 
-2018-09-12T16:01:43.982Z - normal: Simulator: 
-2018-09-12T16:01:43.982Z - normal: Simulator: 
-2018-09-12T16:01:43.982Z - normal: Simulator: resetDesignResolution request
-2018-09-12T16:01:43.982Z - normal: Simulator: ------------------------------------------------
-2018-09-12T16:01:43.982Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
-2018-09-12T16:01:43.982Z - normal: Simulator: ------------------------------------------------
-2018-09-12T16:01:43.982Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
-2018-09-12T16:01:44.291Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
-2018-09-12T16:01:44.292Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
-2018-09-12T16:01:44.292Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
-2018-09-12T16:01:44.331Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
-2018-09-12T16:01:44.332Z - normal: Simulator: resetDesignResolution request
-2018-09-12T16:01:44.332Z - normal: Simulator: ------------------------------------------------
-2018-09-12T16:01:44.332Z - normal: Simulator: LOAD Js FILE: main.js
-2018-09-12T16:01:44.332Z - normal: Simulator: ------------------------------------------------
-2018-09-12T16:01:44.666Z - normal: Simulator: iShow!
-2018-09-12T16:01:44.676Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8b4c
-2018-09-12T16:01:44.677Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8869
-2018-09-12T16:01:44.684Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.0.1
-2018-09-12T16:01:45.489Z - normal: Simulator: D/jswrapper (129): JS: LoadScene 2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2: 53.212999999999965ms
-2018-09-12T16:01:45.496Z - normal: Simulator: D/jswrapper (129): JS: ScaleX != ScaleY. Don't know which one to return
-2018-09-12T16:01:46.802Z - normal: Simulator: D/jswrapper (129): JS: LoadScene 71f1197b-5028-4a26-9c2c-e452c1960071: 105.71199999999999ms
-2018-09-12T16:01:50.980Z - normal: Simulator: D/jswrapper (452): ScriptEngine::cleanup begin ...
-2018-09-12T16:01:50.980Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 53, all objects: 119
-2018-09-12T16:01:51.023Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 51, all objects: 117
-2018-09-12T16:01:51.024Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 51, all objects: 117
-2018-09-12T16:01:51.055Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 51, all objects: 117
-2018-09-12T16:01:51.057Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (1) by GC
-2018-09-12T16:01:51.057Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (40) by GC
-2018-09-12T16:01:51.057Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (21) by GC
-2018-09-12T16:01:51.057Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (3) by GC
-2018-09-12T16:01:51.059Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (1) by GC
-2018-09-12T16:01:51.059Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (4) by GC
-2018-09-12T16:01:51.060Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (19) by GC
-2018-09-12T16:01:51.060Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (9) by GC
-2018-09-12T16:01:51.060Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (5) by GC
-2018-09-12T16:01:51.060Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (2) by GC
-2018-09-12T16:01:51.060Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (7) by GC
-2018-09-12T16:01:51.060Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (3) by GC
-2018-09-12T16:01:51.060Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (4) by GC
-2018-09-12T16:01:51.060Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (2) by GC
-2018-09-12T16:01:51.061Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (6) by GC
-2018-09-12T16:01:51.061Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (8) by GC
-2018-09-12T16:01:51.061Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (22) by GC
-2018-09-12T16:01:51.061Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (10) by GC
-2018-09-12T16:01:51.062Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (37) by GC
-2018-09-12T16:01:51.062Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (11) by GC
-2018-09-12T16:01:51.062Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (12) by GC
-2018-09-12T16:01:51.063Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (13) by GC
-2018-09-12T16:01:51.063Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (14) by GC
-2018-09-12T16:01:51.063Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (15) by GC
-2018-09-12T16:01:51.063Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (30) by GC
-2018-09-12T16:01:51.063Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (28) by GC
-2018-09-12T16:01:51.064Z - normal: Simulator: D/jswrapper (316): Destroy WebGLProgram (3) by GC
-2018-09-12T16:01:51.064Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (18) by GC
-2018-09-12T16:01:51.065Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (35) by GC
-2018-09-12T16:01:51.065Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (20) by GC
-2018-09-12T16:01:51.065Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (27) by GC
-2018-09-12T16:01:51.065Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (26) by GC
-2018-09-12T16:01:51.065Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (23) by GC
-2018-09-12T16:01:51.066Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (32) by GC
-2018-09-12T16:01:51.066Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (24) by GC
-2018-09-12T16:01:51.066Z - normal: Simulator: D/jswrapper (297): Destroy WebGLFramebuffer (1) by GC
-2018-09-12T16:01:51.067Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (25) by GC
-2018-09-12T16:01:51.067Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (36) by GC
-2018-09-12T16:01:51.067Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (34) by GC
-2018-09-12T16:01:51.067Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (31) by GC
-2018-09-12T16:01:51.068Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (17) by GC
-2018-09-12T16:01:51.068Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (29) by GC
-2018-09-12T16:01:51.068Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (33) by GC
-2018-09-12T16:01:51.068Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (39) by GC
-2018-09-12T16:01:51.068Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (38) by GC
-2018-09-12T16:01:51.068Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (16) by GC
-2018-09-12T16:01:51.069Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 0, all objects: 0
-2018-09-12T16:01:51.095Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 0, all objects: 0
-2018-09-12T16:01:51.101Z - normal: Simulator: D/jswrapper (515): ScriptEngine::cleanup end ...
-2018-09-12T16:01:51.160Z - error: Simulator: libpng warning: Interlace handling should be turned on when using png_read_image
-    at HTMLElement.print-simulator-log (D:\Engine\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1487)
-    at Object.e._dispatch (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2018-09-12T16:11:41.777Z - normal: Start building with options : {
+2018-10-29T22:41:23.354Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-10-29T22:41:23.355Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-10-29T22:41:23.355Z - normal: Simulator: FRAME SCALE = 1.00
+2018-10-29T22:41:23.824Z - normal: Simulator: Ready for GLSL
+2018-10-29T22:41:23.824Z - normal: Simulator: Ready for OpenGL 2.0
+2018-10-29T22:41:23.824Z - normal: Simulator: Project Config:
+2018-10-29T22:41:23.825Z - normal: Simulator:     project dir: D:\Engine\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-10-29T22:41:23.825Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-10-29T22:41:23.825Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-10-29T22:41:23.825Z - normal: Simulator:     frame size: 640 x 960
+2018-10-29T22:41:23.825Z - normal: Simulator:     frame scale: 1.00
+2018-10-29T22:41:23.825Z - normal: Simulator:     show console: NO
+2018-10-29T22:41:23.826Z - normal: Simulator:     write debug log: NO ()
+2018-10-29T22:41:23.826Z - normal: Simulator:     listen: 
+2018-10-29T22:41:23.826Z - normal: Simulator:     debugger: none
+2018-10-29T22:41:23.826Z - normal: Simulator:     add searching path:
+2018-10-29T22:41:23.826Z - normal: Simulator: 
+2018-10-29T22:41:23.826Z - normal: Simulator: 
+2018-10-29T22:41:23.826Z - normal: Simulator: 
+2018-10-29T22:41:23.826Z - normal: Simulator: resetDesignResolution request
+2018-10-29T22:41:23.827Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:41:23.827Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2018-10-29T22:41:23.827Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:41:23.827Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
+2018-10-29T22:41:24.099Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-10-29T22:41:24.100Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-10-29T22:41:24.101Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-10-29T22:41:24.153Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
+2018-10-29T22:41:24.153Z - normal: Simulator: resetDesignResolution request
+2018-10-29T22:41:24.153Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:41:24.153Z - normal: Simulator: LOAD Js FILE: main.js
+2018-10-29T22:41:24.154Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:41:24.490Z - normal: Simulator: iShow!
+2018-10-29T22:41:24.496Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8b4c
+2018-10-29T22:41:24.496Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8869
+2018-10-29T22:41:24.509Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.0.1
+2018-10-29T22:41:32.105Z - normal: Simulator: D/jswrapper (129): JS: LoadScene 2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2: 49.02300000000014ms
+2018-10-29T22:41:32.112Z - normal: Simulator: D/jswrapper (129): JS: ScaleX != ScaleY. Don't know which one to return
+2018-10-29T22:41:46.198Z - normal: Simulator: D/jswrapper (452): ScriptEngine::cleanup begin ...
+2018-10-29T22:41:46.198Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 48, all objects: 113
+2018-10-29T22:41:46.230Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 46, all objects: 111
+2018-10-29T22:41:46.230Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 46, all objects: 111
+2018-10-29T22:41:46.262Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 46, all objects: 111
+2018-10-29T22:41:46.263Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (35) by GC
+2018-10-29T22:41:46.263Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (3) by GC
+2018-10-29T22:41:46.263Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (18) by GC
+2018-10-29T22:41:46.263Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (4) by GC
+2018-10-29T22:41:46.263Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (31) by GC
+2018-10-29T22:41:46.263Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (21) by GC
+2018-10-29T22:41:46.263Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (2) by GC
+2018-10-29T22:41:46.264Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (4) by GC
+2018-10-29T22:41:46.264Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (1) by GC
+2018-10-29T22:41:46.264Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (1) by GC
+2018-10-29T22:41:46.265Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (33) by GC
+2018-10-29T22:41:46.265Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (3) by GC
+2018-10-29T22:41:46.265Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (9) by GC
+2018-10-29T22:41:46.265Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (2) by GC
+2018-10-29T22:41:46.265Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (6) by GC
+2018-10-29T22:41:46.265Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (5) by GC
+2018-10-29T22:41:46.266Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (7) by GC
+2018-10-29T22:41:46.266Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (23) by GC
+2018-10-29T22:41:46.267Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (10) by GC
+2018-10-29T22:41:46.268Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (8) by GC
+2018-10-29T22:41:46.269Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (20) by GC
+2018-10-29T22:41:46.269Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (11) by GC
+2018-10-29T22:41:46.269Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (12) by GC
+2018-10-29T22:41:46.270Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (13) by GC
+2018-10-29T22:41:46.270Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (15) by GC
+2018-10-29T22:41:46.270Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (14) by GC
+2018-10-29T22:41:46.270Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (16) by GC
+2018-10-29T22:41:46.270Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (17) by GC
+2018-10-29T22:41:46.270Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (19) by GC
+2018-10-29T22:41:46.271Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (26) by GC
+2018-10-29T22:41:46.271Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (22) by GC
+2018-10-29T22:41:46.271Z - normal: Simulator: D/jswrapper (316): Destroy WebGLProgram (3) by GC
+2018-10-29T22:41:46.271Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (24) by GC
+2018-10-29T22:41:46.271Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (25) by GC
+2018-10-29T22:41:46.271Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (27) by GC
+2018-10-29T22:41:46.271Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (28) by GC
+2018-10-29T22:41:46.271Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (29) by GC
+2018-10-29T22:41:46.271Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (30) by GC
+2018-10-29T22:41:46.271Z - normal: Simulator: D/jswrapper (297): Destroy WebGLFramebuffer (1) by GC
+2018-10-29T22:41:46.271Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (32) by GC
+2018-10-29T22:41:46.271Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (34) by GC
+2018-10-29T22:41:46.272Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (36) by GC
+2018-10-29T22:41:46.273Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-10-29T22:41:46.302Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 0, all objects: 0
+2018-10-29T22:41:46.307Z - normal: Simulator: D/jswrapper (515): ScriptEngine::cleanup end ...
+2018-10-29T22:42:20.884Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-10-29T22:42:20.885Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-10-29T22:42:20.886Z - normal: Simulator: FRAME SCALE = 1.00
+2018-10-29T22:42:21.347Z - normal: Simulator: Ready for GLSL
+2018-10-29T22:42:21.347Z - normal: Simulator: Ready for OpenGL 2.0
+2018-10-29T22:42:21.347Z - normal: Simulator: Project Config:
+2018-10-29T22:42:21.347Z - normal: Simulator:     project dir: D:\Engine\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-10-29T22:42:21.348Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-10-29T22:42:21.348Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-10-29T22:42:21.348Z - normal: Simulator:     frame size: 640 x 960
+2018-10-29T22:42:21.348Z - normal: Simulator:     frame scale: 1.00
+2018-10-29T22:42:21.348Z - normal: Simulator:     show console: NO
+2018-10-29T22:42:21.348Z - normal: Simulator:     write debug log: NO ()
+2018-10-29T22:42:21.348Z - normal: Simulator:     listen: 
+2018-10-29T22:42:21.348Z - normal: Simulator:     debugger: none
+2018-10-29T22:42:21.349Z - normal: Simulator:     add searching path:
+2018-10-29T22:42:21.349Z - normal: Simulator: 
+2018-10-29T22:42:21.349Z - normal: Simulator: 
+2018-10-29T22:42:21.349Z - normal: Simulator: 
+2018-10-29T22:42:21.349Z - normal: Simulator: resetDesignResolution request
+2018-10-29T22:42:21.349Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:42:21.349Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2018-10-29T22:42:21.349Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:42:21.349Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
+2018-10-29T22:42:21.603Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-10-29T22:42:21.604Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-10-29T22:42:21.604Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-10-29T22:42:21.643Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
+2018-10-29T22:42:21.644Z - normal: Simulator: resetDesignResolution request
+2018-10-29T22:42:21.644Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:42:21.644Z - normal: Simulator: LOAD Js FILE: main.js
+2018-10-29T22:42:21.645Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:42:21.981Z - normal: Simulator: iShow!
+2018-10-29T22:42:21.986Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8b4c
+2018-10-29T22:42:21.987Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8869
+2018-10-29T22:42:21.999Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.0.1
+2018-10-29T22:42:38.983Z - normal: Simulator: D/jswrapper (129): JS: LoadScene 2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2: 48.49199999999837ms
+2018-10-29T22:42:38.989Z - normal: Simulator: D/jswrapper (129): JS: ScaleX != ScaleY. Don't know which one to return
+2018-10-29T22:42:47.318Z - normal: Simulator: D/jswrapper (452): ScriptEngine::cleanup begin ...
+2018-10-29T22:42:47.318Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 48, all objects: 113
+2018-10-29T22:42:47.351Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 46, all objects: 111
+2018-10-29T22:42:47.351Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 46, all objects: 111
+2018-10-29T22:42:47.383Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 46, all objects: 111
+2018-10-29T22:42:47.383Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (1) by GC
+2018-10-29T22:42:47.384Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (3) by GC
+2018-10-29T22:42:47.384Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (2) by GC
+2018-10-29T22:42:47.384Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (11) by GC
+2018-10-29T22:42:47.385Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (3) by GC
+2018-10-29T22:42:47.385Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (28) by GC
+2018-10-29T22:42:47.385Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (26) by GC
+2018-10-29T22:42:47.385Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (2) by GC
+2018-10-29T22:42:47.385Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (4) by GC
+2018-10-29T22:42:47.385Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (1) by GC
+2018-10-29T22:42:47.386Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (4) by GC
+2018-10-29T22:42:47.386Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (7) by GC
+2018-10-29T22:42:47.386Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (5) by GC
+2018-10-29T22:42:47.386Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (6) by GC
+2018-10-29T22:42:47.386Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (35) by GC
+2018-10-29T22:42:47.386Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (34) by GC
+2018-10-29T22:42:47.386Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (12) by GC
+2018-10-29T22:42:47.386Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (8) by GC
+2018-10-29T22:42:47.386Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (9) by GC
+2018-10-29T22:42:47.386Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (10) by GC
+2018-10-29T22:42:47.386Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (13) by GC
+2018-10-29T22:42:47.387Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (14) by GC
+2018-10-29T22:42:47.387Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (29) by GC
+2018-10-29T22:42:47.387Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (15) by GC
+2018-10-29T22:42:47.388Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (23) by GC
+2018-10-29T22:42:47.392Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (18) by GC
+2018-10-29T22:42:47.392Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (16) by GC
+2018-10-29T22:42:47.393Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (21) by GC
+2018-10-29T22:42:47.393Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (17) by GC
+2018-10-29T22:42:47.393Z - normal: Simulator: D/jswrapper (297): Destroy WebGLFramebuffer (1) by GC
+2018-10-29T22:42:47.393Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (19) by GC
+2018-10-29T22:42:47.393Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (22) by GC
+2018-10-29T22:42:47.393Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (20) by GC
+2018-10-29T22:42:47.393Z - normal: Simulator: D/jswrapper (316): Destroy WebGLProgram (3) by GC
+2018-10-29T22:42:47.393Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (24) by GC
+2018-10-29T22:42:47.393Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (25) by GC
+2018-10-29T22:42:47.393Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (27) by GC
+2018-10-29T22:42:47.393Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (31) by GC
+2018-10-29T22:42:47.393Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (30) by GC
+2018-10-29T22:42:47.394Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (32) by GC
+2018-10-29T22:42:47.394Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (33) by GC
+2018-10-29T22:42:47.394Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (36) by GC
+2018-10-29T22:42:47.394Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-10-29T22:42:47.423Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 0, all objects: 0
+2018-10-29T22:42:47.428Z - normal: Simulator: D/jswrapper (515): ScriptEngine::cleanup end ...
+2018-10-29T22:43:11.086Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-10-29T22:43:11.087Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-10-29T22:43:11.087Z - normal: Simulator: FRAME SCALE = 1.00
+2018-10-29T22:43:11.522Z - normal: Simulator: Ready for GLSL
+2018-10-29T22:43:11.522Z - normal: Simulator: Ready for OpenGL 2.0
+2018-10-29T22:43:11.522Z - normal: Simulator: Project Config:
+2018-10-29T22:43:11.522Z - normal: Simulator:     project dir: D:\Engine\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-10-29T22:43:11.522Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-10-29T22:43:11.523Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-10-29T22:43:11.523Z - normal: Simulator:     frame size: 640 x 960
+2018-10-29T22:43:11.523Z - normal: Simulator:     frame scale: 1.00
+2018-10-29T22:43:11.523Z - normal: Simulator:     show console: NO
+2018-10-29T22:43:11.524Z - normal: Simulator:     write debug log: NO ()
+2018-10-29T22:43:11.524Z - normal: Simulator:     listen: 
+2018-10-29T22:43:11.524Z - normal: Simulator:     debugger: none
+2018-10-29T22:43:11.525Z - normal: Simulator:     add searching path:
+2018-10-29T22:43:11.525Z - normal: Simulator: 
+2018-10-29T22:43:11.525Z - normal: Simulator: 
+2018-10-29T22:43:11.526Z - normal: Simulator: 
+2018-10-29T22:43:11.526Z - normal: Simulator: resetDesignResolution request
+2018-10-29T22:43:11.526Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:43:11.526Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2018-10-29T22:43:11.527Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:43:11.527Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
+2018-10-29T22:43:11.767Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-10-29T22:43:11.769Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-10-29T22:43:11.770Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-10-29T22:43:11.808Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
+2018-10-29T22:43:11.809Z - normal: Simulator: resetDesignResolution request
+2018-10-29T22:43:11.809Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:43:11.809Z - normal: Simulator: LOAD Js FILE: main.js
+2018-10-29T22:43:11.809Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:43:12.149Z - normal: Simulator: iShow!
+2018-10-29T22:43:12.160Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8b4c
+2018-10-29T22:43:12.160Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8869
+2018-10-29T22:43:12.175Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.0.1
+2018-10-29T22:43:18.719Z - normal: Simulator: D/jswrapper (452): ScriptEngine::cleanup begin ...
+2018-10-29T22:43:18.719Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 33, all objects: 98
+2018-10-29T22:43:18.752Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 33, all objects: 98
+2018-10-29T22:43:18.753Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 33, all objects: 98
+2018-10-29T22:43:18.782Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 33, all objects: 98
+2018-10-29T22:43:18.782Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (1) by GC
+2018-10-29T22:43:18.783Z - normal: Simulator: D/jswrapper (316): Destroy WebGLProgram (3) by GC
+2018-10-29T22:43:18.783Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (2) by GC
+2018-10-29T22:43:18.783Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (2) by GC
+2018-10-29T22:43:18.783Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (3) by GC
+2018-10-29T22:43:18.784Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (21) by GC
+2018-10-29T22:43:18.784Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (4) by GC
+2018-10-29T22:43:18.784Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (1) by GC
+2018-10-29T22:43:18.784Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (3) by GC
+2018-10-29T22:43:18.786Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (5) by GC
+2018-10-29T22:43:18.786Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (4) by GC
+2018-10-29T22:43:18.786Z - normal: Simulator: D/jswrapper (297): Destroy WebGLFramebuffer (1) by GC
+2018-10-29T22:43:18.787Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (6) by GC
+2018-10-29T22:43:18.787Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (7) by GC
+2018-10-29T22:43:18.787Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (11) by GC
+2018-10-29T22:43:18.787Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (8) by GC
+2018-10-29T22:43:18.787Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (9) by GC
+2018-10-29T22:43:18.787Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (10) by GC
+2018-10-29T22:43:18.787Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (12) by GC
+2018-10-29T22:43:18.789Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (13) by GC
+2018-10-29T22:43:18.789Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (14) by GC
+2018-10-29T22:43:18.790Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (15) by GC
+2018-10-29T22:43:18.790Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (16) by GC
+2018-10-29T22:43:18.790Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (17) by GC
+2018-10-29T22:43:18.790Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (18) by GC
+2018-10-29T22:43:18.790Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (19) by GC
+2018-10-29T22:43:18.790Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (20) by GC
+2018-10-29T22:43:18.790Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (22) by GC
+2018-10-29T22:43:18.790Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (23) by GC
+2018-10-29T22:43:18.792Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-10-29T22:43:18.820Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 0, all objects: 0
+2018-10-29T22:43:18.824Z - normal: Simulator: D/jswrapper (515): ScriptEngine::cleanup end ...
+2018-10-29T22:44:04.377Z - warn: The Asset used by component "cc.AudioSource" in scene "CenaPrincipal.fire" is missing. Detailed information:
+Node path: "AbaCreditos/AudioEngine/audio_creditos"
+Asset url: "db://assets/Scenes/CenaPrincipal.fire"
+Missing uuid: "2741710b-4c33-430c-9313-310eeddfb8da"
+
+2018-10-29T22:44:16.483Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-10-29T22:44:16.483Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-10-29T22:44:16.483Z - normal: Simulator: FRAME SCALE = 1.00
+2018-10-29T22:44:16.946Z - normal: Simulator: Ready for GLSL
+2018-10-29T22:44:16.946Z - normal: Simulator: Ready for OpenGL 2.0
+2018-10-29T22:44:16.946Z - normal: Simulator: Project Config:
+2018-10-29T22:44:16.947Z - normal: Simulator:     project dir: D:\Engine\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-10-29T22:44:16.947Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-10-29T22:44:16.947Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-10-29T22:44:16.947Z - normal: Simulator:     frame size: 640 x 960
+2018-10-29T22:44:16.947Z - normal: Simulator:     frame scale: 1.00
+2018-10-29T22:44:16.948Z - normal: Simulator:     show console: NO
+2018-10-29T22:44:16.948Z - normal: Simulator:     write debug log: NO ()
+2018-10-29T22:44:16.948Z - normal: Simulator:     listen: 
+2018-10-29T22:44:16.948Z - normal: Simulator:     debugger: none
+2018-10-29T22:44:16.948Z - normal: Simulator:     add searching path:
+2018-10-29T22:44:16.948Z - normal: Simulator: 
+2018-10-29T22:44:16.948Z - normal: Simulator: 
+2018-10-29T22:44:16.948Z - normal: Simulator: 
+2018-10-29T22:44:16.948Z - normal: Simulator: resetDesignResolution request
+2018-10-29T22:44:16.948Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:44:16.948Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2018-10-29T22:44:16.948Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:44:16.948Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
+2018-10-29T22:44:17.198Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-10-29T22:44:17.199Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-10-29T22:44:17.199Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-10-29T22:44:17.238Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
+2018-10-29T22:44:17.239Z - normal: Simulator: resetDesignResolution request
+2018-10-29T22:44:17.239Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:44:17.239Z - normal: Simulator: LOAD Js FILE: main.js
+2018-10-29T22:44:17.239Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:44:17.585Z - normal: Simulator: iShow!
+2018-10-29T22:44:17.586Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8b4c
+2018-10-29T22:44:17.588Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8869
+2018-10-29T22:44:17.601Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.0.1
+2018-10-29T22:44:42.742Z - normal: Simulator: D/jswrapper (452): ScriptEngine::cleanup begin ...
+2018-10-29T22:44:42.742Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 33, all objects: 98
+2018-10-29T22:44:42.778Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 33, all objects: 98
+2018-10-29T22:44:42.778Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 33, all objects: 98
+2018-10-29T22:44:42.815Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 33, all objects: 98
+2018-10-29T22:44:42.815Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (3) by GC
+2018-10-29T22:44:42.815Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (4) by GC
+2018-10-29T22:44:42.815Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (17) by GC
+2018-10-29T22:44:42.815Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (1) by GC
+2018-10-29T22:44:42.816Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (2) by GC
+2018-10-29T22:44:42.816Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (23) by GC
+2018-10-29T22:44:42.816Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (3) by GC
+2018-10-29T22:44:42.816Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (1) by GC
+2018-10-29T22:44:42.816Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (2) by GC
+2018-10-29T22:44:42.816Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (4) by GC
+2018-10-29T22:44:42.816Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (7) by GC
+2018-10-29T22:44:42.816Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (5) by GC
+2018-10-29T22:44:42.816Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (6) by GC
+2018-10-29T22:44:42.816Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (8) by GC
+2018-10-29T22:44:42.816Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (9) by GC
+2018-10-29T22:44:42.816Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (10) by GC
+2018-10-29T22:44:42.816Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (11) by GC
+2018-10-29T22:44:42.817Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (12) by GC
+2018-10-29T22:44:42.817Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (13) by GC
+2018-10-29T22:44:42.817Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (14) by GC
+2018-10-29T22:44:42.817Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (19) by GC
+2018-10-29T22:44:42.824Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (15) by GC
+2018-10-29T22:44:42.824Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (16) by GC
+2018-10-29T22:44:42.825Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (18) by GC
+2018-10-29T22:44:42.825Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (20) by GC
+2018-10-29T22:44:42.825Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (21) by GC
+2018-10-29T22:44:42.825Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (22) by GC
+2018-10-29T22:44:42.825Z - normal: Simulator: D/jswrapper (297): Destroy WebGLFramebuffer (1) by GC
+2018-10-29T22:44:42.825Z - normal: Simulator: D/jswrapper (316): Destroy WebGLProgram (3) by GC
+2018-10-29T22:44:42.826Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-10-29T22:44:42.858Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 0, all objects: 0
+2018-10-29T22:44:42.862Z - normal: Simulator: D/jswrapper (515): ScriptEngine::cleanup end ...
+2018-10-29T22:45:05.443Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-10-29T22:45:05.444Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-10-29T22:45:05.445Z - normal: Simulator: FRAME SCALE = 1.00
+2018-10-29T22:45:05.895Z - normal: Simulator: Ready for GLSL
+2018-10-29T22:45:05.895Z - normal: Simulator: Ready for OpenGL 2.0
+2018-10-29T22:45:05.895Z - normal: Simulator: Project Config:
+2018-10-29T22:45:05.895Z - normal: Simulator:     project dir: D:\Engine\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-10-29T22:45:05.896Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-10-29T22:45:05.896Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-10-29T22:45:05.896Z - normal: Simulator:     frame size: 640 x 960
+2018-10-29T22:45:05.897Z - normal: Simulator:     frame scale: 1.00
+2018-10-29T22:45:05.897Z - normal: Simulator:     show console: NO
+2018-10-29T22:45:05.897Z - normal: Simulator:     write debug log: NO ()
+2018-10-29T22:45:05.897Z - normal: Simulator:     listen: 
+2018-10-29T22:45:05.897Z - normal: Simulator:     debugger: none
+2018-10-29T22:45:05.897Z - normal: Simulator:     add searching path:
+2018-10-29T22:45:05.897Z - normal: Simulator: 
+2018-10-29T22:45:05.898Z - normal: Simulator: 
+2018-10-29T22:45:05.898Z - normal: Simulator: 
+2018-10-29T22:45:05.898Z - normal: Simulator: resetDesignResolution request
+2018-10-29T22:45:05.898Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:45:05.898Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2018-10-29T22:45:05.898Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:45:05.899Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
+2018-10-29T22:45:06.157Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-10-29T22:45:06.158Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-10-29T22:45:06.158Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-10-29T22:45:06.199Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
+2018-10-29T22:45:06.200Z - normal: Simulator: resetDesignResolution request
+2018-10-29T22:45:06.200Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:45:06.200Z - normal: Simulator: LOAD Js FILE: main.js
+2018-10-29T22:45:06.200Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:45:06.529Z - normal: Simulator: iShow!
+2018-10-29T22:45:06.534Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8b4c
+2018-10-29T22:45:06.534Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8869
+2018-10-29T22:45:06.568Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.0.1
+2018-10-29T22:45:56.286Z - normal: Simulator: D/jswrapper (452): ScriptEngine::cleanup begin ...
+2018-10-29T22:45:56.286Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 33, all objects: 98
+2018-10-29T22:45:56.322Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 33, all objects: 98
+2018-10-29T22:45:56.322Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 33, all objects: 98
+2018-10-29T22:45:56.354Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 33, all objects: 98
+2018-10-29T22:45:56.354Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (2) by GC
+2018-10-29T22:45:56.359Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (1) by GC
+2018-10-29T22:45:56.360Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (3) by GC
+2018-10-29T22:45:56.360Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (6) by GC
+2018-10-29T22:45:56.360Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (5) by GC
+2018-10-29T22:45:56.360Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (1) by GC
+2018-10-29T22:45:56.361Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (20) by GC
+2018-10-29T22:45:56.362Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (9) by GC
+2018-10-29T22:45:56.362Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (3) by GC
+2018-10-29T22:45:56.362Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (4) by GC
+2018-10-29T22:45:56.362Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (2) by GC
+2018-10-29T22:45:56.368Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (4) by GC
+2018-10-29T22:45:56.368Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (7) by GC
+2018-10-29T22:45:56.368Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (11) by GC
+2018-10-29T22:45:56.369Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (8) by GC
+2018-10-29T22:45:56.369Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (10) by GC
+2018-10-29T22:45:56.369Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (12) by GC
+2018-10-29T22:45:56.369Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (13) by GC
+2018-10-29T22:45:56.369Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (14) by GC
+2018-10-29T22:45:56.369Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (15) by GC
+2018-10-29T22:45:56.369Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (16) by GC
+2018-10-29T22:45:56.369Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (17) by GC
+2018-10-29T22:45:56.370Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (19) by GC
+2018-10-29T22:45:56.371Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (18) by GC
+2018-10-29T22:45:56.372Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (21) by GC
+2018-10-29T22:45:56.373Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (22) by GC
+2018-10-29T22:45:56.374Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (23) by GC
+2018-10-29T22:45:56.374Z - normal: Simulator: D/jswrapper (297): Destroy WebGLFramebuffer (1) by GC
+2018-10-29T22:45:56.374Z - normal: Simulator: D/jswrapper (316): Destroy WebGLProgram (3) by GC
+2018-10-29T22:45:56.375Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-10-29T22:45:56.400Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 0, all objects: 0
+2018-10-29T22:45:56.405Z - normal: Simulator: D/jswrapper (515): ScriptEngine::cleanup end ...
+2018-10-29T22:46:27.735Z - warn: The Asset used by component "cc.AudioSource" in scene "TelaPlanetas.fire" is missing. Detailed information:
+Node path: "AudioSourceWidget/AudioSource"
+Asset url: "db://assets/Scenes/TelaPlanetas.fire"
+Missing uuid: "24bde5f9-d039-4974-88ed-c240c2f3ce96"
+
+2018-10-29T22:46:27.739Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-10-29T22:47:27.099Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-10-29T22:47:27.100Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-10-29T22:47:27.100Z - normal: Simulator: FRAME SCALE = 1.00
+2018-10-29T22:47:27.538Z - normal: Simulator: Ready for GLSL
+2018-10-29T22:47:27.539Z - normal: Simulator: Ready for OpenGL 2.0
+2018-10-29T22:47:27.539Z - normal: Simulator: Project Config:
+2018-10-29T22:47:27.539Z - normal: Simulator:     project dir: D:\Engine\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-10-29T22:47:27.539Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-10-29T22:47:27.540Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-10-29T22:47:27.540Z - normal: Simulator:     frame size: 640 x 960
+2018-10-29T22:47:27.540Z - normal: Simulator:     frame scale: 1.00
+2018-10-29T22:47:27.540Z - normal: Simulator:     show console: NO
+2018-10-29T22:47:27.540Z - normal: Simulator:     write debug log: NO ()
+2018-10-29T22:47:27.540Z - normal: Simulator:     listen: 
+2018-10-29T22:47:27.540Z - normal: Simulator:     debugger: none
+2018-10-29T22:47:27.540Z - normal: Simulator:     add searching path:
+2018-10-29T22:47:27.541Z - normal: Simulator: 
+2018-10-29T22:47:27.541Z - normal: Simulator: 
+2018-10-29T22:47:27.541Z - normal: Simulator: 
+2018-10-29T22:47:27.541Z - normal: Simulator: resetDesignResolution request
+2018-10-29T22:47:27.542Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:47:27.542Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2018-10-29T22:47:27.542Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:47:27.542Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
+2018-10-29T22:47:27.805Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-10-29T22:47:27.806Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-10-29T22:47:27.806Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-10-29T22:47:27.849Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
+2018-10-29T22:47:27.850Z - normal: Simulator: resetDesignResolution request
+2018-10-29T22:47:27.850Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:47:27.850Z - normal: Simulator: LOAD Js FILE: main.js
+2018-10-29T22:47:27.850Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:47:28.195Z - normal: Simulator: iShow!
+2018-10-29T22:47:28.197Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8b4c
+2018-10-29T22:47:28.199Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8869
+2018-10-29T22:47:28.212Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.0.1
+2018-10-29T22:47:35.111Z - normal: Simulator: D/jswrapper (452): ScriptEngine::cleanup begin ...
+2018-10-29T22:47:35.112Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 33, all objects: 98
+2018-10-29T22:47:35.147Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 33, all objects: 98
+2018-10-29T22:47:35.147Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 33, all objects: 98
+2018-10-29T22:47:35.179Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 33, all objects: 98
+2018-10-29T22:47:35.179Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (3) by GC
+2018-10-29T22:47:35.179Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (14) by GC
+2018-10-29T22:47:35.180Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (1) by GC
+2018-10-29T22:47:35.181Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (4) by GC
+2018-10-29T22:47:35.181Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (2) by GC
+2018-10-29T22:47:35.181Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (2) by GC
+2018-10-29T22:47:35.181Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (1) by GC
+2018-10-29T22:47:35.181Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (3) by GC
+2018-10-29T22:47:35.181Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (4) by GC
+2018-10-29T22:47:35.181Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (5) by GC
+2018-10-29T22:47:35.181Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (10) by GC
+2018-10-29T22:47:35.181Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (6) by GC
+2018-10-29T22:47:35.181Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (7) by GC
+2018-10-29T22:47:35.181Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (23) by GC
+2018-10-29T22:47:35.185Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (17) by GC
+2018-10-29T22:47:35.186Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (8) by GC
+2018-10-29T22:47:35.186Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (19) by GC
+2018-10-29T22:47:35.186Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (9) by GC
+2018-10-29T22:47:35.186Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (16) by GC
+2018-10-29T22:47:35.186Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (12) by GC
+2018-10-29T22:47:35.186Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (11) by GC
+2018-10-29T22:47:35.186Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (13) by GC
+2018-10-29T22:47:35.186Z - normal: Simulator: D/jswrapper (297): Destroy WebGLFramebuffer (1) by GC
+2018-10-29T22:47:35.186Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (15) by GC
+2018-10-29T22:47:35.186Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (21) by GC
+2018-10-29T22:47:35.186Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (18) by GC
+2018-10-29T22:47:35.186Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (20) by GC
+2018-10-29T22:47:35.186Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (22) by GC
+2018-10-29T22:47:35.186Z - normal: Simulator: D/jswrapper (316): Destroy WebGLProgram (3) by GC
+2018-10-29T22:47:35.186Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-10-29T22:47:35.223Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 0, all objects: 0
+2018-10-29T22:47:35.227Z - normal: Simulator: D/jswrapper (515): ScriptEngine::cleanup end ...
+2018-10-29T22:51:52.583Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-10-29T22:51:52.584Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-10-29T22:51:52.584Z - normal: Simulator: FRAME SCALE = 1.00
+2018-10-29T22:51:53.028Z - normal: Simulator: Ready for GLSL
+2018-10-29T22:51:53.028Z - normal: Simulator: Ready for OpenGL 2.0
+2018-10-29T22:51:53.028Z - normal: Simulator: Project Config:
+2018-10-29T22:51:53.028Z - normal: Simulator:     project dir: D:\Engine\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-10-29T22:51:53.028Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-10-29T22:51:53.028Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-10-29T22:51:53.029Z - normal: Simulator:     frame size: 640 x 960
+2018-10-29T22:51:53.029Z - normal: Simulator:     frame scale: 1.00
+2018-10-29T22:51:53.029Z - normal: Simulator:     show console: NO
+2018-10-29T22:51:53.029Z - normal: Simulator:     write debug log: NO ()
+2018-10-29T22:51:53.029Z - normal: Simulator:     listen: 
+2018-10-29T22:51:53.029Z - normal: Simulator:     debugger: none
+2018-10-29T22:51:53.029Z - normal: Simulator:     add searching path:
+2018-10-29T22:51:53.029Z - normal: Simulator: 
+2018-10-29T22:51:53.029Z - normal: Simulator: 
+2018-10-29T22:51:53.029Z - normal: Simulator: 
+2018-10-29T22:51:53.029Z - normal: Simulator: resetDesignResolution request
+2018-10-29T22:51:53.029Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:51:53.029Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2018-10-29T22:51:53.029Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:51:53.029Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
+2018-10-29T22:51:53.297Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-10-29T22:51:53.298Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-10-29T22:51:53.298Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-10-29T22:51:53.339Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
+2018-10-29T22:51:53.340Z - normal: Simulator: resetDesignResolution request
+2018-10-29T22:51:53.340Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:51:53.340Z - normal: Simulator: LOAD Js FILE: main.js
+2018-10-29T22:51:53.340Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:51:53.681Z - normal: Simulator: iShow!
+2018-10-29T22:51:53.682Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8b4c
+2018-10-29T22:51:53.682Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8869
+2018-10-29T22:51:53.700Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.0.1
+2018-10-29T22:51:55.460Z - normal: Simulator: D/jswrapper (129): JS: LoadScene 2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2: 51.00599999999986ms
+2018-10-29T22:51:55.468Z - normal: Simulator: D/jswrapper (129): JS: ScaleX != ScaleY. Don't know which one to return
+2018-10-29T22:52:12.255Z - normal: Simulator: D/jswrapper (452): ScriptEngine::cleanup begin ...
+2018-10-29T22:52:12.255Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 48, all objects: 113
+2018-10-29T22:52:12.289Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 46, all objects: 111
+2018-10-29T22:52:12.289Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 46, all objects: 111
+2018-10-29T22:52:12.330Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 46, all objects: 111
+2018-10-29T22:52:12.330Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (32) by GC
+2018-10-29T22:52:12.330Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (31) by GC
+2018-10-29T22:52:12.330Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (26) by GC
+2018-10-29T22:52:12.330Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (7) by GC
+2018-10-29T22:52:12.330Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (6) by GC
+2018-10-29T22:52:12.330Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (1) by GC
+2018-10-29T22:52:12.330Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (3) by GC
+2018-10-29T22:52:12.331Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (2) by GC
+2018-10-29T22:52:12.331Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (3) by GC
+2018-10-29T22:52:12.331Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (18) by GC
+2018-10-29T22:52:12.331Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (4) by GC
+2018-10-29T22:52:12.331Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (30) by GC
+2018-10-29T22:52:12.331Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (1) by GC
+2018-10-29T22:52:12.331Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (24) by GC
+2018-10-29T22:52:12.332Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (2) by GC
+2018-10-29T22:52:12.332Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (28) by GC
+2018-10-29T22:52:12.332Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (21) by GC
+2018-10-29T22:52:12.332Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (4) by GC
+2018-10-29T22:52:12.332Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (16) by GC
+2018-10-29T22:52:12.332Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (15) by GC
+2018-10-29T22:52:12.333Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (5) by GC
+2018-10-29T22:52:12.333Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (8) by GC
+2018-10-29T22:52:12.333Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (9) by GC
+2018-10-29T22:52:12.334Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (14) by GC
+2018-10-29T22:52:12.334Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (10) by GC
+2018-10-29T22:52:12.334Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (11) by GC
+2018-10-29T22:52:12.334Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (12) by GC
+2018-10-29T22:52:12.334Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (13) by GC
+2018-10-29T22:52:12.334Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (17) by GC
+2018-10-29T22:52:12.334Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (19) by GC
+2018-10-29T22:52:12.334Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (20) by GC
+2018-10-29T22:52:12.334Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (22) by GC
+2018-10-29T22:52:12.334Z - normal: Simulator: D/jswrapper (316): Destroy WebGLProgram (3) by GC
+2018-10-29T22:52:12.334Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (25) by GC
+2018-10-29T22:52:12.334Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (27) by GC
+2018-10-29T22:52:12.334Z - normal: Simulator: D/jswrapper (297): Destroy WebGLFramebuffer (1) by GC
+2018-10-29T22:52:12.334Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (29) by GC
+2018-10-29T22:52:12.335Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (33) by GC
+2018-10-29T22:52:12.335Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (35) by GC
+2018-10-29T22:52:12.335Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (34) by GC
+2018-10-29T22:52:12.335Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (23) by GC
+2018-10-29T22:52:12.347Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (36) by GC
+2018-10-29T22:52:12.347Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-10-29T22:52:12.374Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 0, all objects: 0
+2018-10-29T22:52:12.378Z - normal: Simulator: D/jswrapper (515): ScriptEngine::cleanup end ...
+2018-10-29T22:53:03.899Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-10-29T22:53:03.901Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-10-29T22:53:03.901Z - normal: Simulator: FRAME SCALE = 1.00
+2018-10-29T22:53:04.355Z - normal: Simulator: Ready for GLSL
+2018-10-29T22:53:04.355Z - normal: Simulator: Ready for OpenGL 2.0
+2018-10-29T22:53:04.356Z - normal: Simulator: Project Config:
+2018-10-29T22:53:04.356Z - normal: Simulator:     project dir: D:\Engine\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-10-29T22:53:04.357Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-10-29T22:53:04.358Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-10-29T22:53:04.358Z - normal: Simulator:     frame size: 640 x 960
+2018-10-29T22:53:04.358Z - normal: Simulator:     frame scale: 1.00
+2018-10-29T22:53:04.358Z - normal: Simulator:     show console: NO
+2018-10-29T22:53:04.358Z - normal: Simulator:     write debug log: NO ()
+2018-10-29T22:53:04.358Z - normal: Simulator:     listen: 
+2018-10-29T22:53:04.359Z - normal: Simulator:     debugger: none
+2018-10-29T22:53:04.359Z - normal: Simulator:     add searching path:
+2018-10-29T22:53:04.359Z - normal: Simulator: 
+2018-10-29T22:53:04.359Z - normal: Simulator: 
+2018-10-29T22:53:04.359Z - normal: Simulator: 
+2018-10-29T22:53:04.359Z - normal: Simulator: resetDesignResolution request
+2018-10-29T22:53:04.359Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:53:04.359Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2018-10-29T22:53:04.359Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:53:04.359Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
+2018-10-29T22:53:04.635Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-10-29T22:53:04.637Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-10-29T22:53:04.637Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-10-29T22:53:04.687Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
+2018-10-29T22:53:04.688Z - normal: Simulator: resetDesignResolution request
+2018-10-29T22:53:04.688Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:53:04.688Z - normal: Simulator: LOAD Js FILE: main.js
+2018-10-29T22:53:04.688Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:53:05.020Z - normal: Simulator: iShow!
+2018-10-29T22:53:05.031Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8b4c
+2018-10-29T22:53:05.032Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8869
+2018-10-29T22:53:05.047Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.0.1
+2018-10-29T22:53:08.700Z - normal: Simulator: D/jswrapper (129): JS: LoadScene 2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2: 48.422999999999774ms
+2018-10-29T22:53:08.707Z - normal: Simulator: D/jswrapper (129): JS: ScaleX != ScaleY. Don't know which one to return
+2018-10-29T22:53:22.423Z - normal: Simulator: D/jswrapper (452): ScriptEngine::cleanup begin ...
+2018-10-29T22:53:22.423Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 48, all objects: 113
+2018-10-29T22:53:22.460Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 46, all objects: 111
+2018-10-29T22:53:22.460Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 46, all objects: 111
+2018-10-29T22:53:22.489Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 46, all objects: 111
+2018-10-29T22:53:22.489Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (32) by GC
+2018-10-29T22:53:22.490Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (1) by GC
+2018-10-29T22:53:22.490Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (25) by GC
+2018-10-29T22:53:22.490Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (2) by GC
+2018-10-29T22:53:22.491Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (3) by GC
+2018-10-29T22:53:22.491Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (4) by GC
+2018-10-29T22:53:22.492Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (33) by GC
+2018-10-29T22:53:22.492Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (1) by GC
+2018-10-29T22:53:22.492Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (2) by GC
+2018-10-29T22:53:22.492Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (26) by GC
+2018-10-29T22:53:22.492Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (3) by GC
+2018-10-29T22:53:22.492Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (4) by GC
+2018-10-29T22:53:22.492Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (5) by GC
+2018-10-29T22:53:22.492Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (29) by GC
+2018-10-29T22:53:22.505Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (6) by GC
+2018-10-29T22:53:22.505Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (27) by GC
+2018-10-29T22:53:22.505Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (7) by GC
+2018-10-29T22:53:22.505Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (21) by GC
+2018-10-29T22:53:22.505Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (8) by GC
+2018-10-29T22:53:22.505Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (9) by GC
+2018-10-29T22:53:22.505Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (20) by GC
+2018-10-29T22:53:22.505Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (13) by GC
+2018-10-29T22:53:22.505Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (10) by GC
+2018-10-29T22:53:22.506Z - normal: Simulator: D/jswrapper (316): Destroy WebGLProgram (3) by GC
+2018-10-29T22:53:22.506Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (11) by GC
+2018-10-29T22:53:22.510Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (12) by GC
+2018-10-29T22:53:22.510Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (16) by GC
+2018-10-29T22:53:22.510Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (14) by GC
+2018-10-29T22:53:22.511Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (17) by GC
+2018-10-29T22:53:22.511Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (15) by GC
+2018-10-29T22:53:22.511Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (18) by GC
+2018-10-29T22:53:22.511Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (36) by GC
+2018-10-29T22:53:22.511Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (19) by GC
+2018-10-29T22:53:22.511Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (22) by GC
+2018-10-29T22:53:22.511Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (24) by GC
+2018-10-29T22:53:22.511Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (23) by GC
+2018-10-29T22:53:22.511Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (31) by GC
+2018-10-29T22:53:22.511Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (28) by GC
+2018-10-29T22:53:22.511Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (30) by GC
+2018-10-29T22:53:22.511Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (34) by GC
+2018-10-29T22:53:22.512Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (35) by GC
+2018-10-29T22:53:22.512Z - normal: Simulator: D/jswrapper (297): Destroy WebGLFramebuffer (1) by GC
+2018-10-29T22:53:22.512Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-10-29T22:53:22.538Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 0, all objects: 0
+2018-10-29T22:53:22.540Z - normal: Simulator: D/jswrapper (515): ScriptEngine::cleanup end ...
+2018-10-29T22:54:40.240Z - warn: The Asset used by component "cc.AudioSource" in scene "CenaPrincipal.fire" is missing. Detailed information:
+Node path: "AbaCreditos/AudioEngine/audio_creditos"
+Asset url: "db://assets/Scenes/CenaPrincipal.fire"
+Missing uuid: "18c018a5-220c-4b36-9761-f8c60ac64735"
+
+2018-10-29T22:55:24.386Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
+2018-10-29T22:55:24.387Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
+2018-10-29T22:55:24.387Z - normal: Simulator: FRAME SCALE = 1.00
+2018-10-29T22:55:24.821Z - normal: Simulator: Ready for GLSL
+2018-10-29T22:55:24.821Z - normal: Simulator: Ready for OpenGL 2.0
+2018-10-29T22:55:24.821Z - normal: Simulator: Project Config:
+2018-10-29T22:55:24.821Z - normal: Simulator:     project dir: D:\Engine\CocosCreator\resources\cocos2d-x\simulator\win32\
+2018-10-29T22:55:24.822Z - normal: Simulator:     writable path: $(PROJDIR)\
+2018-10-29T22:55:24.822Z - normal: Simulator:     script file: $(PROJDIR)\main.js
+2018-10-29T22:55:24.822Z - normal: Simulator:     frame size: 640 x 960
+2018-10-29T22:55:24.822Z - normal: Simulator:     frame scale: 1.00
+2018-10-29T22:55:24.822Z - normal: Simulator:     show console: NO
+2018-10-29T22:55:24.822Z - normal: Simulator:     write debug log: NO ()
+2018-10-29T22:55:24.822Z - normal: Simulator:     listen: 
+2018-10-29T22:55:24.822Z - normal: Simulator:     debugger: none
+2018-10-29T22:55:24.822Z - normal: Simulator:     add searching path:
+2018-10-29T22:55:24.822Z - normal: Simulator: 
+2018-10-29T22:55:24.823Z - normal: Simulator: 
+2018-10-29T22:55:24.823Z - normal: Simulator: 
+2018-10-29T22:55:24.823Z - normal: Simulator: resetDesignResolution request
+2018-10-29T22:55:24.823Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:55:24.823Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
+2018-10-29T22:55:24.823Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:55:24.823Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
+2018-10-29T22:55:25.081Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
+2018-10-29T22:55:25.082Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
+2018-10-29T22:55:25.082Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
+2018-10-29T22:55:25.120Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
+2018-10-29T22:55:25.122Z - normal: Simulator: resetDesignResolution request
+2018-10-29T22:55:25.122Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:55:25.122Z - normal: Simulator: LOAD Js FILE: main.js
+2018-10-29T22:55:25.122Z - normal: Simulator: ------------------------------------------------
+2018-10-29T22:55:25.463Z - normal: Simulator: iShow!
+2018-10-29T22:55:25.465Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8b4c
+2018-10-29T22:55:25.465Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8869
+2018-10-29T22:55:25.480Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.0.1
+2018-10-29T22:55:35.806Z - normal: Simulator: D/jswrapper (452): ScriptEngine::cleanup begin ...
+2018-10-29T22:55:35.807Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 33, all objects: 98
+2018-10-29T22:55:35.844Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 33, all objects: 98
+2018-10-29T22:55:35.844Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 33, all objects: 98
+2018-10-29T22:55:35.877Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 33, all objects: 98
+2018-10-29T22:55:35.877Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (1) by GC
+2018-10-29T22:55:35.877Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (1) by GC
+2018-10-29T22:55:35.878Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (14) by GC
+2018-10-29T22:55:35.878Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (2) by GC
+2018-10-29T22:55:35.878Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (3) by GC
+2018-10-29T22:55:35.879Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (4) by GC
+2018-10-29T22:55:35.879Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (3) by GC
+2018-10-29T22:55:35.879Z - normal: Simulator: D/jswrapper (297): Destroy WebGLFramebuffer (1) by GC
+2018-10-29T22:55:35.879Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (22) by GC
+2018-10-29T22:55:35.879Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (2) by GC
+2018-10-29T22:55:35.880Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (4) by GC
+2018-10-29T22:55:35.880Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (6) by GC
+2018-10-29T22:55:35.881Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (5) by GC
+2018-10-29T22:55:35.881Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (7) by GC
+2018-10-29T22:55:35.881Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (8) by GC
+2018-10-29T22:55:35.881Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (9) by GC
+2018-10-29T22:55:35.881Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (10) by GC
+2018-10-29T22:55:35.881Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (11) by GC
+2018-10-29T22:55:35.881Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (12) by GC
+2018-10-29T22:55:35.881Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (21) by GC
+2018-10-29T22:55:35.881Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (13) by GC
+2018-10-29T22:55:35.881Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (15) by GC
+2018-10-29T22:55:35.881Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (16) by GC
+2018-10-29T22:55:35.882Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (18) by GC
+2018-10-29T22:55:35.883Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (17) by GC
+2018-10-29T22:55:35.884Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (19) by GC
+2018-10-29T22:55:35.884Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (20) by GC
+2018-10-29T22:55:35.885Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (23) by GC
+2018-10-29T22:55:35.889Z - normal: Simulator: D/jswrapper (316): Destroy WebGLProgram (3) by GC
+2018-10-29T22:55:35.889Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 0, all objects: 0
+2018-10-29T22:55:35.918Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 0, all objects: 0
+2018-10-29T22:55:35.921Z - normal: Simulator: D/jswrapper (515): ScriptEngine::cleanup end ...
+2018-10-29T22:56:31.582Z - warn: The Asset used by component "cc.AudioSource" in scene "TelaPlanetas.fire" is missing. Detailed information:
+Node path: "AudioSourceWidget/AudioSource"
+Asset url: "db://assets/Scenes/TelaPlanetas.fire"
+Missing uuid: "67cb4610-5f49-4c80-b4a7-9014684fa164"
+
+2018-10-29T22:56:31.585Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-10-29T22:57:18.923Z - warn: The Asset used by component "cc.AudioSource" in scene "LancamentoTerra.fire" is missing. Detailed information:
+Node path: "AudioButtonWidget/AudioSource"
+Asset url: "db://assets/Scenes/LancamentoTerra.fire"
+Missing uuid: "a4bfe884-66a1-4796-bae1-b4ec3b9f288b"
+
+2018-10-29T23:03:13.949Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-10-29T23:18:12.502Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-10-29T23:18:41.309Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-10-29T23:19:34.542Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-10-29T23:19:58.188Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-10-29T23:20:18.633Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-10-29T23:21:28.167Z - normal: ScaleX != ScaleY. Don't know which one to return
+2018-10-30T00:00:22.666Z - normal: Start building with options : {
   "actualPlatform": "android",
-  "apiLevel": "android-19",
+  "apiLevel": "android-28",
   "appABIs": [],
   "appKey": "",
   "appSecret": "",
@@ -793,16 +1010,27 @@
   },
   "scenes": [
     "6ba1630d-239f-4d4c-a012-e9df9752f155",
+    "ea042675-8911-484c-a317-c9ae4113c9c7",
     "71f1197b-5028-4a26-9c2c-e452c1960071",
+    "e4b530be-a515-4cb1-9c87-c16749e415bb",
+    "98300d5d-2099-46b3-817c-4ef6a5783c7e",
+    "7f840ca8-1bdd-4900-b5b8-d6c6818454b8",
+    "e81cbc98-83f0-4153-9e66-e50ba65c1d83",
+    "7bc576b0-d2e9-4bb6-babb-bba4093317ad",
+    "b2cdff05-b685-4c17-9704-7ad83ccecc75",
     "b043ec12-236b-4b87-a03c-666a614f025f",
+    "aa6e3b51-c93f-4e9f-8a37-c3dba5d99d6c",
     "5eceef9c-2f48-4048-be58-b095c26663b8",
-    "2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2"
+    "2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2",
+    "a1620aad-8944-499f-b0c7-345dd1428d93",
+    "1528eec5-a2fb-4bac-84a5-1f7de05f9ea8",
+    "73918e27-d41c-464c-bf59-495112fcce57"
   ],
   "sourceMaps": false,
   "startScene": "6ba1630d-239f-4d4c-a012-e9df9752f155",
   "template": "link",
   "title": "GalaxyEscape",
-  "useDebugKeystore": true,
+  "useDebugKeystore": false,
   "vsVersion": "auto",
   "webOrientation": "landscape",
   "wechatgame": {
@@ -818,312 +1046,44 @@
   "projectName": "GalaxyEscape",
   "debugBuildWorker": false
 }
-2018-09-12T16:11:41.779Z - normal: Building C:\Users\thoma\Documents\GitHub\GalaxyEscape
-2018-09-12T16:11:41.779Z - normal: Destination C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link
-2018-09-12T16:11:42.261Z - normal: Delete C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link\res/**/*,C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link\src/*/
-2018-09-12T16:11:44.639Z - normal: Creating native cocos project to  C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link
-2018-09-12T16:12:34.449Z - normal: Start building assets
-2018-09-12T16:12:34.450Z - normal: Start spawn build-worker
-2018-09-12T16:12:35.080Z - normal: Finish spawn build-worker
-2018-09-12T16:12:35.080Z - normal: Start init build-worker
-2018-09-12T16:12:37.760Z - normal: Finish init build-worker
-2018-09-12T16:12:37.760Z - normal: Start build-assets in worker
-2018-09-12T16:12:37.925Z - info: Enable "Inline all SpriteFrames" in native platform will increase the package size used in hot update.
-2018-09-12T16:12:38.335Z - normal: Finish build-assets in worker
-2018-09-12T16:12:38.342Z - normal: Finish building assets
-2018-09-12T16:12:38.364Z - normal: Start building plugin scripts
-2018-09-12T16:12:38.505Z - normal: Generating main.js from D:\Engine\CocosCreator\resources\static\build-templates\shares\main.js
-2018-09-12T16:12:38.594Z - normal: Built to "C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link" successfully
-2018-09-12T16:12:43.979Z - normal: Start to compile native project. Please wait...
-2018-09-12T16:12:43.980Z - normal: The log file path [ C:\Users\thoma\.CocosCreator\logs\native.log ]
-2018-09-12T16:14:33.859Z - normal: Compile native project successfully.
-2018-09-12T16:37:42.714Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2018-09-12T16:37:42.715Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
-2018-09-12T16:37:42.715Z - normal: Simulator: FRAME SCALE = 1.00
-2018-09-12T16:37:42.827Z - normal: Simulator: Ready for GLSL
-2018-09-12T16:37:42.828Z - normal: Simulator: Ready for OpenGL 2.0
-2018-09-12T16:37:42.828Z - normal: Simulator: Project Config:
-2018-09-12T16:37:42.828Z - normal: Simulator:     project dir: D:\Engine\CocosCreator\resources\cocos2d-x\simulator\win32\
-2018-09-12T16:37:42.828Z - normal: Simulator:     writable path: $(PROJDIR)\
-2018-09-12T16:37:42.829Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2018-09-12T16:37:42.829Z - normal: Simulator:     frame size: 640 x 960
-2018-09-12T16:37:42.829Z - normal: Simulator:     frame scale: 1.00
-2018-09-12T16:37:42.829Z - normal: Simulator:     show console: NO
-2018-09-12T16:37:42.829Z - normal: Simulator:     write debug log: NO ()
-2018-09-12T16:37:42.829Z - normal: Simulator:     listen: 
-2018-09-12T16:37:42.829Z - normal: Simulator:     debugger: none
-2018-09-12T16:37:42.829Z - normal: Simulator:     add searching path:
-2018-09-12T16:37:42.830Z - normal: Simulator: 
-2018-09-12T16:37:42.830Z - normal: Simulator: 
-2018-09-12T16:37:42.830Z - normal: Simulator: 
-2018-09-12T16:37:42.830Z - normal: Simulator: resetDesignResolution request
-2018-09-12T16:37:42.830Z - normal: Simulator: ------------------------------------------------
-2018-09-12T16:37:42.830Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
-2018-09-12T16:37:42.830Z - normal: Simulator: ------------------------------------------------
-2018-09-12T16:37:42.830Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
-2018-09-12T16:37:43.135Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
-2018-09-12T16:37:43.137Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
-2018-09-12T16:37:43.137Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
-2018-09-12T16:37:43.177Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
-2018-09-12T16:37:43.178Z - normal: Simulator: resetDesignResolution request
-2018-09-12T16:37:43.178Z - normal: Simulator: ------------------------------------------------
-2018-09-12T16:37:43.178Z - normal: Simulator: LOAD Js FILE: main.js
-2018-09-12T16:37:43.178Z - normal: Simulator: ------------------------------------------------
-2018-09-12T16:37:43.510Z - normal: Simulator: iShow!
-2018-09-12T16:37:43.514Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8b4c
-2018-09-12T16:37:43.515Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8869
-2018-09-12T16:37:43.526Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.0.1
-2018-09-12T16:37:44.727Z - normal: Simulator: D/jswrapper (129): JS: LoadScene 2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2: 178.31999999999994ms
-2018-09-12T16:37:44.741Z - normal: Simulator: D/jswrapper (129): JS: ScaleX != ScaleY. Don't know which one to return
-2018-09-12T16:37:45.910Z - normal: Simulator: D/jswrapper (129): JS: LoadScene 71f1197b-5028-4a26-9c2c-e452c1960071: 148.3529999999996ms
-2018-09-12T16:37:49.920Z - normal: Simulator: D/jswrapper (452): ScriptEngine::cleanup begin ...
-2018-09-12T16:37:49.920Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 57, all objects: 123
-2018-09-12T16:37:49.962Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 54, all objects: 120
-2018-09-12T16:37:49.962Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 54, all objects: 120
-2018-09-12T16:37:49.996Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 54, all objects: 120
-2018-09-12T16:37:49.996Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (1) by GC
-2018-09-12T16:37:49.996Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (4) by GC
-2018-09-12T16:37:49.997Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (34) by GC
-2018-09-12T16:37:49.997Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (17) by GC
-2018-09-12T16:37:49.997Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (2) by GC
-2018-09-12T16:37:49.997Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (2) by GC
-2018-09-12T16:37:49.998Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (3) by GC
-2018-09-12T16:37:49.998Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (21) by GC
-2018-09-12T16:37:50.000Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (29) by GC
-2018-09-12T16:37:50.000Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (28) by GC
-2018-09-12T16:37:50.000Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (13) by GC
-2018-09-12T16:37:50.000Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (1) by GC
-2018-09-12T16:37:50.000Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (3) by GC
-2018-09-12T16:37:50.000Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (4) by GC
-2018-09-12T16:37:50.000Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (11) by GC
-2018-09-12T16:37:50.000Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (7) by GC
-2018-09-12T16:37:50.000Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (6) by GC
-2018-09-12T16:37:50.000Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (5) by GC
-2018-09-12T16:37:50.000Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (8) by GC
-2018-09-12T16:37:50.001Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (10) by GC
-2018-09-12T16:37:50.001Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (9) by GC
-2018-09-12T16:37:50.001Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (12) by GC
-2018-09-12T16:37:50.002Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (31) by GC
-2018-09-12T16:37:50.002Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (14) by GC
-2018-09-12T16:37:50.002Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (15) by GC
-2018-09-12T16:37:50.002Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (40) by GC
-2018-09-12T16:37:50.002Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (19) by GC
-2018-09-12T16:37:50.003Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (32) by GC
-2018-09-12T16:37:50.003Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (38) by GC
-2018-09-12T16:37:50.003Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (35) by GC
-2018-09-12T16:37:50.004Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (33) by GC
-2018-09-12T16:37:50.004Z - normal: Simulator: D/jswrapper (316): Destroy WebGLProgram (3) by GC
-2018-09-12T16:37:50.004Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (18) by GC
-2018-09-12T16:37:50.004Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (20) by GC
-2018-09-12T16:37:50.005Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (22) by GC
-2018-09-12T16:37:50.005Z - normal: Simulator: D/jswrapper (297): Destroy WebGLFramebuffer (1) by GC
-2018-09-12T16:37:50.005Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (23) by GC
-2018-09-12T16:37:50.005Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (25) by GC
-2018-09-12T16:37:50.006Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (24) by GC
-2018-09-12T16:37:50.006Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (30) by GC
-2018-09-12T16:37:50.006Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (26) by GC
-2018-09-12T16:37:50.006Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (39) by GC
-2018-09-12T16:37:50.006Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (27) by GC
-2018-09-12T16:37:50.007Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (37) by GC
-2018-09-12T16:37:50.007Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (36) by GC
-2018-09-12T16:37:50.007Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (41) by GC
-2018-09-12T16:37:50.007Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (42) by GC
-2018-09-12T16:37:50.007Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (16) by GC
-2018-09-12T16:37:50.007Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (43) by GC
-2018-09-12T16:37:50.007Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 0, all objects: 0
-2018-09-12T16:37:50.040Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 0, all objects: 0
-2018-09-12T16:37:50.042Z - normal: Simulator: D/jswrapper (515): ScriptEngine::cleanup end ...
-2018-09-12T16:37:50.125Z - error: Simulator: libpng warning: Interlace handling should be turned on when using png_read_image
-    at HTMLElement.print-simulator-log (D:\Engine\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1487)
-    at Object.e._dispatch (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2018-09-12T16:40:07.695Z - normal: Simulator: SCREEN DPI = 96, SCREEN SCALE = 1.00
-2018-09-12T16:40:07.696Z - normal: Simulator: WORKAREA WIDTH 1912.00, HEIGHT 989.00
-2018-09-12T16:40:07.696Z - normal: Simulator: FRAME SCALE = 1.00
-2018-09-12T16:40:07.810Z - normal: Simulator: Ready for GLSL
-2018-09-12T16:40:07.811Z - normal: Simulator: Ready for OpenGL 2.0
-2018-09-12T16:40:07.811Z - normal: Simulator: Project Config:
-2018-09-12T16:40:07.811Z - normal: Simulator:     project dir: D:\Engine\CocosCreator\resources\cocos2d-x\simulator\win32\
-2018-09-12T16:40:07.811Z - normal: Simulator:     writable path: $(PROJDIR)\
-2018-09-12T16:40:07.812Z - normal: Simulator:     script file: $(PROJDIR)\main.js
-2018-09-12T16:40:07.812Z - normal: Simulator:     frame size: 640 x 960
-2018-09-12T16:40:07.812Z - normal: Simulator:     frame scale: 1.00
-2018-09-12T16:40:07.812Z - normal: Simulator:     show console: NO
-2018-09-12T16:40:07.812Z - normal: Simulator:     write debug log: NO ()
-2018-09-12T16:40:07.812Z - normal: Simulator:     listen: 
-2018-09-12T16:40:07.812Z - normal: Simulator:     debugger: none
-2018-09-12T16:40:07.812Z - normal: Simulator:     add searching path:
-2018-09-12T16:40:07.812Z - normal: Simulator: 
-2018-09-12T16:40:07.812Z - normal: Simulator: 
-2018-09-12T16:40:07.813Z - normal: Simulator: 
-2018-09-12T16:40:07.813Z - normal: Simulator: resetDesignResolution request
-2018-09-12T16:40:07.813Z - normal: Simulator: ------------------------------------------------
-2018-09-12T16:40:07.813Z - normal: Simulator: LOAD Js FILE: jsb-adapter/jsb-builtin.js
-2018-09-12T16:40:07.813Z - normal: Simulator: ------------------------------------------------
-2018-09-12T16:40:07.813Z - normal: Simulator: D/jswrapper (368): Initializing V8, version: 6.0.286.52
-2018-09-12T16:40:08.092Z - normal: Simulator: D/jswrapper (813): libuv version: 1.13.1
-2018-09-12T16:40:08.092Z - normal: Simulator: D/jswrapper (112): Debugger listening..., visit [ chrome-devtools://devtools/bundled/inspector.html?v8only=true&ws=0.0.0.0:5086/00010002-0003-4004-8005-000600070008 ] in chrome browser to debug!
-2018-09-12T16:40:08.093Z - normal: Simulator: D/jswrapper (115): For help see https://nodejs.org/en/docs/inspector
-2018-09-12T16:40:08.136Z - normal: Simulator: D/jswrapper (129): JS: Enable batch GL commands optimization!
-2018-09-12T16:40:08.136Z - normal: Simulator: resetDesignResolution request
-2018-09-12T16:40:08.136Z - normal: Simulator: ------------------------------------------------
-2018-09-12T16:40:08.137Z - normal: Simulator: LOAD Js FILE: main.js
-2018-09-12T16:40:08.137Z - normal: Simulator: ------------------------------------------------
-2018-09-12T16:40:08.479Z - normal: Simulator: iShow!
-2018-09-12T16:40:08.484Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8b4c
-2018-09-12T16:40:08.484Z - normal: Simulator: D/jswrapper (3708): glGetIntegerv: pname: 0x8869
-2018-09-12T16:40:08.496Z - normal: Simulator: D/jswrapper (129): JS: Cocos Creator v2.0.1
-2018-09-12T16:40:10.258Z - normal: Simulator: D/jswrapper (129): JS: LoadScene 2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2: 78.08999999999969ms
-2018-09-12T16:40:10.265Z - normal: Simulator: D/jswrapper (129): JS: ScaleX != ScaleY. Don't know which one to return
-2018-09-12T16:40:11.386Z - normal: Simulator: D/jswrapper (129): JS: LoadScene 71f1197b-5028-4a26-9c2c-e452c1960071: 155.15800000000036ms
-2018-09-12T16:40:13.824Z - normal: Simulator: D/jswrapper (452): ScriptEngine::cleanup begin ...
-2018-09-12T16:40:13.824Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 56, all objects: 122
-2018-09-12T16:40:13.865Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 54, all objects: 120
-2018-09-12T16:40:13.865Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 54, all objects: 120
-2018-09-12T16:40:13.901Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 54, all objects: 120
-2018-09-12T16:40:13.901Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (31) by GC
-2018-09-12T16:40:13.903Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (3) by GC
-2018-09-12T16:40:13.904Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (1) by GC
-2018-09-12T16:40:13.904Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (41) by GC
-2018-09-12T16:40:13.904Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (10) by GC
-2018-09-12T16:40:13.904Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (28) by GC
-2018-09-12T16:40:13.904Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (1) by GC
-2018-09-12T16:40:13.904Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (2) by GC
-2018-09-12T16:40:13.904Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (30) by GC
-2018-09-12T16:40:13.904Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (2) by GC
-2018-09-12T16:40:13.904Z - normal: Simulator: D/jswrapper (259): Destroy WebGLBuffer (4) by GC
-2018-09-12T16:40:13.904Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (22) by GC
-2018-09-12T16:40:13.904Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (3) by GC
-2018-09-12T16:40:13.904Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (32) by GC
-2018-09-12T16:40:13.904Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (4) by GC
-2018-09-12T16:40:13.904Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (36) by GC
-2018-09-12T16:40:13.904Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (11) by GC
-2018-09-12T16:40:13.905Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (6) by GC
-2018-09-12T16:40:13.905Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (5) by GC
-2018-09-12T16:40:13.905Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (12) by GC
-2018-09-12T16:40:13.905Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (7) by GC
-2018-09-12T16:40:13.905Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (8) by GC
-2018-09-12T16:40:13.906Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (9) by GC
-2018-09-12T16:40:13.906Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (13) by GC
-2018-09-12T16:40:13.906Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (15) by GC
-2018-09-12T16:40:13.906Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (14) by GC
-2018-09-12T16:40:13.906Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (20) by GC
-2018-09-12T16:40:13.906Z - normal: Simulator: D/jswrapper (316): Destroy WebGLProgram (3) by GC
-2018-09-12T16:40:13.906Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (33) by GC
-2018-09-12T16:40:13.906Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (34) by GC
-2018-09-12T16:40:13.906Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (18) by GC
-2018-09-12T16:40:13.906Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (19) by GC
-2018-09-12T16:40:13.907Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (21) by GC
-2018-09-12T16:40:13.907Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (26) by GC
-2018-09-12T16:40:13.907Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (23) by GC
-2018-09-12T16:40:13.908Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (25) by GC
-2018-09-12T16:40:13.908Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (24) by GC
-2018-09-12T16:40:13.908Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (27) by GC
-2018-09-12T16:40:13.908Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (29) by GC
-2018-09-12T16:40:13.908Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (17) by GC
-2018-09-12T16:40:13.908Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (40) by GC
-2018-09-12T16:40:13.908Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (35) by GC
-2018-09-12T16:40:13.908Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (37) by GC
-2018-09-12T16:40:13.908Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (38) by GC
-2018-09-12T16:40:13.908Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (39) by GC
-2018-09-12T16:40:13.908Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (42) by GC
-2018-09-12T16:40:13.908Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (16) by GC
-2018-09-12T16:40:13.909Z - normal: Simulator: D/jswrapper (240): Destroy WebGLTexture (43) by GC
-2018-09-12T16:40:13.909Z - normal: Simulator: D/jswrapper (297): Destroy WebGLFramebuffer (1) by GC
-2018-09-12T16:40:13.909Z - normal: Simulator: D/jswrapper (593): GC begin ..., (js->native map) size: 0, all objects: 0
-2018-09-12T16:40:13.937Z - normal: Simulator: D/jswrapper (601): GC end ..., (js->native map) size: 0, all objects: 0
-2018-09-12T16:40:13.942Z - normal: Simulator: D/jswrapper (515): ScriptEngine::cleanup end ...
-2018-09-12T16:40:14.014Z - error: Simulator: libpng warning: Interlace handling should be turned on when using png_read_image
-    at HTMLElement.print-simulator-log (D:\Engine\CocosCreator\resources\app.asar\editor\builtin\scene\panel\messages\scene.js:1:1487)
-    at Object.e._dispatch (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\renderer\panel.js:1:1941)
-    at EventEmitter.o.on.s (D:\Engine\CocosCreator\resources\app.asar\editor-framework\lib\renderer\ipc.js:1:2917)
-    at emitMany (events.js:127:13)
-    at EventEmitter.emit (events.js:204:7)
-2018-09-12T16:40:47.847Z - normal: Start building with options : {
-  "actualPlatform": "android",
-  "apiLevel": "android-19",
-  "appABIs": [],
-  "appKey": "",
-  "appSecret": "",
-  "buildPath": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build",
-  "debug": false,
-  "dest": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape\\build\\jsb-link",
-  "embedWebDebugger": false,
-  "encryptJs": false,
-  "excludeScenes": [],
-  "excludedModules": [],
-  "fb-instant-games": {},
-  "includeAnySDK": false,
-  "includeSDKBox": false,
-  "inlineSpriteFrames": true,
-  "inlineSpriteFrames_native": true,
-  "jailbreakPlatform": false,
-  "md5Cache": false,
-  "mergeStartScene": true,
-  "oauthLoginServer": "",
-  "optimizeHotUpdate": false,
-  "orientation": {
-    "landscapeLeft": true,
-    "landscapeRight": true,
-    "portrait": false,
-    "upsideDown": false
-  },
-  "packageName": "org.cocos2d.GalaxyEscape",
-  "platform": "android",
-  "previewHeight": "720",
-  "previewWidth": "1280",
-  "privateKey": "",
-  "qqplay": {
-    "REMOTE_SERVER_ROOT": "",
-    "orientation": "portrait"
-  },
-  "scenes": [
-    "6ba1630d-239f-4d4c-a012-e9df9752f155",
-    "71f1197b-5028-4a26-9c2c-e452c1960071",
-    "b043ec12-236b-4b87-a03c-666a614f025f",
-    "5eceef9c-2f48-4048-be58-b095c26663b8",
-    "2cf3ca2c-dda3-4ba7-90dc-0e666e06e2f2"
-  ],
-  "sourceMaps": false,
-  "startScene": "6ba1630d-239f-4d4c-a012-e9df9752f155",
-  "template": "link",
-  "title": "GalaxyEscape",
-  "useDebugKeystore": true,
-  "vsVersion": "auto",
-  "webOrientation": "landscape",
-  "wechatgame": {
-    "REMOTE_SERVER_ROOT": "",
-    "appid": "wx6ac3f5090a6b99c5",
-    "isSubdomain": false,
-    "orientation": "portrait",
-    "subContext": ""
-  },
-  "xxteaKey": "769a2cbf-b5c9-46",
-  "zipCompressJs": false,
-  "project": "C:\\Users\\thoma\\Documents\\GitHub\\GalaxyEscape",
-  "projectName": "GalaxyEscape",
-  "debugBuildWorker": false
-}
-2018-09-12T16:40:47.849Z - normal: Building C:\Users\thoma\Documents\GitHub\GalaxyEscape
-2018-09-12T16:40:47.849Z - normal: Destination C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link
-2018-09-12T16:40:47.850Z - normal: Delete C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link\res/**/*,C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link\src/*/
-2018-09-12T16:40:49.567Z - normal: Creating native cocos project to  C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link
-2018-09-12T16:40:52.699Z - normal: Start building assets
-2018-09-12T16:40:52.699Z - normal: Start spawn build-worker
-2018-09-12T16:40:53.354Z - normal: Finish spawn build-worker
-2018-09-12T16:40:53.354Z - normal: Start init build-worker
-2018-09-12T16:40:56.229Z - normal: Finish init build-worker
-2018-09-12T16:40:56.230Z - normal: Start build-assets in worker
-2018-09-12T16:40:56.327Z - info: Enable "Inline all SpriteFrames" in native platform will increase the package size used in hot update.
-2018-09-12T16:40:56.772Z - normal: Finish build-assets in worker
-2018-09-12T16:40:56.778Z - normal: Finish building assets
-2018-09-12T16:40:56.795Z - normal: Start building plugin scripts
-2018-09-12T16:40:56.858Z - normal: Generating main.js from D:\Engine\CocosCreator\resources\static\build-templates\shares\main.js
-2018-09-12T16:40:56.899Z - normal: Built to "C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link" successfully
-2018-09-12T16:41:00.496Z - normal: Start to compile native project. Please wait...
-2018-09-12T16:41:00.497Z - normal: The log file path [ C:\Users\thoma\.CocosCreator\logs\native.log ]
-2018-09-12T16:42:26.830Z - normal: Compile native project successfully.
-2018-09-12T17:00:56.497Z - normal: ScaleX != ScaleY. Don't know which one to return
-2018-09-12T17:01:35.434Z - info: shutdown preview server
+2018-10-30T00:00:22.668Z - normal: Building C:\Users\thoma\Documents\GitHub\GalaxyEscape
+2018-10-30T00:00:22.669Z - normal: Destination C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link
+2018-10-30T00:00:23.183Z - normal: Delete C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link\res/**/*,C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link\src/*/
+2018-10-30T00:00:25.608Z - normal: Creating native cocos project to  C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link
+2018-10-30T00:00:32.568Z - normal: Start building assets
+2018-10-30T00:00:32.568Z - normal: Start spawn build-worker
+2018-10-30T00:00:33.218Z - normal: Finish spawn build-worker
+2018-10-30T00:00:33.218Z - normal: Start init build-worker
+2018-10-30T00:00:36.373Z - normal: Finish init build-worker
+2018-10-30T00:00:36.373Z - normal: Start build-assets in worker
+2018-10-30T00:00:36.499Z - info: Enable "Inline all SpriteFrames" in native platform will increase the package size used in hot update.
+2018-10-30T00:00:37.502Z - normal: Finish build-assets in worker
+2018-10-30T00:00:37.509Z - normal: Finish building assets
+2018-10-30T00:00:37.547Z - normal: Start building plugin scripts
+2018-10-30T00:00:37.717Z - normal: Generating main.js from D:\Engine\CocosCreator\resources\static\build-templates\shares\main.js
+2018-10-30T00:00:37.739Z - success: jsb-adapter unloaded
+2018-10-30T00:00:37.740Z - success: jsb-adapter unloaded
+2018-10-30T00:00:37.740Z - success: jsb-adapter unloaded
+2018-10-30T00:00:37.741Z - success: jsb-adapter unloaded
+2018-10-30T00:00:37.741Z - success: jsb-adapter unloaded
+2018-10-30T00:00:37.741Z - success: jsb-adapter unloaded
+2018-10-30T00:00:37.741Z - success: jsb-adapter unloaded
+2018-10-30T00:00:37.741Z - success: jsb-adapter unloaded
+2018-10-30T00:00:37.742Z - success: jsb-adapter unloaded
+2018-10-30T00:00:37.742Z - success: jsb-adapter unloaded
+2018-10-30T00:00:37.795Z - success: jsb-adapter loaded
+2018-10-30T00:00:37.795Z - success: jsb-adapter loaded
+2018-10-30T00:00:37.795Z - success: jsb-adapter loaded
+2018-10-30T00:00:37.795Z - success: jsb-adapter loaded
+2018-10-30T00:00:37.795Z - success: jsb-adapter loaded
+2018-10-30T00:00:37.795Z - success: jsb-adapter loaded
+2018-10-30T00:00:37.795Z - success: jsb-adapter loaded
+2018-10-30T00:00:37.795Z - success: jsb-adapter loaded
+2018-10-30T00:00:37.795Z - success: jsb-adapter loaded
+2018-10-30T00:00:37.795Z - success: jsb-adapter loaded
+2018-10-30T00:00:37.812Z - normal: Built to "C:\Users\thoma\Documents\GitHub\GalaxyEscape\build\jsb-link" successfully
+2018-10-30T00:00:37.844Z - success: jsb-adapter unloaded
+2018-10-30T00:00:37.844Z - success: jsb-adapter loaded
+2018-10-30T00:09:31.095Z - normal: Start to compile native project. Please wait...
+2018-10-30T00:09:31.096Z - normal: The log file path [ C:\Users\thoma\.CocosCreator\logs\native.log ]
+2018-10-30T00:11:41.065Z - normal: Compile native project successfully.

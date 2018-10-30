@@ -2,7 +2,7 @@
 cc._RF.push(module, 'dfd99H/VBlMXI/2kgAWZlsc', 'MenuCtrl', __filename);
 // Scripts/MenuCtrl.js
 
-'use strict';
+"use strict";
 
 // Learn cc.Class:
 //  - [Chinese] http://docs.cocos.com/creator/manual/zh/scripting/class.html
@@ -29,6 +29,36 @@ cc.Class({
         ajustes: {
             default: null,
             type: cc.Button
+        },
+        closecred: {
+            default: null,
+            type: cc.Button
+        },
+        onmusic: {
+            default: null,
+            type: cc.Button
+        },
+        offmusic: {
+            default: null,
+            type: cc.Button
+        },
+        abacred: {
+            default: null,
+            type: cc.Node
+        },
+
+        guiaaluno: {
+            default: null,
+            type: cc.Button
+        },
+        musica: {
+            default: null,
+            type: cc.AudioSource
+        },
+
+        guiaprofessor: {
+            default: null,
+            type: cc.Button
         }
         // foo: {
         //     // ATTRIBUTES:
@@ -47,13 +77,30 @@ cc.Class({
         // },
     },
 
+    onLoad: function onLoad() {
+        this.abacred.active = false;
+    },
+
     onStartActivated: function onStartActivated() {
         cc.director.loadScene('TelaPlanetas');
     },
 
-    onCreditosActivated: function onCreditosActivated() {},
+    onCreditosActivated: function onCreditosActivated() {
+        this.abacred.active = true;
+    },
 
-    onAjustesActivated: function onAjustesActivated() {}
+    onAjustesActivated: function onAjustesActivated() {},
+
+    onClosecredActivated: function onClosecredActivated() {
+        this.abacred.active = false;
+    },
+    onGuiaAlunoActivated: function onGuiaAlunoActivated() {
+        cc.sys.openURL("https://drive.google.com/open?id=1Y8zqv9yPHJSZ6lQjtFvYeKoMEZFWljHE");
+    },
+    onGuiaProfessorActivated: function onGuiaProfessorActivated() {
+        cc.sys.openURL("https://drive.google.com/open?id=16JPi1OeF4Rg-slXwVU92UFQ84yyHMZFk");
+    }
+
 });
 
 cc._RF.pop();

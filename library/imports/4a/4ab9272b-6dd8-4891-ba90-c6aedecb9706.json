@@ -1,0 +1,45 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "foguetecenaprincipal",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 6,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": "1",
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            300,
+            393
+          ]
+        },
+        {
+          "frame": 5,
+          "value": [
+            1266,
+            1061
+          ]
+        },
+        {
+          "frame": 6,
+          "value": [
+            1449,
+            1188
+          ]
+        }
+      ]
+    },
+    "paths": {
+      "fogueteintro-8": {
+        "props": {
+          "scale": []
+        }
+      }
+    }
+  },
+  "events": []
+}

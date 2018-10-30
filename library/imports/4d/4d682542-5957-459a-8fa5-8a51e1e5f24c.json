@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "marte_label-8",
+    "texture": "02604e59-3e19-43b2-bc9a-e654fa6e5400",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      137,
+      35
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      137,
+      35
+    ]
+  }
+}

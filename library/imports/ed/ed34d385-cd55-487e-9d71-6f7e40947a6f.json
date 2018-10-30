@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "massamarte",
+    "texture": "7df2de8a-d2d4-4a82-871c-e228f1cb7e74",
+    "atlas": "",
+    "rect": [
+      27,
+      0,
+      212,
+      72
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      265,
+      72
+    ]
+  }
+}

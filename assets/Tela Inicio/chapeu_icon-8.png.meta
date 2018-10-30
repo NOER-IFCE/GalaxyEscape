@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "19c9cf1c-4cb2-47eb-9904-4b65a0860705",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "chapeu_icon-8": {
+      "ver": "1.0.3",
+      "uuid": "4ed528f2-4732-44ed-b440-c81dc80ad0cf",
+      "rawTextureUuid": "19c9cf1c-4cb2-47eb-9904-4b65a0860705",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 68,
+      "height": 49,
+      "rawWidth": 68,
+      "rawHeight": 49,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

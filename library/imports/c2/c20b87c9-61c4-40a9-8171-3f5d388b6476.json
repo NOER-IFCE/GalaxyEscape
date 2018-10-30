@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "planetaterra-8",
+    "texture": "ba776645-a5cf-4538-9f55-82a109c6ebe1",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      64,
+      66
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      64,
+      66
+    ]
+  }
+}

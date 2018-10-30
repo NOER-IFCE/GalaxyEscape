@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chapeu_icon-8",
+    "texture": "19c9cf1c-4cb2-47eb-9904-4b65a0860705",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      68,
+      49
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      68,
+      49
+    ]
+  }
+}

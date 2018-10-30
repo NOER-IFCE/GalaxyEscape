@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Nuvem2-8",
+    "texture": "c71c621b-d741-4a47-b67d-04dc829b135c",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      1480,
+      684
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1480,
+      684
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guias_dicas-8",
+    "texture": "33223290-a11c-4a4d-8738-01998eba6348",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      904,
+      478
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      904,
+      478
+    ]
+  }
+}

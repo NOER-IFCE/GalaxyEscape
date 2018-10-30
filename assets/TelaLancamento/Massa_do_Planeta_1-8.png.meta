@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "482db648-872c-4646-b0b1-6da6d08b5dd3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Massa_do_Planeta_1-8": {
+      "ver": "1.0.3",
+      "uuid": "2eb570bc-ef50-4286-8d33-65fa41a5744f",
+      "rawTextureUuid": "482db648-872c-4646-b0b1-6da6d08b5dd3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 27,
+      "trimY": 0,
+      "width": 212,
+      "height": 72,
+      "rawWidth": 265,
+      "rawHeight": 72,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

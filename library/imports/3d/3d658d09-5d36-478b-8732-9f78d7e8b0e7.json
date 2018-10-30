@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Raio_do_Planeta_1-8",
+    "texture": "4889c650-7890-419b-8830-d60ef38e1ee6",
+    "atlas": "",
+    "rect": [
+      27,
+      0,
+      212,
+      72
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      265,
+      72
+    ]
+  }
+}

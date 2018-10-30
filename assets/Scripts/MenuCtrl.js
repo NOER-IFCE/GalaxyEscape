@@ -24,6 +24,36 @@ cc.Class({
             default: null,
             type: cc.Button
         },
+        closecred: {
+            default: null,
+            type: cc.Button
+        },
+        onmusic: {
+            default: null,
+            type: cc.Button
+        },
+        offmusic: {
+            default: null,
+            type: cc.Button
+        },
+        abacred: {
+            default: null,
+            type: cc.Node
+        },
+
+        guiaaluno: {
+            default: null,
+            type: cc.Button
+        },
+        musica: {
+            default: null,
+            type: cc.AudioSource
+        },
+        
+        guiaprofessor: {
+            default: null,
+            type: cc.Button
+        },
         // foo: {
         //     // ATTRIBUTES:
         //     default: null,        // The default value will be used only when the component attaching
@@ -41,16 +71,32 @@ cc.Class({
         // },
     },
 
+    onLoad: function(){
+        this.abacred.active = false;
+    },
+
     onStartActivated: function(){
         cc.director.loadScene('TelaPlanetas')
 
     },
 
     onCreditosActivated:function(){
-
+        this.abacred.active = true;
     },
 
     onAjustesActivated:function(){
 
     },
+
+    onClosecredActivated: function(){
+        this.abacred.active = false;
+    },
+    onGuiaAlunoActivated: function(){
+        cc.sys.openURL("https://drive.google.com/open?id=1Y8zqv9yPHJSZ6lQjtFvYeKoMEZFWljHE");
+
+    },
+    onGuiaProfessorActivated: function(){
+        cc.sys.openURL("https://drive.google.com/open?id=16JPi1OeF4Rg-slXwVU92UFQ84yyHMZFk");
+    },
+
 });

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "velocidadeinsuf-100",
+    "texture": "c6313697-2556-4dc4-9e3f-79b28eeafc95",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      372,
+      130
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      372,
+      130
+    ]
+  }
+}

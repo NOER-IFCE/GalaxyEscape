@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guia_aluno-8",
+    "texture": "84af0d0c-6706-4c47-acaf-a4df1bd761c3",
+    "atlas": "",
+    "rect": [
+      41,
+      0,
+      328,
+      39
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      408,
+      39
+    ]
+  }
+}

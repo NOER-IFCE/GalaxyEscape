@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "raiomarte",
+    "texture": "f86f96fa-ed10-4b07-b949-a06076b1efc3",
+    "atlas": "",
+    "rect": [
+      27,
+      0,
+      212,
+      72
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      265,
+      72
+    ]
+  }
+}

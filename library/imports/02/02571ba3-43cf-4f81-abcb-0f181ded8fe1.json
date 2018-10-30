@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "fogueteintro-8",
+    "texture": "b9dfc3dd-2030-4f44-93de-1e5245e1955e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      135,
+      138
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      135,
+      138
+    ]
+  }
+}

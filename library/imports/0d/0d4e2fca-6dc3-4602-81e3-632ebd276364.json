@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Sol_back-8",
+    "texture": "310674e9-afde-4e77-8e00-ebbd0532db9e",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      69,
+      73
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      69,
+      73
+    ]
+  }
+}

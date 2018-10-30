@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_orelha64",
+    "texture": "733f62ba-ab87-40da-bb21-fe9b6d16b98f",
+    "atlas": "",
+    "rect": [
+      13,
+      1,
+      39,
+      62
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      64,
+      64
+    ]
+  }
+}

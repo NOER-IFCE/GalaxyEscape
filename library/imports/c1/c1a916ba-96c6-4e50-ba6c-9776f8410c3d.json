@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guia_professor-8",
+    "texture": "4f019cf9-ccd4-44fe-b66f-2391ffaeaefd",
+    "atlas": "",
+    "rect": [
+      41,
+      0,
+      328,
+      39
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      408,
+      39
+    ]
+  }
+}

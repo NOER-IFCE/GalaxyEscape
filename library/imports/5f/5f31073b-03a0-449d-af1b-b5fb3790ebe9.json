@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "foguete_icon-8",
+    "texture": "860e6970-9003-4656-bba2-1a610c394cf3",
+    "atlas": "",
+    "rect": [
+      3,
+      0,
+      55,
+      58
+    ],
+    "offset": [
+      1.5,
+      1.5
+    ],
+    "originalSize": [
+      58,
+      61
+    ]
+  }
+}

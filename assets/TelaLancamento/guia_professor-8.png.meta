@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "4f019cf9-ccd4-44fe-b66f-2391ffaeaefd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "guia_professor-8": {
+      "ver": "1.0.3",
+      "uuid": "c1a916ba-96c6-4e50-ba6c-9776f8410c3d",
+      "rawTextureUuid": "4f019cf9-ccd4-44fe-b66f-2391ffaeaefd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 0,
+      "trimX": 41,
+      "trimY": 0,
+      "width": 328,
+      "height": 39,
+      "rawWidth": 408,
+      "rawHeight": 39,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

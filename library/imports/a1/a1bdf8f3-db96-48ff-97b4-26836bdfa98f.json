@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "abrir_2-8",
+    "texture": "6d6d9976-a750-4232-b05e-7545d9ba541a",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      68,
+      65
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      68,
+      66
+    ]
+  }
+}

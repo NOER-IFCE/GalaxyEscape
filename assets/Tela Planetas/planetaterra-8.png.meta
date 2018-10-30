@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "ba776645-a5cf-4538-9f55-82a109c6ebe1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "planetaterra-8": {
+      "ver": "1.0.3",
+      "uuid": "c20b87c9-61c4-40a9-8171-3f5d388b6476",
+      "rawTextureUuid": "ba776645-a5cf-4538-9f55-82a109c6ebe1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 64,
+      "height": 66,
+      "rawWidth": 64,
+      "rawHeight": 66,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

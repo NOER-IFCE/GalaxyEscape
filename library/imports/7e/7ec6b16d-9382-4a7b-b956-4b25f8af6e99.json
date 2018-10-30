@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Iniciar-8",
+    "texture": "89a72e32-1ba4-4737-a0aa-d66bb51ead08",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      352,
+      104
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      354,
+      108
+    ]
+  }
+}

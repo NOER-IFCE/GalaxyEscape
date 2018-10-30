@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "creditos-8",
+    "texture": "00b190db-7dbd-463a-b99a-cd6f92f275ef",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      682,
+      414
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      682,
+      414
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Massa_do_Planeta_1-8",
+    "texture": "482db648-872c-4646-b0b1-6da6d08b5dd3",
+    "atlas": "",
+    "rect": [
+      27,
+      0,
+      212,
+      72
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      265,
+      72
+    ]
+  }
+}

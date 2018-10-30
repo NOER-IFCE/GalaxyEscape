@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Marte-8",
+    "texture": "48d66df4-f958-4cab-8f0b-1664b7a7b201",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      210,
+      210
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      210,
+      210
+    ]
+  }
+}

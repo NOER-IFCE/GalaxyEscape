@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Creditos_f-8",
+    "texture": "ab41b0d2-4556-449e-bbaf-934575cdf1ad",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      352,
+      104
+    ],
+    "offset": [
+      1,
+      0
+    ],
+    "originalSize": [
+      354,
+      108
+    ]
+  }
+}

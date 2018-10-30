@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "guiaaba",
+    "texture": "5ecb947f-a3c7-40dc-9f42-3392bc7d13b5",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      904,
+      478
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      904,
+      478
+    ]
+  }
+}

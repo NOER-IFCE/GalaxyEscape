@@ -18,23 +18,23 @@
                 "children": [
                   "hierarchy"
                 ],
-                "height": 491,
+                "height": 476,
                 "type": "panel",
-                "width": 339
+                "width": 515
               },
               {
                 "active": 0,
                 "children": [
                   "assets"
                 ],
-                "height": 434,
+                "height": 449,
                 "type": "panel",
-                "width": 339
+                "width": 515
               }
             ],
             "height": 928,
             "type": "dock-v",
-            "width": 339
+            "width": 515
           },
           {
             "children": [
@@ -45,23 +45,23 @@
                     "children": [
                       "scene"
                     ],
-                    "height": 659,
+                    "height": 484.984375,
                     "type": "panel",
-                    "width": 877
+                    "width": 799
                   },
                   {
                     "active": 0,
                     "children": [
                       "node-library"
                     ],
-                    "height": 659,
+                    "height": 484.984375,
                     "type": "panel",
-                    "width": 385
+                    "width": 287
                   }
                 ],
-                "height": 659,
+                "height": 484.984375,
                 "type": "dock-h",
-                "width": 1265
+                "width": 1089
               },
               {
                 "active": 0,
@@ -69,14 +69,14 @@
                   "console",
                   "timeline"
                 ],
-                "height": 266,
+                "height": 440,
                 "type": "panel",
-                "width": 1265
+                "width": 1089
               }
             ],
             "height": 928,
             "type": "dock-v",
-            "width": 1265
+            "width": 1089
           },
           {
             "active": 0,
@@ -99,12 +99,13 @@
         "assets",
         "scene"
       ]
-    }
+    },
+    "window-1540857610934": {}
   },
   "panels": {
     "builder": {
-      "x": 702,
-      "y": 140,
+      "x": 1008,
+      "y": 167,
       "width": 516,
       "height": 739
     },
@@ -143,6 +144,24 @@
       "y": 190,
       "width": 816,
       "height": 639
+    },
+    "hierarchy": {
+      "x": 852,
+      "y": 290,
+      "width": 220,
+      "height": 439
+    },
+    "assets": {
+      "x": -121,
+      "y": 167,
+      "width": 974,
+      "height": 1047
+    },
+    "keystore": {
+      "x": 73,
+      "y": 99,
+      "width": 516,
+      "height": 705
     }
   }
 }

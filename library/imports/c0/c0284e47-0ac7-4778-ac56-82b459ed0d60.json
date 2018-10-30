@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "terra_label-8",
+    "texture": "3ceedd2f-d738-4af2-8622-559496344b22",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      185,
+      47
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      185,
+      47
+    ]
+  }
+}
