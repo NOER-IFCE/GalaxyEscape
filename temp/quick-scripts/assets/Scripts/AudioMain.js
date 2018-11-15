@@ -18,16 +18,16 @@ cc.Class({
     extends: cc.Component,
 
     properties: {
-
+        //declarando node
         audioSource: {
             default: null,
             type: cc.AudioSource
         }
 
     },
-
+    //função onload apenas dispara ao inicializar.
     onLoad: function onLoad() {},
-
+    //função para tocar música recebe variável audiosource e executa a rotina "play"
     play: function play() {
         this.audioSource.play();
     }

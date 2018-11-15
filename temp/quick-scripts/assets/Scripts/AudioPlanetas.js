@@ -24,27 +24,25 @@ cc.Class({
         }
     },
 
-    // use this for initialization
-    onLoad: function onLoad() {
-        // cc.audioEngine.setMaxWebAudioSize(1024*10);
-    },
-
+    // função de inicialização
+    onLoad: function onLoad() {},
+    //a cada frame essa função é chamada
     update: function update() {
         var audio = this.audioSource;
     },
-
+    //função play do audio
     play: function play() {
         this.audioSource.play();
     },
-
+    //função pause do audio
     pause: function pause() {
         this.audioSource.pause();
     },
-
+    //função parada do audio
     stop: function stop() {
         this.audioSource.stop();
     },
-
+    //função retomar do audio
     resume: function resume() {
         this.audioSource.resume();
     }

@@ -8,7 +8,7 @@ cc.Class({
     extends: cc.Component,
 
     properties: {
-
+        //declaração de nodes/variáveis.
         aumentar: {
             default: null,
             type: cc.Button
@@ -61,12 +61,13 @@ cc.Class({
         }
 
     },
-
+    //função de inicialização a aba guias e resultadovelocinsuf iniciam desabilitadas.
     onLoad: function onLoad() {
         this.guias.active = false;
         this.ResultadoVelocInsuf.active = false;
     },
 
+    //incrementador adiciona +1 a variável
     onAddButtonClick: function onAddButtonClick() {
         this.massa += 1;
         if (this.massa > 20) {
@@ -76,7 +77,7 @@ cc.Class({
             this.massaText.string = this.massa.toString();
         }
     },
-
+    //decrementador remove -1 da variável massa
     onRemoveButtonClick: function onRemoveButtonClick() {
         this.massa -= 1;
         if (this.massa < 1) {
@@ -87,22 +88,27 @@ cc.Class({
         }
     },
 
+    //ativar a aba guia
     onGuiaButtonClick: function onGuiaButtonClick() {
         this.guias.active = true;
     },
 
+    //desativar aba guia
     onGuiaHideButtonClick: function onGuiaHideButtonClick() {
         this.guias.active = false;
     },
 
+    //desativar aba instrução
     onInstrucaoHideButtonClick: function onInstrucaoHideButtonClick() {
         this.instrucao.active = false;
     },
 
+    //botão para retornar a tela dos planetas
     onReturnButtonClick: function onReturnButtonClick() {
         cc.director.loadScene('TelaPlanetas');
     },
 
+    //botão para fechar aba de aviso de velocidade insuficiente
     onFecharResultClick: function onFecharResultClick() {
         this.ResultadoVelocInsuf.active = false;
     }

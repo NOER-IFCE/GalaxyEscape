@@ -18,27 +18,27 @@ cc.Class({
         },
     },
 
-    // use this for initialization
+    // função de inicialização
     onLoad: function () {
-        // cc.audioEngine.setMaxWebAudioSize(1024*10);
+
     },
-    
+    //a cada frame essa função é chamada
     update: function () { 
         var audio = this.audioSource;
     },
-    
+    //função play do audio
     play: function () {
         this.audioSource.play();
     },
-    
+    //função pause do audio
     pause: function () {
         this.audioSource.pause();
     },
-    
+    //função parada do audio
     stop: function () {
         this.audioSource.stop();
     },
-    
+    //função retomar do audio
     resume: function () {
         this.audioSource.resume();
     }

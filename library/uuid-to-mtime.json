@@ -899,11 +899,6 @@
     "meta": 1538072120567,
     "relativePath": "Texture\\Asset 31-8.png"
   },
-  "fa2cf5c0-1a6d-4060-8105-0bc75b267a03": {
-    "asset": 1538074109006,
-    "meta": 1538074110063,
-    "relativePath": "Scripts\\ButtonCtrl.js"
-  },
   "6d29dea1-2316-4be3-a0c2-39bd2c5d5f68": {
     "asset": 1539722697910,
     "meta": 1539722698762,
@@ -1169,16 +1164,6 @@
     "meta": 1539885945501,
     "relativePath": "Scripts\\MenuCtrl.js"
   },
-  "9de8c941-366c-42ae-b456-d374d7db0518": {
-    "asset": 1539887280670,
-    "meta": 1539887284659,
-    "relativePath": "Scripts\\AudioMain.js"
-  },
-  "c65f43c6-5655-4c4c-8995-cdf51601344e": {
-    "asset": 1539887815932,
-    "meta": 1539887823519,
-    "relativePath": "Scripts\\AudioPlanetas.js"
-  },
   "a39fd4f7-07fd-47ac-a2f7-217734943346": {
     "asset": 1539888823219,
     "meta": 1539888823249,
@@ -1284,16 +1269,6 @@
     "meta": 1540772650972,
     "relativePath": "Animation\\foguete_anim_lancamento_MarteExcesso.anim"
   },
-  "06d48518-416d-4c59-894d-1f3002074bef": {
-    "asset": 1540772888825,
-    "meta": 1540772890222,
-    "relativePath": "Scripts\\LaunchScript.js"
-  },
-  "04ae87ae-323f-45ec-bf39-8ada62798fa5": {
-    "asset": 1540773482377,
-    "meta": 1540773483229,
-    "relativePath": "Scripts\\FogueteAnim.js"
-  },
   "59063bfb-7049-4dd3-96fc-861f674d385a": {
     "asset": 1540774511837,
     "meta": 1540774511890,
@@ -1358,5 +1333,30 @@
     "asset": 1540853662883,
     "meta": 1540853663030,
     "relativePath": "Audio\\Cena1.m4a"
+  },
+  "9de8c941-366c-42ae-b456-d374d7db0518": {
+    "asset": 1540860888782,
+    "meta": 1540860890257,
+    "relativePath": "Scripts\\AudioMain.js"
+  },
+  "c65f43c6-5655-4c4c-8995-cdf51601344e": {
+    "asset": 1540860955157,
+    "meta": 1540860956756,
+    "relativePath": "Scripts\\AudioPlanetas.js"
+  },
+  "fa2cf5c0-1a6d-4060-8105-0bc75b267a03": {
+    "asset": 1540861095847,
+    "meta": 1540861097365,
+    "relativePath": "Scripts\\ButtonCtrl.js"
+  },
+  "04ae87ae-323f-45ec-bf39-8ada62798fa5": {
+    "asset": 1540861215034,
+    "meta": 1540861217484,
+    "relativePath": "Scripts\\FogueteAnim.js"
+  },
+  "06d48518-416d-4c59-894d-1f3002074bef": {
+    "asset": 1540861334147,
+    "meta": 1540861335984,
+    "relativePath": "Scripts\\LaunchScript.js"
   }
 }

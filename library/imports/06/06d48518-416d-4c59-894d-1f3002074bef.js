@@ -43,7 +43,7 @@ cc.Class({
         G: 6.673e-11
     },
 
-    // use this for initialization
+    //inicializa com aba de velocidade insuficiente desativada.
     onLoad: function onLoad() {
         this.VelociadeInsuf.active = false;
     },
@@ -59,6 +59,8 @@ cc.Class({
         this.vescape = 11.2;
 
         //this.Resultado.string = this.velocidadedofoguete + 'km/s';
+
+        //IF chain de comparação entre duas variáveis vescape e velocidade do foguete dependendo do resultado irá levar para uma tela diferente.
         if (this.velocidadedofoguete >= this.vescape - this.erro && this.velocidadedofoguete <= this.vescape + this.erro) {
             //this.Resultado.string = ("Lançamento com velocidade suficiente para escapar da órbita. Muito bem!");
             cc.director.loadScene('TerraAnim');
@@ -67,6 +69,8 @@ cc.Class({
             //this.Resultado.string = ("Lançamento com velocidade excessiva, gasto desnecessário de combustível");
             cc.director.loadScene('TerraAnimExcessiva');
             //cc.director.loadScene('TelaDeResultadoTerraExcessiva');
+
+            //se a velocidade do foguete for menor que a da orbita logo a aba de velocidaade insuficiente é ativada.
         } else if (this.velocidadedofoguete < this.vorbita) {
             this.VelociadeInsuf.active = true;
         } else if (this.velocidadedofoguete >= this.vorbita && this.velocidadedofoguete < this.vescape) {

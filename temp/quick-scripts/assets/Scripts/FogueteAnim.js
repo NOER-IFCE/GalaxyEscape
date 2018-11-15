@@ -46,6 +46,7 @@ cc.Class({
 
     onLoad: function onLoad() {},
 
+    //direciona as telas de resultados
     lancamentoTerra: function lancamentoTerra() {
         cc.director.loadScene('TelaDeResultadoTerra');
     },

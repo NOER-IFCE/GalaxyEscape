@@ -1087,3 +1087,4 @@ Missing uuid: "a4bfe884-66a1-4796-bae1-b4ec3b9f288b"
 2018-10-30T00:09:31.095Z - normal: Start to compile native project. Please wait...
 2018-10-30T00:09:31.096Z - normal: The log file path [ C:\Users\thoma\.CocosCreator\logs\native.log ]
 2018-10-30T00:11:41.065Z - normal: Compile native project successfully.
+2018-10-30T01:06:05.314Z - info: shutdown preview server
